@@ -1,0 +1,1671 @@
+﻿Log file open, 10/09/21 17:35:22
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: SpacRecreationGame
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 7.269908
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-17155196
+LogInit: Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD Ryzen 7 3700X 8-Core Processor             , GPU: NVIDIA GeForce GTX 1080 Ti
+LogInit: Compiled (64-bit): Aug 13 2021 06:13:13
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line: 
+LogInit: Base Directory: G:/Epic Games/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Owner/OneDrive/Documents/GitHub/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.10.09-21.35.33:039][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.10.09-21.35.33:039][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.10.09-21.35.33:040][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Owner/OneDrive/Documents/GitHub/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Saved/Config/Windows/Engine.ini]
+[2021.10.09-21.35.33:040][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.10.09-21.35.33:040][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Owner/OneDrive/Documents/GitHub/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Saved/Config/Windows/Engine.ini]
+[2021.10.09-21.35.33:040][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Owner/OneDrive/Documents/GitHub/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Saved/Config/Windows/Engine.ini]
+[2021.10.09-21.35.33:040][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.10.09-21.35.33:040][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.10.09-21.35.33:040][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.10.09-21.35.33:040][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.10.09-21.35.33:040][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.10.09-21.35.33:040][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.10.09-21.35.33:040][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.10.09-21.35.33:040][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.10.09-21.35.33:040][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.10.09-21.35.33:040][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.10.09-21.35.33:040][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.10.09-21.35.33:040][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.10.09-21.35.33:040][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.10.09-21.35.33:040][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.10.09-21.35.33:040][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Owner/OneDrive/Documents/GitHub/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Saved/Config/Windows/Engine.ini]
+[2021.10.09-21.35.33:040][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.10.09-21.35.33:040][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.10.09-21.35.33:040][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.10.09-21.35.33:040][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.10.09-21.35.33:040][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.10.09-21.35.33:040][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.10.09-21.35.33:040][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.10.09-21.35.33:040][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.10.09-21.35.33:040][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.10.09-21.35.33:040][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.10.09-21.35.33:040][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.10.09-21.35.33:040][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.10.09-21.35.33:040][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.10.09-21.35.33:040][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.10.09-21.35.33:040][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Owner/OneDrive/Documents/GitHub/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Saved/Config/Windows/Engine.ini]
+[2021.10.09-21.35.33:040][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Owner/OneDrive/Documents/GitHub/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Saved/Config/Windows/Engine.ini]
+[2021.10.09-21.35.33:078][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Owner/OneDrive/Documents/GitHub/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Saved/Config/Windows/Scalability.ini]
+[2021.10.09-21.35.33:078][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.10.09-21.35.33:078][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.10.09-21.35.33:078][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Owner/OneDrive/Documents/GitHub/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Saved/Config/Windows/Scalability.ini]
+[2021.10.09-21.35.33:078][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.10.09-21.35.33:078][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Owner/OneDrive/Documents/GitHub/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Saved/Config/Windows/Scalability.ini]
+[2021.10.09-21.35.33:078][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.10.09-21.35.33:078][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.10.09-21.35.33:078][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.10.09-21.35.33:078][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.10.09-21.35.33:078][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.10.09-21.35.33:078][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.10.09-21.35.33:078][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.10.09-21.35.33:078][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.10.09-21.35.33:078][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.10.09-21.35.33:078][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.10.09-21.35.33:078][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.10.09-21.35.33:078][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.10.09-21.35.33:078][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.10.09-21.35.33:078][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.10.09-21.35.33:078][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.10.09-21.35.33:078][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.10.09-21.35.33:078][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.10.09-21.35.33:078][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.10.09-21.35.33:078][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Owner/OneDrive/Documents/GitHub/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Saved/Config/Windows/Scalability.ini]
+[2021.10.09-21.35.33:078][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.10.09-21.35.33:078][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.10.09-21.35.33:078][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.10.09-21.35.33:078][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.10.09-21.35.33:078][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.10.09-21.35.33:078][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.10.09-21.35.33:078][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.10.09-21.35.33:078][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.10.09-21.35.33:078][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.10.09-21.35.33:079][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.10.09-21.35.33:079][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.10.09-21.35.33:079][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.10.09-21.35.33:079][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.10.09-21.35.33:079][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.10.09-21.35.33:079][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.10.09-21.35.33:079][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.10.09-21.35.33:079][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.10.09-21.35.33:079][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.10.09-21.35.33:079][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.10.09-21.35.33:079][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.10.09-21.35.33:079][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.10.09-21.35.33:079][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.10.09-21.35.33:079][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.10.09-21.35.33:079][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.10.09-21.35.33:079][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.10.09-21.35.33:079][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.10.09-21.35.33:079][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.10.09-21.35.33:079][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.10.09-21.35.33:079][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.10.09-21.35.33:079][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.10.09-21.35.33:079][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Owner/OneDrive/Documents/GitHub/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Saved/Config/Windows/Scalability.ini]
+[2021.10.09-21.35.33:079][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.10.09-21.35.33:079][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.10.09-21.35.33:079][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.10.09-21.35.33:079][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.10.09-21.35.33:079][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.10.09-21.35.33:079][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.10.09-21.35.33:079][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.10.09-21.35.33:079][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.10.09-21.35.33:079][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.10.09-21.35.33:079][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Owner/OneDrive/Documents/GitHub/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Saved/Config/Windows/Scalability.ini]
+[2021.10.09-21.35.33:079][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.10.09-21.35.33:079][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.10.09-21.35.33:079][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.10.09-21.35.33:079][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.10.09-21.35.33:079][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.10.09-21.35.33:079][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.10.09-21.35.33:079][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.10.09-21.35.33:079][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.10.09-21.35.33:079][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.10.09-21.35.33:079][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.10.09-21.35.33:079][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.10.09-21.35.33:079][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.10.09-21.35.33:079][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.10.09-21.35.33:079][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.10.09-21.35.33:079][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.10.09-21.35.33:079][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.10.09-21.35.33:079][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.10.09-21.35.33:079][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.10.09-21.35.33:079][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.10.09-21.35.33:079][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.10.09-21.35.33:079][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.10.09-21.35.33:079][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.10.09-21.35.33:079][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.10.09-21.35.33:079][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.10.09-21.35.33:079][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.10.09-21.35.33:079][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.10.09-21.35.33:079][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.10.09-21.35.33:079][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2021.10.09-21.35.33:079][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Owner/OneDrive/Documents/GitHub/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Saved/Config/Windows/Scalability.ini]
+[2021.10.09-21.35.33:079][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.10.09-21.35.33:079][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.10.09-21.35.33:079][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Owner/OneDrive/Documents/GitHub/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Saved/Config/Windows/Scalability.ini]
+[2021.10.09-21.35.33:079][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.10.09-21.35.33:079][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.10.09-21.35.33:079][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.10.09-21.35.33:098][  0]LogInit: Selected Device Profile: [Windows]
+[2021.10.09-21.35.33:098][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.10.09-21.35.33:101][  0]LogHAL: Display: Platform has ~ 16 GB [17086140416 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.10.09-21.35.33:102][  0]LogInit: Going up to parent DeviceProfile []
+[2021.10.09-21.35.33:102][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Owner/OneDrive/Documents/GitHub/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Saved/Config/Windows/Scalability.ini]
+[2021.10.09-21.35.33:102][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.10.09-21.35.33:102][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.10.09-21.35.33:102][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Owner/OneDrive/Documents/GitHub/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Saved/Config/Windows/Scalability.ini]
+[2021.10.09-21.35.33:102][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.10.09-21.35.33:102][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Owner/OneDrive/Documents/GitHub/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Saved/Config/Windows/Scalability.ini]
+[2021.10.09-21.35.33:102][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.10.09-21.35.33:102][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.10.09-21.35.33:102][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.10.09-21.35.33:102][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.10.09-21.35.33:102][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.10.09-21.35.33:102][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.10.09-21.35.33:102][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.10.09-21.35.33:102][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.10.09-21.35.33:102][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.10.09-21.35.33:102][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.10.09-21.35.33:102][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.10.09-21.35.33:102][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.10.09-21.35.33:102][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.10.09-21.35.33:102][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.10.09-21.35.33:102][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.10.09-21.35.33:102][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.10.09-21.35.33:102][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.10.09-21.35.33:102][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.10.09-21.35.33:102][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Owner/OneDrive/Documents/GitHub/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Saved/Config/Windows/Scalability.ini]
+[2021.10.09-21.35.33:102][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.10.09-21.35.33:102][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.10.09-21.35.33:102][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.10.09-21.35.33:102][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.10.09-21.35.33:102][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.10.09-21.35.33:102][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.10.09-21.35.33:102][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.10.09-21.35.33:102][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.10.09-21.35.33:102][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.10.09-21.35.33:102][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.10.09-21.35.33:102][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.10.09-21.35.33:102][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.10.09-21.35.33:102][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.10.09-21.35.33:102][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.10.09-21.35.33:102][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.10.09-21.35.33:102][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.10.09-21.35.33:102][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.10.09-21.35.33:102][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.10.09-21.35.33:102][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.10.09-21.35.33:102][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.10.09-21.35.33:102][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.10.09-21.35.33:102][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.10.09-21.35.33:102][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.10.09-21.35.33:102][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.10.09-21.35.33:102][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.10.09-21.35.33:102][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.10.09-21.35.33:102][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.10.09-21.35.33:102][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.10.09-21.35.33:102][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.10.09-21.35.33:102][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.10.09-21.35.33:102][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Owner/OneDrive/Documents/GitHub/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Saved/Config/Windows/Scalability.ini]
+[2021.10.09-21.35.33:102][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.10.09-21.35.33:102][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.10.09-21.35.33:102][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.10.09-21.35.33:102][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.10.09-21.35.33:102][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.10.09-21.35.33:102][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.10.09-21.35.33:102][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.10.09-21.35.33:102][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.10.09-21.35.33:102][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.10.09-21.35.33:102][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Owner/OneDrive/Documents/GitHub/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Saved/Config/Windows/Scalability.ini]
+[2021.10.09-21.35.33:102][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.10.09-21.35.33:102][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.10.09-21.35.33:102][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.10.09-21.35.33:102][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.10.09-21.35.33:102][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.10.09-21.35.33:102][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.10.09-21.35.33:102][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.10.09-21.35.33:102][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.10.09-21.35.33:102][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.10.09-21.35.33:102][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.10.09-21.35.33:102][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.10.09-21.35.33:102][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.10.09-21.35.33:102][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.10.09-21.35.33:102][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.10.09-21.35.33:102][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.10.09-21.35.33:103][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.10.09-21.35.33:103][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.10.09-21.35.33:103][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.10.09-21.35.33:103][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.10.09-21.35.33:103][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.10.09-21.35.33:103][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.10.09-21.35.33:103][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.10.09-21.35.33:103][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.10.09-21.35.33:103][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.10.09-21.35.33:103][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.10.09-21.35.33:103][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.10.09-21.35.33:103][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.10.09-21.35.33:103][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2021.10.09-21.35.33:103][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Owner/OneDrive/Documents/GitHub/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Saved/Config/Windows/Scalability.ini]
+[2021.10.09-21.35.33:103][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.10.09-21.35.33:103][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.10.09-21.35.33:103][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Owner/OneDrive/Documents/GitHub/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Saved/Config/Windows/Scalability.ini]
+[2021.10.09-21.35.33:103][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.10.09-21.35.33:103][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.10.09-21.35.33:103][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.10.09-21.35.33:103][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.10.09-21.35.33:122][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.10.09-21.35.33:122][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.10.09-21.35.33:122][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.10.09-21.35.33:122][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Owner/OneDrive/Documents/GitHub/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Saved/Config/Windows/Engine.ini]
+[2021.10.09-21.35.33:122][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Owner/OneDrive/Documents/GitHub/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Saved/Config/Windows/Editor.ini]
+[2021.10.09-21.35.33:123][  0]LogInit: Computer: DESKTOP-9FEQGGF
+[2021.10.09-21.35.33:123][  0]LogInit: User: Owner
+[2021.10.09-21.35.33:123][  0]LogInit: CPU Page size=4096, Cores=8
+[2021.10.09-21.35.33:123][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.10.09-21.35.33:123][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2021.10.09-21.35.33:123][  0]LogMemory: Platform Memory Stats for Windows
+[2021.10.09-21.35.33:123][  0]LogMemory: Process Physical Memory: 152.06 MB used, 152.07 MB peak
+[2021.10.09-21.35.33:123][  0]LogMemory: Process Virtual Memory: 131.20 MB used, 131.20 MB peak
+[2021.10.09-21.35.33:123][  0]LogMemory: Physical Memory: 12430.84 MB used,  3863.77 MB free, 16294.61 MB total
+[2021.10.09-21.35.33:123][  0]LogMemory: Virtual Memory: 134210960.00 MB used,  6768.52 MB free, 134217728.00 MB total
+[2021.10.09-21.35.33:128][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.10.09-21.35.35:129][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.10.09-21.35.35:185][  0]LogInit: Using OS detected language (en-US).
+[2021.10.09-21.35.35:185][  0]LogInit: Using OS detected locale (en-US).
+[2021.10.09-21.35.35:584][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.10.09-21.35.36:916][  0]LogInit: Setting process to per monitor DPI aware
+[2021.10.09-21.35.37:112][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.10.09-21.35.37:453][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.10.09-21.35.37:453][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.10.09-21.35.44:314][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2021.10.09-21.35.44:445][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.10.09-21.35.44:445][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.10.09-21.35.44:446][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.10.09-21.35.44:446][  0]LogD3D11RHI: D3D11 adapters:
+[2021.10.09-21.35.44:545][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080 Ti' (Feature Level 11_0)
+[2021.10.09-21.35.44:545][  0]LogD3D11RHI:       11127/0/8147 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2021.10.09-21.35.44:551][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.10.09-21.35.44:551][  0]LogD3D11RHI:       0/0/8147 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.10.09-21.35.44:551][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.10.09-21.35.44:583][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.10.09-21.35.44:591][  0]LogD3D11RHI:     GPU DeviceId: 0x1b06 (for the marketing name, search the web for "GPU Device Id")
+[2021.10.09-21.35.44:591][  0]LogWindows: EnumDisplayDevices:
+[2021.10.09-21.35.44:591][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080 Ti' (P:1 D:1)
+[2021.10.09-21.35.44:592][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080 Ti' (P:0 D:1)
+[2021.10.09-21.35.44:592][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080 Ti' (P:0 D:0)
+[2021.10.09-21.35.44:592][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080 Ti' (P:0 D:0)
+[2021.10.09-21.35.44:592][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.10.09-21.35.44:592][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080 Ti
+[2021.10.09-21.35.44:592][  0]LogD3D11RHI:   Driver Version: 466.47 (internal:27.21.14.6647, unified:466.47)
+[2021.10.09-21.35.44:592][  0]LogD3D11RHI:      Driver Date: 5-13-2021
+[2021.10.09-21.35.44:593][  0]LogRHI: Texture pool is 7788 MB (70% of 11127 MB)
+[2021.10.09-21.35.44:671][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.10.09-21.35.44:671][  0]LogD3D11RHI: Async texture creation enabled
+[2021.10.09-21.35.44:671][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.10.09-21.35.44:672][  0]LogD3D11RHI: HDR output is supported on display 0 (NvId: 0x80061085).
+[2021.10.09-21.35.45:146][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.10.09-21.35.45:651][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.10.09-21.35.46:909][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.10.09-21.35.46:966][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.10.09-21.35.46:966][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.10.09-21.35.46:966][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.10.09-21.35.46:966][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.10.09-21.35.46:966][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.10.09-21.35.46:966][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.10.09-21.35.46:966][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.10.09-21.35.46:966][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.10.09-21.35.46:966][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.10.09-21.35.46:966][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.10.09-21.35.47:196][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.10.09-21.35.47:196][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.10.09-21.35.47:398][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.10.09-21.35.47:418][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.10.09-21.35.47:485][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.10.09-21.35.47:519][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.10.09-21.35.47:562][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.10.09-21.35.47:606][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.10.09-21.35.47:648][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.10.09-21.35.47:738][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.10.09-21.35.47:738][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.10.09-21.35.47:807][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.10.09-21.35.47:840][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.10.09-21.35.47:878][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.10.09-21.35.47:916][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.10.09-21.35.47:956][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.10.09-21.35.47:956][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.10.09-21.35.47:992][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.10.09-21.35.48:028][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.10.09-21.35.48:070][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.10.09-21.35.48:100][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.10.09-21.35.48:100][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.10.09-21.35.48:516][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.10.09-21.35.49:972][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2021.10.09-21.35.51:182][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.10.09-21.35.51:238][  0]LogShaderCompilers: Guid format shader working directory is -59 characters bigger than the processId version (C:/Users/Owner/OneDrive/Documents/GitHub/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Intermediate/Shaders/WorkingDirectory/19760/).
+[2021.10.09-21.35.51:238][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Owner/AppData/Local/Temp/UnrealShaderWorkingDir/B1C703F74A79B1C82EB7D0B4E1211FB8/'.
+[2021.10.09-21.35.51:240][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2021.10.09-21.35.51:240][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.10.09-21.35.51:240][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.10.09-21.35.54:643][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.10.09-21.35.54:880][  0]LogDerivedDataCache: Loaded boot cache 0.24s 95MB C:/Users/Owner/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2021.10.09-21.35.54:880][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Owner/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2021.10.09-21.35.54:880][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/Owner/OneDrive/Documents/GitHub/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.10.09-21.35.54:880][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.10.09-21.35.54:880][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/Owner/OneDrive/Documents/GitHub/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.10.09-21.35.54:880][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.10.09-21.35.54:982][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.10.09-21.35.54:982][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.10.09-21.35.54:982][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.10.09-21.35.55:031][  0]LogDerivedDataCache: Speed tests for C:/Users/Owner/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.05 seconds
+[2021.10.09-21.35.55:031][  0]LogDerivedDataCache: Display: Performance to C:/Users/Owner/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.23ms. RandomReadSpeed=22.43MBs, RandomWriteSpeed=175.01MBs. Assigned SpeedClass 'Local'
+[2021.10.09-21.35.55:032][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Owner/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.10.09-21.35.55:032][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.10.09-21.35.55:032][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.10.09-21.35.55:099][  0]LogSlate: Using FreeType 2.10.0
+[2021.10.09-21.35.55:157][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.10.09-21.35.55:554][  0]LogAssetRegistry: FAssetRegistry took 0.0023 seconds to start up
+[2021.10.09-21.36.02:925][  0]LogInit: Selected Device Profile: [Windows]
+[2021.10.09-21.36.02:925][  0]LogInit: Active device profile: [000001B7FD392C00][000001B7FB498C80 49] Windows
+[2021.10.09-21.36.02:925][  0]LogInit: Profiles: [000001B7FD392C00][000001B7FB498C80 49] Windows, [000001B7FD31C600][000001B7FB49CF00 49] WindowsNoEditor, [000001B7FD31F200][000001B7FB4A1180 49] WindowsServer, [000001B7FD333E00][000001B7FB4A9440 49] WindowsClient, [000001B7FD392500][000001B7FB4AD700 49] IOS, [000001B7FD330300][000001B7FB4B19C0 49] iPadAir, [000001B7FD31F000][000001B7FB4B4100 49] iPadAir2, [000001B7FD2C4E00][000001B7FB4C8640 49] IPadPro, [000001B7FD2C4F00][000001B7FB4B8680 49] iPadAir3, [000001B7FD31FF00][000001B7FB4C0940 49] iPadAir4, [000001B7FD2C4500][000001B7FB4BCC00 49] iPadMini2, [000001B7FD31FC00][000001B7FB4C4EC0 49] iPadMini3, [000001B7FD2C5700][000001B7FB4A5140 49] iPadMini4, [000001B7FD31FE00][000001B7FB4CD3C0 49] iPadMini5, [000001B7FD333000][000001B7FD6B3900 49] iPhone6, [000001B7FD332F00][000001B7FB4D5940 49] iPodTouch6, [000001B7FD2C7C00][000001B7FD6BA300 49] iPhone7, [000001B7FD2C7B00][000001B7FB4DC340 49] iPodTouch7, [000001B7FD333100][000001B7FD6AE600 49] iPhone5S, [000001B7FD2C7E00][000001B7FB4D88C0 49] iPhone6Plus, [000001B7FD332800][000001B7FD6B6B80 49] iPhone6S, [000001B7FD2C7400][000001B7FD6BEE40 49] iPhone6SPlus, [000001B7FD330100][000001B7FD6C3100 49] iPhone7Plus, [000001B7FD2C4400][000001B7FB4D1380 49] iPhoneSE, [000001B7FD332400][000001B7FD6CB640 49] iPhone8, [000001B7FD2C7000][000001B7FD6CF900 49] iPhone8Plus, [000001B7FD330D00][000001B7FD6D3BC0 49] iPhoneX, [000001B7FD2C5A00][000001B7FD6D6300 49] iPhoneXS, [000001B7FD332100][000001B7FD6DA5C0 49] iPhoneXSMax, [000001B7FD2C4D00][000001B7FD6DE880 49] iPhoneXR, [000001B7FD330B00][000001B7FD6E2B40 49] iPhone11, [000001B7FD2C5900][000001B7FD6E6E00 49] iPhone11Pro, [000001B7FD331C00][000001B7FD6EB0C0 49] iPhone11ProMax, [000001B7FD2C4C00][000001B7FD6C7340 49] iPhoneSE2, [000001B7FD331400][000001B7FD6EF5C0 49] iPhone12Mini, [000001B7FD2C6100][000001B7FD6F7880 49] iPhone12, [000001B7FD333F00][000001B7FD6FBB40 49] iPhone12Pro, [000001B7FD2C7500][000001B7FD6FE280 49] iPhone12ProMax, [000001B7FD333800][000001B7FD702540 49] iPadPro105, [000001B7FD2C7300][000001B7FD706800 49] iPadPro129, [000001B7FD332700][000001B7FD70AAC0 49] iPadPro97, [000001B7FD2C5500][000001B7FD70ED80 49] iPadPro2_129, [000001B7FD332E00][000001B7FD713040 49] iPad5, [000001B7FD2C6500][000001B7FD717300 49] iPad6, [000001B7FD330200][000001B7FD6F3580 49] iPad7, [000001B7FD2C6700][000001B7FD71B800 49] iPad8, [000001B7FD331100][000001B7FD723AC0 49] iPadPro11, [000001B7FD2C6800][000001B7FD726200 49] iPadPro2_11, [000001B7FD333C00][000001B7FD72A4C0 49] iPadPro3_129, [000001B7FD2C5E00][000001B7FD72E780 49] iPadPro4_129, [000001B7FD331B00][000001B7FD732A40 49] AppleTV, [000001B7FD2C5600][000001B7FD736D00 49] AppleTV4K, [000001B7FD331800][000001B7FD73AFC0 49] TVOS, [000001B7FD2C6600][000001B7FD73F280 49] Mac, [000001B7FD333900][000001B7FD743540 49] MacClient, [000001B7FD2C7700][000001B7FD71F7C0 49] MacNoEditor, [000001B7FD332B00][000001B7FD747A40 49] MacServer, [000001B7FD2C7900][000001B7FD74E180 49] Linux, [000001B7FD332500][000001B7FD752440 49] LinuxAArch64, [000001B7FD2C7200][000001B7FD756700 49] LinuxNoEditor, [000001B7FD332300][000001B7FD75A9C0 49] LinuxAArch64NoEditor, [000001B7FD2C6A00][000001B7FD75EC80 49] LinuxClient, [000001B7FD330400][000001B7FD762F40 49] LinuxAArch64Client, [000001B7FD2C6300][000001B7FD767200 49] LinuxServer, [000001B7FD331E00][000001B7FD76B4C0 49] LinuxAArch64Server, [000001B7FD2C4100][000001B7FD76F780 49] Android, [000001B7FD331F00][000001B7FD74BA00 49] Android_Low, [000001B7FD2C5800][000001B7FD772100 49] Android_Mid, [000001B7FD331000][000001B7FD77A3C0 49] Android_High, [000001B7FD2C4600][000001B7FD77E680 49] Android_Default, [000001B7FD391300][000001B7FD782940 49] Android_Adreno4xx, [000001B7FD31D300][000001B7FD786C00 49] Android_Adreno5xx_Low, [000001B7FD391500][000001B7FD78AEC0 49] Android_Adreno5xx, [000001B7FD31DB00][000001B7FD78F180 49] Android_Adreno6xx, [000001B7FD392D00][000001B7FD793440 49] Android_Adreno6xx_Vulkan, [000001B7FD31CE00][000001B7FD797700 49] Android_Mali_T6xx, [000001B7FD390400][000001B7FD79B9C0 49] Android_Mali_T7xx, [000001B7FD31FA00][000001B7FD7760C0 49] Android_Mali_T8xx, [000001B7FD391C00][000001B7FD79E340 49] Android_Mali_G71, [000001B7FD31D400][000001B7FD7A6600 49] Android_Mali_G72, [000001B7FD390300][000001B7FD7AA8C0 49] Android_Mali_G72_Vulkan, [000001B7FD31EE00][000001B7FD7AEB80 49] Android_Mali_G76, [000001B7FD391D00][000001B7FD7B2E40 49] Android_Mali_G76_Vulkan, [000001B7FD31EF00][000001B7FD7B7100 49] Android_Mali_G77, [000001B7FD392E00][000001B7FD7BB3C0 49] Android_Mali_G77_Vulkan, [000001B7FD31F800][000001B7FD7BF680 49] Android_Mali_G78, [000001B7FD391000][000001B7FD7C3940 49] Android_Mali_G78_Vulkan, [000001B7FD31E800][000001B7FD7C7C00 49] Android_Mali_G710, [000001B7FD391F00][000001B7FD7A2300 49] Android_Mali_G710_Vulkan, [000001B7FD31CB00][000001B7FD7CA580 49] Android_Vulkan_SM5, [000001B7FD392900][000001B7FD7D2840 49] Android_PowerVR_G6xxx, [000001B7FD31DF00][000001B7FD7D6B00 49] Android_PowerVR_GT7xxx, [000001B7FD390E00][000001B7FD7DADC0 49] Android_PowerVR_GE8xxx, [000001B7FD333400][000001B7FD7DF080 49] Android_PowerVR_GM9xxx, [000001B7FD391100][000001B7FD7E3340 49] Android_PowerVR_GM9xxx_Vulkan, [000001B7FD333D00][000001B7FD7E7600 49] Android_TegraK1, [000001B7FD391B00][000001B7FD7EB8C0 49] Android_Unknown_Vulkan, [000001B7FD331700][000001B7FD7EFB80 49] Lumin, [000001B7FD390F00][000001B7FD7F22C0 49] Lumin_Desktop, [000001B7FD330F00][000001B7FD7CE540 49] HoloLens, 
+[2021.10.09-21.36.09:567][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.10.09-21.36.09:567][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.10.09-21.36.09:567][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.10.09-21.36.09:567][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.10.09-21.36.09:584][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.10.09-21.36.11:567][  0]LogNetVersion: SpacRecreationGame 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 2096367286)
+[2021.10.09-21.36.17:338][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2021.10.09-21.36.17:689][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.10.09-21.36.17:715][  0]LogUObjectArray: 17178 objects as part of root set at end of initial load.
+[2021.10.09-21.36.17:715][  0]LogUObjectAllocator: 4301856 out of 0 bytes used by permanent object pool.
+[2021.10.09-21.36.17:715][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.10.09-21.36.20:296][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.10.09-21.36.20:327][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.10.09-21.36.20:565][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 222AE36941FE9EBF5C9BD8AF5DDDD305 | Instance: CF3B8E0848220CE742F4A5B77E783623 (DESKTOP-9FEQGGF-19760).
+[2021.10.09-21.36.21:118][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/MenuSeparator.png' error.
+[2021.10.09-21.36.21:118][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/MenuSeparator.png
+[2021.10.09-21.36.21:118][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/Selector.png' error.
+[2021.10.09-21.36.21:118][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/Selector.png
+[2021.10.09-21.36.21:118][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/Selection.png' error.
+[2021.10.09-21.36.21:118][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/Selection.png
+[2021.10.09-21.36.21:118][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Above.png' error.
+[2021.10.09-21.36.21:118][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Above.png
+[2021.10.09-21.36.21:118][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Below.png' error.
+[2021.10.09-21.36.21:118][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Below.png
+[2021.10.09-21.36.21:118][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Onto.png' error.
+[2021.10.09-21.36.21:118][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Onto.png
+[2021.10.09-21.36.21:118][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/RoundedSelection_16x.png' error.
+[2021.10.09-21.36.21:118][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/RoundedSelection_16x.png
+[2021.10.09-21.36.21:118][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/FlatButton.png' error.
+[2021.10.09-21.36.21:118][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/FlatButton.png
+[2021.10.09-21.36.21:118][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.10.09-21.36.21:118][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.10.09-21.36.22:531][  0]LogPython: Using Python 3.7.7
+[2021.10.09-21.36.25:637][  0]SourceControl: Source control is disabled
+[2021.10.09-21.36.25:637][  0]SourceControl: Source control is disabled
+[2021.10.09-21.36.25:680][  0]LogUProjectInfo: Found projects:
+[2021.10.09-21.36.25:812][  0]SourceControl: Source control is disabled
+[2021.10.09-21.36.25:890][  0]SourceControl: Source control is disabled
+[2021.10.09-21.36.25:922][  0]SourceControl: Source control is disabled
+[2021.10.09-21.36.26:516][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.10.09-21.36.26:827][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.10.09-21.36.26:828][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.10.09-21.36.28:976][  0]LogOpenImageDenoise: OIDN starting up
+[2021.10.09-21.36.29:407][  0]LogCollectionManager: Loaded 0 collections in 0.000892 seconds
+[2021.10.09-21.36.29:520][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Owner/OneDrive/Documents/GitHub/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Saved/Collections/' took 0.00s
+[2021.10.09-21.36.29:520][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Owner/OneDrive/Documents/GitHub/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Content/Developers/Owner/Collections/' took 0.00s
+[2021.10.09-21.36.29:520][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Owner/OneDrive/Documents/GitHub/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Content/Collections/' took 0.00s
+[2021.10.09-21.36.29:520][  0]LogOcInput: OculusInput pre-init called
+[2021.10.09-21.36.29:746][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/MenuSeparator.png' error.
+[2021.10.09-21.36.29:746][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/MenuSeparator.png
+[2021.10.09-21.36.29:746][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/Selector.png' error.
+[2021.10.09-21.36.29:746][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/Selector.png
+[2021.10.09-21.36.29:746][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/Selection.png' error.
+[2021.10.09-21.36.29:746][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Onto.png' error.
+[2021.10.09-21.36.29:746][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Onto.png
+[2021.10.09-21.36.29:746][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/Selection.png
+[2021.10.09-21.36.30:774][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Above.png' error.
+[2021.10.09-21.36.30:774][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Above.png
+[2021.10.09-21.36.30:774][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/RoundedSelection_16x.png' error.
+[2021.10.09-21.36.30:774][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/RoundedSelection_16x.png
+[2021.10.09-21.36.30:774][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Below.png' error.
+[2021.10.09-21.36.30:774][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Below.png
+[2021.10.09-21.36.30:774][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/FlatButton.png' error.
+[2021.10.09-21.36.30:774][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/FlatButton.png
+[2021.10.09-21.36.30:774][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.10.09-21.36.30:774][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.10.09-21.36.30:838][  0]LogEngine: Initializing Engine...
+[2021.10.09-21.36.30:951][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2021.10.09-21.36.30:967][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.10.09-21.36.30:981][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.10.09-21.36.30:991][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.10.09-21.36.31:200][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.10.09-21.36.31:363][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.10.09-21.36.31:363][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.10.09-21.36.31:402][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2021.10.09-21.36.31:403][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2021.10.09-21.36.31:419][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.10.09-21.36.31:419][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.10.09-21.36.31:419][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.09-21.36.31:419][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.09-21.36.31:419][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.09-21.36.31:419][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.09-21.36.31:419][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.09-21.36.31:419][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.09-21.36.31:419][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.09-21.36.31:419][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.09-21.36.31:420][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.10.09-21.36.31:420][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.10.09-21.36.31:420][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.10.09-21.36.31:420][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.09-21.36.31:476][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.09-21.36.31:476][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.10.09-21.36.31:476][  0]LogAudioMixer: Display: 2: FrontCenter
+[2021.10.09-21.36.31:476][  0]LogAudioMixer: Display: 3: LowFrequency
+[2021.10.09-21.36.31:476][  0]LogAudioMixer: Display: 4: BackLeft
+[2021.10.09-21.36.31:476][  0]LogAudioMixer: Display: 5: BackRight
+[2021.10.09-21.36.31:476][  0]LogAudioMixer: Display: 6: SideLeft
+[2021.10.09-21.36.31:476][  0]LogAudioMixer: Display: 7: SideRight
+[2021.10.09-21.36.31:496][  0]LogAudioMixer: Display: Using Audio Device Speakers (Yeti Classic)
+[2021.10.09-21.36.31:511][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.09-21.36.31:514][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.09-21.36.31:514][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.09-21.36.31:515][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.09-21.36.31:515][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.09-21.36.31:515][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.10.09-21.36.31:516][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.09-21.36.31:516][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.09-21.36.31:516][  0]LogInit: FAudioDevice initialized.
+[2021.10.09-21.36.31:516][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.10.09-21.36.31:525][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.10.09-21.36.31:762][  0]LogDerivedDataCache: Saved boot cache 0.24s 95MB C:/Users/Owner/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2021.10.09-21.36.31:763][  0]LogInit: Texture streaming: Enabled
+[2021.10.09-21.36.31:866][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.0-17155196+++UE4+Release-4.27
+[2021.10.09-21.36.31:920][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.10.09-21.36.31:920][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.10.09-21.36.31:937][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.10.09-21.36.32:158][  0]LogInit: Transaction tracking system initialized
+[2021.10.09-21.36.32:518][  0]BlueprintLog: New page: Editor Load
+[2021.10.09-21.36.33:503][  0]LocalizationService: Localization service is disabled
+[2021.10.09-21.36.33:820][  0]TimingProfiler: Initialize
+[2021.10.09-21.36.33:820][  0]TimingProfiler: OnSessionChanged
+[2021.10.09-21.36.33:821][  0]LoadingProfiler: Initialize
+[2021.10.09-21.36.33:821][  0]LoadingProfiler: OnSessionChanged
+[2021.10.09-21.36.33:821][  0]NetworkingProfiler: Initialize
+[2021.10.09-21.36.33:821][  0]NetworkingProfiler: OnSessionChanged
+[2021.10.09-21.36.33:821][  0]MemoryProfiler: Initialize
+[2021.10.09-21.36.33:821][  0]MemoryProfiler: OnSessionChanged
+[2021.10.09-21.36.35:217][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Owner/OneDrive/Documents/GitHub/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Content/' took 0.01s
+[2021.10.09-21.36.35:217][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.10.09-21.36.35:217][  0]LogCook: Display: Mobile HDR setting 1
+[2021.10.09-21.36.38:286][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/MenuSeparator.png' error.
+[2021.10.09-21.36.38:286][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/MenuSeparator.png
+[2021.10.09-21.36.38:286][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/Selection.png' error.
+[2021.10.09-21.36.38:286][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/Selection.png
+[2021.10.09-21.36.38:286][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/Selector.png' error.
+[2021.10.09-21.36.38:286][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/Selector.png
+[2021.10.09-21.36.38:286][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Above.png' error.
+[2021.10.09-21.36.38:286][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Above.png
+[2021.10.09-21.36.38:286][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Below.png' error.
+[2021.10.09-21.36.38:286][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Below.png
+[2021.10.09-21.36.38:286][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/FlatButton.png' error.
+[2021.10.09-21.36.38:286][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/FlatButton.png
+[2021.10.09-21.36.38:286][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/RoundedSelection_16x.png' error.
+[2021.10.09-21.36.38:286][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Onto.png' error.
+[2021.10.09-21.36.38:286][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/RoundedSelection_16x.png
+[2021.10.09-21.36.38:286][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Onto.png
+[2021.10.09-21.36.38:286][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.10.09-21.36.38:286][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.10.09-21.36.38:286][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.10.09-21.36.39:043][  0]SourceControl: Source control is disabled
+[2021.10.09-21.36.39:049][  0]LogUnrealEdMisc: Loading editor; pre map load, took 105.603
+[2021.10.09-21.36.39:065][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.10.09-21.36.39:077][  0]LightingResults: New page: Lighting Build
+[2021.10.09-21.36.39:101][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.10.09-21.36.39:101][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.09-21.36.39:101][  0]MapCheck: New page: Map Check
+[2021.10.09-21.36.39:101][  0]LightingResults: New page: Lighting Build
+[2021.10.09-21.36.39:104][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.09-21.36.39:106][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2021.10.09-21.36.39:433][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_1'.
+[2021.10.09-21.36.39:434][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2021.10.09-21.36.39:528][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.10.09-21.36.39:542][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2021.10.09-21.36.39:558][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.10.09-21.36.39:573][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 15.478ms to complete.
+[2021.10.09-21.36.39:573][  0]LogFileHelpers: Loading map 'Template_Default' took 0.509
+[2021.10.09-21.36.39:603][  0]LogUnrealEdMisc: Total Editor Startup Time, took 106.163
+[2021.10.09-21.36.40:038][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.09-21.36.40:044][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.09-21.36.40:051][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.09-21.36.40:058][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.09-21.36.40:218][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0216 seconds. Added 3822 classes and 928 folders.
+[2021.10.09-21.36.40:307][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.10.09-21.36.40:409][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.10.09-21.36.40:409][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.09-21.36.40:409][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.10.09-21.36.40:409][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.09-21.36.40:409][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2021.10.09-21.36.40:409][  0]LogPakFile: OnPakFileMounted2Time == 0.000052
+[2021.10.09-21.36.40:425][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.10.09-21.36.40:426][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.09-21.36.40:426][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.10.09-21.36.40:426][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.09-21.36.40:426][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2021.10.09-21.36.40:426][  0]LogPakFile: OnPakFileMounted2Time == 0.000058
+[2021.10.09-21.36.40:435][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.10.09-21.36.40:435][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.09-21.36.40:435][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.10.09-21.36.40:435][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.09-21.36.40:435][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2021.10.09-21.36.40:435][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2021.10.09-21.36.40:452][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.10.09-21.36.40:452][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.09-21.36.40:452][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.10.09-21.36.40:452][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.09-21.36.40:452][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack)
+[2021.10.09-21.36.40:452][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2021.10.09-21.36.40:458][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.10.09-21.36.40:458][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.09-21.36.40:458][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.10.09-21.36.40:458][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.09-21.36.40:458][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2021.10.09-21.36.40:458][  0]LogPakFile: OnPakFileMounted2Time == 0.000044
+[2021.10.09-21.36.40:469][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.10.09-21.36.40:469][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.09-21.36.40:469][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.10.09-21.36.40:469][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.09-21.36.40:470][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2021.10.09-21.36.40:470][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2021.10.09-21.36.40:483][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.10.09-21.36.40:484][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.09-21.36.40:484][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.10.09-21.36.40:484][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.09-21.36.40:484][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2021.10.09-21.36.40:484][  0]LogPakFile: OnPakFileMounted2Time == 0.000044
+[2021.10.09-21.36.40:501][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.10.09-21.36.40:501][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.09-21.36.40:501][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.10.09-21.36.40:501][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.09-21.36.40:501][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2021.10.09-21.36.40:501][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2021.10.09-21.36.40:528][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.10.09-21.36.40:528][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.09-21.36.40:528][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.10.09-21.36.40:528][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.09-21.36.40:528][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2021.10.09-21.36.40:528][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2021.10.09-21.36.40:547][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.10.09-21.36.40:547][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.09-21.36.40:547][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.10.09-21.36.40:547][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.09-21.36.40:547][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2021.10.09-21.36.40:547][  0]LogPakFile: OnPakFileMounted2Time == 0.000044
+[2021.10.09-21.36.40:552][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.10.09-21.36.40:552][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.09-21.36.40:552][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.10.09-21.36.40:552][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.09-21.36.40:552][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2021.10.09-21.36.40:552][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2021.10.09-21.36.40:572][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.10.09-21.36.40:572][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.09-21.36.40:572][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.10.09-21.36.40:572][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.09-21.36.40:572][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2021.10.09-21.36.40:572][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2021.10.09-21.36.40:587][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.10.09-21.36.40:587][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.09-21.36.40:587][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.10.09-21.36.40:587][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.09-21.36.40:587][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2021.10.09-21.36.40:587][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2021.10.09-21.36.40:601][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.10.09-21.36.40:601][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.09-21.36.40:601][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.10.09-21.36.40:601][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.09-21.36.40:601][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2021.10.09-21.36.40:601][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2021.10.09-21.36.40:606][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.10.09-21.36.40:606][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.09-21.36.40:606][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.10.09-21.36.40:606][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.09-21.36.40:606][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2021.10.09-21.36.40:606][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2021.10.09-21.36.40:610][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.10.09-21.36.40:610][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.09-21.36.40:610][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.10.09-21.36.40:610][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.09-21.36.40:610][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2021.10.09-21.36.40:610][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2021.10.09-21.36.40:614][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.10.09-21.36.40:614][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.09-21.36.40:614][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.10.09-21.36.40:614][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.09-21.36.40:614][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2021.10.09-21.36.40:614][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2021.10.09-21.36.40:627][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.10.09-21.36.40:627][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.09-21.36.40:627][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.10.09-21.36.40:627][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.09-21.36.40:627][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2021.10.09-21.36.40:627][  0]LogPakFile: OnPakFileMounted2Time == 0.000046
+[2021.10.09-21.36.40:632][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.10.09-21.36.40:632][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.09-21.36.40:632][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.10.09-21.36.40:632][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.09-21.36.40:632][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2021.10.09-21.36.40:632][  0]LogPakFile: OnPakFileMounted2Time == 0.000046
+[2021.10.09-21.36.40:640][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.10.09-21.36.40:640][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.09-21.36.40:640][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.10.09-21.36.40:640][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.09-21.36.40:640][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2021.10.09-21.36.40:640][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2021.10.09-21.36.40:658][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.10.09-21.36.40:658][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.09-21.36.40:658][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.10.09-21.36.40:658][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.09-21.36.40:658][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2021.10.09-21.36.40:658][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2021.10.09-21.36.40:663][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.10.09-21.36.40:663][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.09-21.36.40:663][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.10.09-21.36.40:663][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.09-21.36.40:663][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2021.10.09-21.36.40:663][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2021.10.09-21.36.40:683][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.10.09-21.36.40:683][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.09-21.36.40:683][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.10.09-21.36.40:683][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.09-21.36.40:683][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2021.10.09-21.36.40:683][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2021.10.09-21.36.40:688][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.10.09-21.36.40:688][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.09-21.36.40:688][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.10.09-21.36.40:688][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.09-21.36.40:688][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2021.10.09-21.36.40:688][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2021.10.09-21.36.40:692][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.10.09-21.36.40:692][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.09-21.36.40:692][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.10.09-21.36.40:692][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.09-21.36.40:692][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2021.10.09-21.36.40:692][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2021.10.09-21.36.40:697][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.10.09-21.36.40:697][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.09-21.36.40:697][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.10.09-21.36.40:697][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.09-21.36.40:697][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2021.10.09-21.36.40:697][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2021.10.09-21.36.41:441][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.10.09-21.36.41:475][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2021.10.09-21.36.41:707][  0]LogSlate: Took 0.019554 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.10.09-21.36.41:722][  0]LogSlate: Took 0.014259 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.10.09-21.36.41:758][  0]LogSlate: Took 0.034917 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.10.09-21.36.41:967][  0]LogRenderer: Reallocating scene render targets to support 1164x600 Format 10 NumSamples 1 (Frame:1).
+[2021.10.09-21.36.42:183][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.10.09-21.36.42:183][  0]LogLoad: (Engine Initialization) Total time: 108.74 seconds
+[2021.10.09-21.36.42:183][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.10.09-21.36.42:340][  0]LogAssetRegistry: Asset discovery search completed in 46.7878 seconds
+[2021.10.09-21.36.42:436][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2021.10.09-21.36.42:438][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.10.09-21.36.45:555][  2]LogSlate: Took 0.000233 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.10.11-00.02.26:984][133]LogSlate: Window 'New Level' being destroyed
+[2021.10.11-00.02.31:964][133]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.10.11-00.02.32:166][133]LogSlate: Took 0.052579 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.10.11-00.02.32:231][133]LightingResults: New page: Lighting Build
+[2021.10.11-00.02.32:257][133]LoadErrors: New page: Loading map: Template_Default.umap
+[2021.10.11-00.02.32:836][133]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2021.10.11-00.02.32:992][133]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.11-00.02.33:207][133]MapCheck: New page: Map Check
+[2021.10.11-00.02.33:217][133]LightingResults: New page: Lighting Build
+[2021.10.11-00.02.34:433][133]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.11-00.02.35:207][133]LogUObjectHash: Compacting FUObjectHashTables data took   5.62ms
+[2021.10.11-00.02.36:274][133]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_2'.
+[2021.10.11-00.02.36:600][133]LogAIModule: Creating AISystem for world Untitled_2
+[2021.10.11-00.02.37:438][133]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.10.11-00.02.37:649][133]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2021.10.11-00.02.37:683][133]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.10.11-00.02.37:718][133]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 8.955ms to complete.
+[2021.10.11-00.02.37:744][133]LogFileHelpers: Loading map 'Template_Default' took 5.819
+[2021.10.11-00.03.00:444][635]LogSlate: Window 'New Level' being destroyed
+[2021.10.11-00.03.00:451][635]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.10.11-00.03.00:469][635]LightingResults: New page: Lighting Build
+[2021.10.11-00.03.00:469][635]LoadErrors: New page: Loading map: Template_Default.umap
+[2021.10.11-00.03.00:470][635]LogWorld: UWorld::CleanupWorld for Untitled_2, bSessionEnded=true, bCleanupResources=true
+[2021.10.11-00.03.00:470][635]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.11-00.03.00:470][635]MapCheck: New page: Map Check
+[2021.10.11-00.03.00:470][635]LightingResults: New page: Lighting Build
+[2021.10.11-00.03.00:473][635]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.11-00.03.00:475][635]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2021.10.11-00.03.00:483][635]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_3'.
+[2021.10.11-00.03.00:484][635]LogAIModule: Creating AISystem for world Untitled_3
+[2021.10.11-00.03.00:486][635]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.10.11-00.03.00:494][635]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.10.11-00.03.00:501][635]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.10.11-00.03.00:501][635]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.199ms to complete.
+[2021.10.11-00.03.00:501][635]LogFileHelpers: Loading map 'Template_Default' took 0.050
+[2021.10.11-00.03.09:621][649]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2021.10.11-00.03.12:144][649]LogContentBrowser: Creating deferred item: NewWorld
+[2021.10.11-00.03.25:791][242]LogContentBrowser: Attempting asset rename: NewWorld -> RollcallPlatform
+[2021.10.11-00.03.25:927][242]LogContentBrowser: End creating deferred item NewWorld
+[2021.10.11-00.03.31:144][856]Cmd: POLY SELECT ADJACENT WALLS
+[2021.10.11-00.03.33:691][155]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.10.11-00.03.41:167][629]LogSlate: Took 0.018553 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.10.11-00.04.52:633][347]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.10.11-00.04.57:126][870]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.10.11-00.05.08:836][219]LogActorFactory: Actor Factory created Cube
+[2021.10.11-00.05.14:874][777]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.10.11-00.06.29:548][548]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.10.11-00.08.20:573][774]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.10.11-00.08.56:937][850]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.10.11-00.10.03:490][780]Cmd: EDIT COPY
+[2021.10.11-00.10.04:138][780]Cmd: EDIT PASTE
+[2021.10.11-00.10.40:331][ 39]Cmd: EDIT COPY
+[2021.10.11-00.10.40:683][ 81]Cmd: EDIT PASTE
+[2021.10.11-00.11.15:474][184]Cmd: TRANSACTION UNDO
+[2021.10.11-00.11.15:474][184]LogEditorTransaction: Undo Set Scale
+[2021.10.11-00.11.18:079][453]Cmd: TRANSACTION UNDO
+[2021.10.11-00.11.18:080][453]LogEditorTransaction: Undo Set Scale
+[2021.10.11-00.12.37:452][934]Cmd: EDIT COPY
+[2021.10.11-00.12.37:888][986]Cmd: EDIT PASTE
+[2021.10.11-00.13.21:943][217]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush5)
+[2021.10.11-00.14.38:487][249]Cmd: TRANSACTION UNDO
+[2021.10.11-00.14.38:487][249]LogEditorTransaction: Undo Set Rotation
+[2021.10.11-00.15.42:975][311]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.10.11-00.16.30:954][ 11]Cmd: TRANSACTION UNDO
+[2021.10.11-00.16.30:954][ 11]LogEditorTransaction: Undo Set Scale
+[2021.10.11-00.17.24:506][281]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.10.11-00.20.18:094][709]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.10.11-00.21.13:078][637]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.10.11-00.21.31:962][855]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.10.11-00.23.08:906][731]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.10.11-00.23.28:508][485]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.10.11-00.23.33:525][ 51]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.10.11-00.23.33:957][102]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.10.11-00.24.43:645][833]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush)
+[2021.10.11-00.33.10:351][362]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush3)
+[2021.10.11-00.34.51:254][333]Cmd: DELETE
+[2021.10.11-00.34.51:279][333]Cmd: ACTOR DELETE
+[2021.10.11-00.34.51:503][333]LogEditorActor: Deleted Actor: Brush
+[2021.10.11-00.34.51:556][333]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2021.10.11-00.34.51:573][333]LogEditorActor: Deleted 1 Actors (0.252 secs)
+[2021.10.11-00.35.07:044][593]Cmd: EDIT COPY
+[2021.10.11-00.35.07:428][639]Cmd: EDIT PASTE
+[2021.10.11-00.35.48:232][451]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.10.11-00.35.55:892][358]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.10.11-00.35.59:870][822]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.10.11-00.36.02:736][157]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.10.11-00.36.07:973][766]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.10.11-00.36.08:713][854]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.10.11-00.36.40:692][664]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2021.10.11-00.36.41:096][664]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.10.11-00.36.41:814][748]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.10.11-00.37.01:226][ 53]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.10.11-00.38.06:206][424]Cmd: TRANSACTION UNDO
+[2021.10.11-00.38.06:206][424]LogEditorTransaction: Undo Set Scale
+[2021.10.11-00.38.09:552][785]Cmd: TRANSACTION UNDO
+[2021.10.11-00.38.09:552][785]LogEditorTransaction: Undo Set Scale
+[2021.10.11-00.38.20:823][ 87]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.10.11-00.38.29:993][164]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.10.11-00.38.30:491][223]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.10.11-00.38.46:996][153]Cmd: TRANSACTION UNDO
+[2021.10.11-00.38.46:996][153]LogEditorTransaction: Undo Set Scale
+[2021.10.11-00.38.53:017][828]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.10.11-00.39.16:812][658]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.10.11-00.39.17:808][774]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.10.11-00.40.02:218][ 39]Cmd: TRANSACTION UNDO
+[2021.10.11-00.40.02:218][ 39]LogEditorTransaction: Undo Move Actors
+[2021.10.11-00.40.32:400][560]Cmd: TRANSACTION UNDO
+[2021.10.11-00.40.32:400][560]LogEditorTransaction: Undo Move Actors
+[2021.10.11-00.42.47:396][375]Cmd: EDIT COPY
+[2021.10.11-00.42.47:792][422]Cmd: EDIT PASTE
+[2021.10.11-00.43.00:434][716]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.10.11-00.43.08:013][601]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.10.11-00.43.53:792][452]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2021.10.11-00.43.57:753][452]LogSlate: Window 'Save Content' being destroyed
+[2021.10.11-00.43.57:899][452]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2021.10.11-00.43.58:046][452]LogSavePackage: Moving 'C:/Users/Owner/OneDrive/Documents/GitHub/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Saved/RollcallPlatformC3144EFA42A96761E5538286F48BFB37.tmp' to 'C:/Users/Owner/OneDrive/Documents/GitHub/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Content/RollcallPlatform.umap'
+[2021.10.11-00.43.58:077][452]LogFileHelpers: Saving map 'RollcallPlatform' took 0.261
+[2021.10.11-00.44.04:635][452]LogSlate: Window 'Save Level As' being destroyed
+[2021.10.11-00.44.04:844][452]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2021.10.11-00.44.04:934][452]LogSavePackage: Moving 'C:/Users/Owner/OneDrive/Documents/GitHub/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Saved/UntitledFE0FE1F94D3112AB3DB028BC4F6744E8.tmp' to 'C:/Users/Owner/OneDrive/Documents/GitHub/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Content/Maps/Untitled.umap'
+[2021.10.11-00.44.05:030][452]LogFileHelpers: Saving map 'Untitled' took 0.323
+[2021.10.11-00.44.05:075][452]LogLinker: Warning: [AssetLog] C:\Users\Owner\OneDrive\Documents\GitHub\SpacPrisonRecreation\SpacRecreationGameStart\SpacRecreationGame\Content\IsoCell.umap: Failed to load '/Game/IsoCell_BuiltData': Can't find file.
+[2021.10.11-00.44.05:076][452]LogLinker: Warning: [AssetLog] C:\Users\Owner\OneDrive\Documents\GitHub\SpacPrisonRecreation\SpacRecreationGameStart\SpacRecreationGame\Content\IsoCell.umap: Failed to load '/Game/IsoCell_BuiltData': Can't find file.
+[2021.10.11-00.44.05:087][452]LogLinker: Warning: [AssetLog] C:\Users\Owner\OneDrive\Documents\GitHub\SpacPrisonRecreation\SpacRecreationGameStart\SpacRecreationGame\Content\IsoCell.umap: Failed to load '/Game/IsoCell_BuiltData': Can't find file.
+[2021.10.11-00.44.05:088][452]LogLinker: Warning: [AssetLog] C:\Users\Owner\OneDrive\Documents\GitHub\SpacPrisonRecreation\SpacRecreationGameStart\SpacRecreationGame\Content\IsoCell.umap: Failed to load '/Game/IsoCell_BuiltData': Can't find file.
+[2021.10.11-00.44.05:135][452]LoadErrors: Failed to load /Game/IsoCell_BuiltData.IsoCell_BuiltData Referenced by PersistentLevel
+[2021.10.11-00.44.05:169][452]LogMaterial: Display: Missing cached shadermap for NewMat in PCD3D_SM5, Default, SM5 (DDC key hash: 7A790B6826170D5809D3A0E5F3C31D0E5A9F9FB0), compiling. 
+[2021.10.11-00.44.05:465][452]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.10.11-00.44.05:542][452]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 25
+[2021.10.11-00.44.05:542][452]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 22
+[2021.10.11-00.44.05:542][452]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 19
+[2021.10.11-00.44.05:542][452]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 16
+[2021.10.11-00.44.05:542][452]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 13
+[2021.10.11-00.44.05:542][452]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 10
+[2021.10.11-00.44.05:542][452]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 7
+[2021.10.11-00.44.05:542][452]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 4
+[2021.10.11-00.44.05:542][452]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2021.10.11-00.44.05:542][452]LogShaderCompilers: Display: Started 25 'Local' shader compile jobs with 'Low' priority
+[2021.10.11-00.44.05:561][452]LogAssetEditorSubsystem: Opening Asset editor for World /Game/IsoCell.IsoCell
+[2021.10.11-00.44.05:563][452]Cmd: MAP LOAD FILE="C:/Users/Owner/OneDrive/Documents/GitHub/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Content/IsoCell.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.10.11-00.44.05:564][452]LightingResults: New page: Lighting Build
+[2021.10.11-00.44.05:564][452]LoadErrors: New page: Loading map: IsoCell.umap
+[2021.10.11-00.44.05:653][452]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.10.11-00.44.05:654][452]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.11-00.44.05:654][452]MapCheck: New page: Map Check
+[2021.10.11-00.44.05:654][452]LightingResults: New page: Lighting Build
+[2021.10.11-00.44.05:659][452]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.11-00.44.05:683][452]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2021.10.11-00.44.05:695][452]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2021.10.11-00.44.05:701][452]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.10.11-00.44.05:701][452]LogAudio: Display: Audio Device (ID: 1) registered with world 'IsoCell'.
+[2021.10.11-00.44.05:704][452]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.10.11-00.44.05:704][452]LogAIModule: Creating AISystem for world IsoCell
+[2021.10.11-00.44.05:710][452]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.10.11-00.44.05:717][452]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.10.11-00.44.05:718][452]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.149ms to complete.
+[2021.10.11-00.44.05:718][452]LogFileHelpers: Loading map 'IsoCell' took 0.155
+[2021.10.11-00.44.05:967][452]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.11-00.44.05:967][452]LogContentValidation: Display: Validating World /Game/RollcallPlatform.RollcallPlatform
+[2021.10.11-00.44.05:970][452]LogContentValidation: Display: Validating World /Game/Maps/Untitled.Untitled
+[2021.10.11-00.44.05:972][452]LogLinker: Warning: [AssetLog] C:\Users\Owner\OneDrive\Documents\GitHub\SpacPrisonRecreation\SpacRecreationGameStart\SpacRecreationGame\Content\Maps\Untitled.umap: Failed to load '/Game/Maps/Untitled_BuiltData': Can't find file.
+[2021.10.11-00.44.05:973][452]LogLinker: Warning: [AssetLog] C:\Users\Owner\OneDrive\Documents\GitHub\SpacPrisonRecreation\SpacRecreationGameStart\SpacRecreationGame\Content\Maps\Untitled.umap: Failed to load '/Game/Maps/Untitled_BuiltData': Can't find file.
+[2021.10.11-00.44.05:973][452]LogLinker: Warning: [AssetLog] C:\Users\Owner\OneDrive\Documents\GitHub\SpacPrisonRecreation\SpacRecreationGameStart\SpacRecreationGame\Content\Maps\Untitled.umap: Failed to load '/Game/Maps/Untitled_BuiltData': Can't find file.
+[2021.10.11-00.44.05:977][452]LogLinker: Warning: [AssetLog] C:\Users\Owner\OneDrive\Documents\GitHub\SpacPrisonRecreation\SpacRecreationGameStart\SpacRecreationGame\Content\Maps\Untitled.umap: Failed to load '/Game/Maps/Untitled_BuiltData': Can't find file.
+[2021.10.11-00.44.05:977][452]LoadErrors: Failed to load /Game/Maps/Untitled_BuiltData.Untitled_BuiltData Referenced by PersistentLevel
+[2021.10.11-00.44.09:568][791]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2021.10.11-00.44.09:568][791]LogShaderCompilers: Display: Total job queries 25, among them cache hits 0 (0.00%)
+[2021.10.11-00.44.09:568][791]LogShaderCompilers: Display: Tracking 1 distinct input hashes that result in 1 distinct outputs (100.00%)
+[2021.10.11-00.44.09:582][791]LogShaderCompilers: Display: RAM used: 0.01 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2021.10.11-00.44.09:583][791]LogShaderCompilers: Display: ================================================
+[2021.10.11-00.44.41:420][594]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.10.11-00.44.41:442][594]LogAssetEditorSubsystem: Opening Asset editor for World /Game/RollcallPlatform.RollcallPlatform
+[2021.10.11-00.44.41:442][594]Cmd: MAP LOAD FILE="C:/Users/Owner/OneDrive/Documents/GitHub/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Content/RollcallPlatform.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.10.11-00.44.41:442][594]LightingResults: New page: Lighting Build
+[2021.10.11-00.44.41:442][594]LoadErrors: New page: Loading map: RollcallPlatform.umap
+[2021.10.11-00.44.41:477][594]LogWorld: UWorld::CleanupWorld for IsoCell, bSessionEnded=true, bCleanupResources=true
+[2021.10.11-00.44.41:477][594]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.11-00.44.41:477][594]MapCheck: New page: Map Check
+[2021.10.11-00.44.41:477][594]LightingResults: New page: Lighting Build
+[2021.10.11-00.44.41:480][594]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.11-00.44.41:489][594]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.10.11-00.44.41:495][594]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.10.11-00.44.41:504][594]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.10.11-00.44.41:505][594]LogAudio: Display: Audio Device (ID: 1) registered with world 'RollcallPlatform'.
+[2021.10.11-00.44.41:506][594]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.10.11-00.44.41:506][594]LogAIModule: Creating AISystem for world RollcallPlatform
+[2021.10.11-00.44.41:512][594]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2021.10.11-00.44.41:520][594]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.10.11-00.44.41:520][594]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.134ms to complete.
+[2021.10.11-00.44.41:521][594]LogFileHelpers: Loading map 'RollcallPlatform' took 0.079
+[2021.10.11-00.44.54:571][143]LogEditorViewport: Clicking Background
+[2021.10.11-00.45.00:925][882]LogEditorViewport: Clicking Background
+[2021.10.11-00.45.06:212][505]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2021.10.11-00.45.14:102][443]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2021.10.11-00.45.16:429][443]LogSlate: Window 'Save Content' being destroyed
+[2021.10.11-00.45.16:446][443]LogAssetEditorSubsystem: Opening Asset editor for World /Game/RollcallPlatform.RollcallPlatform
+[2021.10.11-00.45.16:446][443]Cmd: MAP LOAD FILE="C:/Users/Owner/OneDrive/Documents/GitHub/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Content/RollcallPlatform.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.10.11-00.45.16:447][443]LightingResults: New page: Lighting Build
+[2021.10.11-00.45.16:447][443]LoadErrors: New page: Loading map: RollcallPlatform.umap
+[2021.10.11-00.45.16:487][443]LogWorld: UWorld::CleanupWorld for RollcallPlatform, bSessionEnded=true, bCleanupResources=true
+[2021.10.11-00.45.16:487][443]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.11-00.45.16:487][443]MapCheck: New page: Map Check
+[2021.10.11-00.45.16:487][443]LightingResults: New page: Lighting Build
+[2021.10.11-00.45.16:490][443]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.11-00.45.16:491][443]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.10.11-00.45.16:506][443]LogAudio: Display: Audio Device (ID: 1) registered with world 'RollcallPlatform'.
+[2021.10.11-00.45.16:506][443]LogAIModule: Creating AISystem for world RollcallPlatform
+[2021.10.11-00.45.16:507][443]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.10.11-00.45.16:511][443]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.10.11-00.45.16:519][443]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.10.11-00.45.16:519][443]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.136ms to complete.
+[2021.10.11-00.45.16:519][443]LogFileHelpers: Loading map 'RollcallPlatform' took 0.073
+[2021.10.11-00.45.17:422][549]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2021.10.11-00.45.17:439][549]LogAssetEditorSubsystem: Opening Asset editor for World /Game/RollcallPlatform.RollcallPlatform
+[2021.10.11-00.45.17:439][549]Cmd: MAP LOAD FILE="C:/Users/Owner/OneDrive/Documents/GitHub/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Content/RollcallPlatform.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.10.11-00.45.17:439][549]LightingResults: New page: Lighting Build
+[2021.10.11-00.45.17:439][549]LoadErrors: New page: Loading map: RollcallPlatform.umap
+[2021.10.11-00.45.17:440][549]LogWorld: UWorld::CleanupWorld for RollcallPlatform, bSessionEnded=true, bCleanupResources=true
+[2021.10.11-00.45.17:440][549]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.11-00.45.17:440][549]MapCheck: New page: Map Check
+[2021.10.11-00.45.17:440][549]LightingResults: New page: Lighting Build
+[2021.10.11-00.45.17:443][549]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.11-00.45.17:444][549]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2021.10.11-00.45.17:445][549]LogAudio: Display: Audio Device (ID: 1) registered with world 'RollcallPlatform'.
+[2021.10.11-00.45.17:446][549]LogAIModule: Creating AISystem for world RollcallPlatform
+[2021.10.11-00.45.17:447][549]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.10.11-00.45.17:452][549]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2021.10.11-00.45.17:459][549]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.10.11-00.45.17:459][549]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.118ms to complete.
+[2021.10.11-00.45.17:459][549]LogFileHelpers: Loading map 'RollcallPlatform' took 0.021
+[2021.10.11-00.45.18:469][668]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.10.11-00.45.18:479][668]LogAssetEditorSubsystem: Opening Asset editor for World /Game/RollcallPlatform.RollcallPlatform
+[2021.10.11-00.45.18:479][668]Cmd: MAP LOAD FILE="C:/Users/Owner/OneDrive/Documents/GitHub/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Content/RollcallPlatform.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.10.11-00.45.18:479][668]LightingResults: New page: Lighting Build
+[2021.10.11-00.45.18:479][668]LoadErrors: New page: Loading map: RollcallPlatform.umap
+[2021.10.11-00.45.18:516][668]LogWorld: UWorld::CleanupWorld for RollcallPlatform, bSessionEnded=true, bCleanupResources=true
+[2021.10.11-00.45.18:516][668]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.11-00.45.18:517][668]MapCheck: New page: Map Check
+[2021.10.11-00.45.18:517][668]LightingResults: New page: Lighting Build
+[2021.10.11-00.45.18:519][668]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.11-00.45.18:520][668]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2021.10.11-00.45.18:522][668]LogAudio: Display: Audio Device (ID: 1) registered with world 'RollcallPlatform'.
+[2021.10.11-00.45.18:522][668]LogAIModule: Creating AISystem for world RollcallPlatform
+[2021.10.11-00.45.18:523][668]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.10.11-00.45.18:528][668]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2021.10.11-00.45.18:535][668]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.10.11-00.45.18:535][668]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.133ms to complete.
+[2021.10.11-00.45.18:535][668]LogFileHelpers: Loading map 'RollcallPlatform' took 0.056
+[2021.10.11-00.45.42:616][525]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2021.10.11-00.45.43:991][525]LogSlate: Window 'Save Content' being destroyed
+[2021.10.11-00.45.44:011][525]LogAssetEditorSubsystem: Opening Asset editor for World /Game/RollcallPlatform.RollcallPlatform
+[2021.10.11-00.45.44:011][525]Cmd: MAP LOAD FILE="C:/Users/Owner/OneDrive/Documents/GitHub/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Content/RollcallPlatform.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.10.11-00.45.44:011][525]LightingResults: New page: Lighting Build
+[2021.10.11-00.45.44:011][525]LoadErrors: New page: Loading map: RollcallPlatform.umap
+[2021.10.11-00.45.44:046][525]LogWorld: UWorld::CleanupWorld for RollcallPlatform, bSessionEnded=true, bCleanupResources=true
+[2021.10.11-00.45.44:046][525]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.11-00.45.44:046][525]MapCheck: New page: Map Check
+[2021.10.11-00.45.44:046][525]LightingResults: New page: Lighting Build
+[2021.10.11-00.45.44:049][525]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.11-00.45.44:050][525]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2021.10.11-00.45.44:051][525]LogAudio: Display: Audio Device (ID: 1) registered with world 'RollcallPlatform'.
+[2021.10.11-00.45.44:052][525]LogAIModule: Creating AISystem for world RollcallPlatform
+[2021.10.11-00.45.44:053][525]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.10.11-00.45.44:057][525]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2021.10.11-00.45.44:064][525]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.10.11-00.45.44:064][525]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.128ms to complete.
+[2021.10.11-00.45.44:064][525]LogFileHelpers: Loading map 'RollcallPlatform' took 0.053
+[2021.10.11-00.45.45:017][638]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.10.11-00.45.45:030][638]LogAssetEditorSubsystem: Opening Asset editor for World /Game/RollcallPlatform.RollcallPlatform
+[2021.10.11-00.45.45:031][638]Cmd: MAP LOAD FILE="C:/Users/Owner/OneDrive/Documents/GitHub/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Content/RollcallPlatform.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.10.11-00.45.45:031][638]LightingResults: New page: Lighting Build
+[2021.10.11-00.45.45:031][638]LoadErrors: New page: Loading map: RollcallPlatform.umap
+[2021.10.11-00.45.45:057][638]LogWorld: UWorld::CleanupWorld for RollcallPlatform, bSessionEnded=true, bCleanupResources=true
+[2021.10.11-00.45.45:057][638]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.11-00.45.45:057][638]MapCheck: New page: Map Check
+[2021.10.11-00.45.45:057][638]LightingResults: New page: Lighting Build
+[2021.10.11-00.45.45:059][638]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.11-00.45.45:060][638]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2021.10.11-00.45.45:062][638]LogAudio: Display: Audio Device (ID: 1) registered with world 'RollcallPlatform'.
+[2021.10.11-00.45.45:062][638]LogAIModule: Creating AISystem for world RollcallPlatform
+[2021.10.11-00.45.45:063][638]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.10.11-00.45.45:067][638]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2021.10.11-00.45.45:074][638]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.10.11-00.45.45:075][638]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.129ms to complete.
+[2021.10.11-00.45.45:075][638]LogFileHelpers: Loading map 'RollcallPlatform' took 0.044
+[2021.10.11-00.45.54:433][741]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2021.10.11-00.45.54:451][741]LogLinker: Warning: [AssetLog] C:\Users\Owner\OneDrive\Documents\GitHub\SpacPrisonRecreation\SpacRecreationGameStart\SpacRecreationGame\Content\Maps\Untitled.umap: Failed to load '/Game/Maps/Untitled_BuiltData': Can't find file.
+[2021.10.11-00.45.54:452][741]LogLinker: Warning: [AssetLog] C:\Users\Owner\OneDrive\Documents\GitHub\SpacPrisonRecreation\SpacRecreationGameStart\SpacRecreationGame\Content\Maps\Untitled.umap: Failed to load '/Game/Maps/Untitled_BuiltData': Can't find file.
+[2021.10.11-00.45.54:452][741]LogLinker: Warning: [AssetLog] C:\Users\Owner\OneDrive\Documents\GitHub\SpacPrisonRecreation\SpacRecreationGameStart\SpacRecreationGame\Content\Maps\Untitled.umap: Failed to load '/Game/Maps/Untitled_BuiltData': Can't find file.
+[2021.10.11-00.45.54:455][741]LogLinker: Warning: [AssetLog] C:\Users\Owner\OneDrive\Documents\GitHub\SpacPrisonRecreation\SpacRecreationGameStart\SpacRecreationGame\Content\Maps\Untitled.umap: Failed to load '/Game/Maps/Untitled_BuiltData': Can't find file.
+[2021.10.11-00.45.54:455][741]LoadErrors: Failed to load /Game/Maps/Untitled_BuiltData.Untitled_BuiltData Referenced by PersistentLevel
+[2021.10.11-00.45.54:463][741]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Untitled.Untitled
+[2021.10.11-00.45.54:463][741]Cmd: MAP LOAD FILE="C:/Users/Owner/OneDrive/Documents/GitHub/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Content/Maps/Untitled.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.10.11-00.45.54:463][741]LightingResults: New page: Lighting Build
+[2021.10.11-00.45.54:463][741]LoadErrors: New page: Loading map: Untitled.umap
+[2021.10.11-00.45.54:464][741]LogWorld: UWorld::CleanupWorld for RollcallPlatform, bSessionEnded=true, bCleanupResources=true
+[2021.10.11-00.45.54:464][741]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.11-00.45.54:464][741]MapCheck: New page: Map Check
+[2021.10.11-00.45.54:464][741]LightingResults: New page: Lighting Build
+[2021.10.11-00.45.54:467][741]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.11-00.45.54:469][741]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2021.10.11-00.45.54:469][741]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.10.11-00.45.54:471][741]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.10.11-00.45.54:471][741]LogAIModule: Creating AISystem for world Untitled
+[2021.10.11-00.45.54:478][741]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.10.11-00.45.54:486][741]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.10.11-00.45.54:486][741]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.125ms to complete.
+[2021.10.11-00.45.54:486][741]LogFileHelpers: Loading map 'Untitled' took 0.024
+[2021.10.11-00.46.07:621][276]LogContentBrowser: Attempting asset rename: Untitled -> Rollcall_Platform
+[2021.10.11-00.46.07:846][276]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.10.11-00.46.07:869][276]LogSavePackage: Moving 'C:/Users/Owner/OneDrive/Documents/GitHub/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Saved/Rollcall_PlatformF1F263614E12B2EBFEA1008610BFD179.tmp' to 'C:/Users/Owner/OneDrive/Documents/GitHub/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Content/Maps/Rollcall_Platform.umap'
+[2021.10.11-00.46.07:877][276]LogFileHelpers: Saving map 'Rollcall_Platform' took 0.036
+[2021.10.11-00.46.07:954][276]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2021.10.11-00.46.07:963][276]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2021.10.11-00.46.07:966][276]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2021.10.11-00.46.08:538][276]AssetCheck: New page: Asset Save: Rollcall_Platform
+[2021.10.11-00.46.08:538][276]LogContentValidation: Display: Validating World /Game/Maps/Rollcall_Platform.Rollcall_Platform
+[2021.10.11-00.46.29:817][797]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.10.11-00.46.52:047][511]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.10.11-00.46.54:080][751]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.10.11-00.48.21:532][947]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.10.11-00.51.13:463][382]Cmd: TRANSACTION UNDO
+[2021.10.11-00.51.13:463][382]LogEditorTransaction: Undo Move Actors
+[2021.10.11-00.51.17:238][790]Cmd: TRANSACTION UNDO
+[2021.10.11-00.51.17:238][790]LogEditorTransaction: Undo Move Actors
+[2021.10.11-00.52.09:518][980]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush6)
+[2021.10.11-00.58.11:141][933]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.10.11-01.00.22:476][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2021.10.11-01.00.22:526][ 26]LogSavePackage: Moving 'C:/Users/Owner/OneDrive/Documents/GitHub/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Saved/Rollcall_Platform_Auto10E918448405F2EE3EAE982A24828B275.tmp' to 'C:/Users/Owner/OneDrive/Documents/GitHub/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Saved/Autosaves/Game/Maps/Rollcall_Platform_Auto1.umap'
+[2021.10.11-01.00.22:528][ 26]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Rollcall_Platform' took 0.060
+[2021.10.11-01.00.22:528][ 26]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.060
+[2021.10.11-01.03.30:323][291]Cmd: TRANSACTION UNDO
+[2021.10.11-01.03.30:323][291]LogEditorTransaction: Undo Set Rotation
+[2021.10.11-01.03.54:196][ 93]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.10.11-01.05.01:504][606]Cmd: TRANSACTION UNDO
+[2021.10.11-01.05.01:504][606]LogEditorTransaction: Undo Set Scale
+[2021.10.11-01.05.12:795][904]Cmd: TRANSACTION UNDO
+[2021.10.11-01.05.12:795][904]LogEditorTransaction: Undo Set Scale
+[2021.10.11-01.05.14:338][ 46]Cmd: TRANSACTION UNDO
+[2021.10.11-01.05.14:338][ 46]LogEditorTransaction: Undo Set Scale
+[2021.10.11-01.05.30:371][925]Cmd: TRANSACTION UNDO
+[2021.10.11-01.05.30:371][925]LogEditorTransaction: Undo Set Scale
+[2021.10.11-01.05.42:801][353]Cmd: TRANSACTION UNDO
+[2021.10.11-01.05.42:801][353]LogEditorTransaction: Undo Set Scale
+[2021.10.11-01.05.52:482][457]Cmd: TRANSACTION UNDO
+[2021.10.11-01.05.52:482][457]LogEditorTransaction: Undo Set Scale
+[2021.10.11-01.06.50:300][188]Cmd: TRANSACTION UNDO
+[2021.10.11-01.06.50:300][188]LogEditorTransaction: Undo Set Scale
+[2021.10.11-01.10.22:941][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2021.10.11-01.10.23:029][ 51]LogSavePackage: Moving 'C:/Users/Owner/OneDrive/Documents/GitHub/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Saved/Rollcall_Platform_Auto25A115E9646794C4073BF6D84E87FB4DE.tmp' to 'C:/Users/Owner/OneDrive/Documents/GitHub/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Saved/Autosaves/Game/Maps/Rollcall_Platform_Auto2.umap'
+[2021.10.11-01.10.23:033][ 51]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Rollcall_Platform' took 0.113
+[2021.10.11-01.10.23:033][ 51]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.113
+[2021.10.11-01.39.06:745][698]Cmd: EDIT COPY
+[2021.10.11-01.39.07:221][755]Cmd: EDIT PASTE
+[2021.10.11-01.39.12:758][395]Cmd: TRANSACTION UNDO
+[2021.10.11-01.39.12:758][395]LogEditorTransaction: Undo Set Scale
+[2021.10.11-01.39.48:106][508]Cmd: TRANSACTION UNDO
+[2021.10.11-01.39.48:106][508]LogEditorTransaction: Undo Set Scale
+[2021.10.11-01.41.30:225][493]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.10.11-01.42.14:386][776]Cmd: EDIT COPY
+[2021.10.11-01.42.14:695][813]Cmd: EDIT PASTE
+[2021.10.11-01.42.19:849][400]Cmd: TRANSACTION UNDO
+[2021.10.11-01.42.19:849][400]LogEditorTransaction: Undo Set Rotation
+[2021.10.11-01.42.55:046][507]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.10.11-01.43.48:158][101]Cmd: EDIT COPY
+[2021.10.11-01.43.48:543][147]Cmd: EDIT PASTE
+[2021.10.11-01.44.11:810][898]Cmd: EDIT COPY
+[2021.10.11-01.44.12:145][938]Cmd: EDIT PASTE
+[2021.10.11-01.44.26:269][590]Cmd: TRANSACTION UNDO
+[2021.10.11-01.44.26:269][590]LogEditorTransaction: Undo Set Scale
+[2021.10.11-01.44.28:325][790]Cmd: TRANSACTION UNDO
+[2021.10.11-01.44.28:326][790]LogEditorTransaction: Undo Set Scale
+[2021.10.11-01.45.09:183][611]LogActorFactory: Actor Factory created Cube
+[2021.10.11-01.45.09:531][640]LogActorFactory: Actor Factory created Cube
+[2021.10.11-01.45.14:469][210]Cmd: TRANSACTION UNDO
+[2021.10.11-01.45.14:469][210]LogEditorTransaction: Undo Set Scale
+[2021.10.11-01.45.20:519][880]Cmd: DELETE
+[2021.10.11-01.45.20:519][880]Cmd: ACTOR DELETE
+[2021.10.11-01.45.20:609][880]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.10.11-01.45.20:651][880]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2021.10.11-01.45.20:657][880]LogEditorActor: Deleted 1 Actors (0.137 secs)
+[2021.10.11-01.45.24:003][245]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.10.11-01.47.14:184][602]Cmd: EDIT COPY
+[2021.10.11-01.47.14:477][637]Cmd: EDIT PASTE
+[2021.10.11-01.48.29:171][407]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.10.11-01.50.44:844][244]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.10.11-01.51.03:933][514]Cmd: EDIT COPY
+[2021.10.11-01.51.04:309][559]Cmd: EDIT PASTE
+[2021.10.11-01.52.25:807][683]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush14)
+[2021.10.11-01.52.29:524][112]Cmd: TRANSACTION UNDO
+[2021.10.11-01.52.29:524][112]LogEditorTransaction: Undo Set Scale
+[2021.10.11-01.52.33:336][518]Cmd: TRANSACTION UNDO
+[2021.10.11-01.52.33:336][518]LogEditorTransaction: Undo Set Scale
+[2021.10.11-01.52.53:502][855]Cmd: TRANSACTION UNDO
+[2021.10.11-01.52.53:502][855]LogEditorTransaction: Undo Set Scale
+[2021.10.11-01.52.55:761][ 73]Cmd: TRANSACTION UNDO
+[2021.10.11-01.52.55:761][ 73]LogEditorTransaction: Undo Set Scale
+[2021.10.11-01.53.39:334][285]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2021.10.11-01.53.39:456][285]LogSavePackage: Moving 'C:/Users/Owner/OneDrive/Documents/GitHub/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Saved/Rollcall_Platform_Auto34E00A27F4A48B6845DE2D9A8C50A0720.tmp' to 'C:/Users/Owner/OneDrive/Documents/GitHub/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Saved/Autosaves/Game/Maps/Rollcall_Platform_Auto3.umap'
+[2021.10.11-01.53.39:459][285]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Rollcall_Platform' took 0.202
+[2021.10.11-01.53.39:459][285]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.202
+[2021.10.11-02.07.00:178][878]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2021.10.11-02.07.00:297][878]LogSavePackage: Moving 'C:/Users/Owner/OneDrive/Documents/GitHub/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Saved/Rollcall_Platform_Auto440CECD484421DC39F0590A8F989546C7.tmp' to 'C:/Users/Owner/OneDrive/Documents/GitHub/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Saved/Autosaves/Game/Maps/Rollcall_Platform_Auto4.umap'
+[2021.10.11-02.07.00:300][878]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Rollcall_Platform' took 0.142
+[2021.10.11-02.07.00:300][878]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.142
+[2021.10.11-02.08.21:164][492]Cmd: TRANSACTION UNDO
+[2021.10.11-02.08.21:164][492]LogEditorTransaction: Undo Set Scale
+[2021.10.11-02.09.18:797][ 51]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Maps/Rollcall_Platform.Rollcall_Platform:PersistentLevel.ModelComponent_31771' invalid (2812 verts, 0 indices).
+[2021.10.11-02.09.18:797][ 51]LogPhysics: Warning: Attempt to build physics data for /Game/Maps/Rollcall_Platform.Rollcall_Platform:PersistentLevel.ModelComponent_31771.BodySetup_0 when we are unable to.
+[2021.10.11-02.09.20:709][270]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Maps/Rollcall_Platform.Rollcall_Platform:PersistentLevel.ModelComponent_31946' invalid (2820 verts, 0 indices).
+[2021.10.11-02.09.20:709][270]LogPhysics: Warning: Attempt to build physics data for /Game/Maps/Rollcall_Platform.Rollcall_Platform:PersistentLevel.ModelComponent_31946.BodySetup_0 when we are unable to.
+[2021.10.11-02.09.40:929][686]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Maps/Rollcall_Platform.Rollcall_Platform:PersistentLevel.ModelComponent_32121' invalid (2820 verts, 0 indices).
+[2021.10.11-02.09.40:929][686]LogPhysics: Warning: Attempt to build physics data for /Game/Maps/Rollcall_Platform.Rollcall_Platform:PersistentLevel.ModelComponent_32121.BodySetup_0 when we are unable to.
+[2021.10.11-02.09.46:425][292]Cmd: TRANSACTION UNDO
+[2021.10.11-02.09.46:425][292]LogEditorTransaction: Undo Set Scale
+[2021.10.11-02.09.46:474][292]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Maps/Rollcall_Platform.Rollcall_Platform:PersistentLevel.ModelComponent_32121' invalid (2820 verts, 0 indices).
+[2021.10.11-02.09.46:474][292]LogPhysics: Warning: Attempt to build physics data for /Game/Maps/Rollcall_Platform.Rollcall_Platform:PersistentLevel.ModelComponent_32121.BodySetup_0 when we are unable to.
+[2021.10.11-02.10.55:716][394]Cmd: TRANSACTION UNDO
+[2021.10.11-02.10.55:716][394]LogEditorTransaction: Undo Move Actors
+[2021.10.11-02.12.22:241][560]Cmd: EDIT COPY
+[2021.10.11-02.12.23:594][722]Cmd: EDIT PASTE
+[2021.10.11-02.12.35:052][ 30]Cmd: TRANSACTION UNDO
+[2021.10.11-02.12.35:052][ 30]LogEditorTransaction: Undo Set Rotation
+[2021.10.11-02.12.36:448][145]Cmd: TRANSACTION UNDO
+[2021.10.11-02.12.36:448][145]LogEditorTransaction: Undo Set Rotation
+[2021.10.11-02.13.14:812][557]Cmd: TRANSACTION UNDO
+[2021.10.11-02.13.14:812][557]LogEditorTransaction: Undo Set Scale
+[2021.10.11-02.13.17:786][859]Cmd: TRANSACTION UNDO
+[2021.10.11-02.13.17:786][859]LogEditorTransaction: Undo Set Scale
+[2021.10.11-02.15.22:459][365]Cmd: TRANSACTION UNDO
+[2021.10.11-02.15.22:459][365]LogEditorTransaction: Undo Set Scale
+[2021.10.11-02.16.31:604][648]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.10.11-02.17.01:692][210]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.10.11-02.17.29:855][772]Cmd: EDIT COPY
+[2021.10.11-02.17.30:138][806]Cmd: EDIT PASTE
+[2021.10.11-02.17.40:706][999]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.10.11-02.17.50:621][143]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.10.11-02.18.35:737][594]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.10.11-02.18.48:177][ 68]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.10.11-02.19.33:051][266]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.10.11-02.19.49:635][184]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.10.11-02.19.57:863][123]Cmd: TRANSACTION UNDO
+[2021.10.11-02.19.57:863][123]LogEditorTransaction: Undo Set Scale
+[2021.10.11-02.20.43:001][362]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.10.11-02.20.54:073][640]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.10.11-02.21.05:707][979]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.10.11-02.22.09:169][568]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.10.11-02.22.09:550][612]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (SkySphereMesh)
+[2021.10.11-02.22.11:284][807]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (SkySphereMesh)
+[2021.10.11-02.22.11:441][825]LogEditorViewport: Clicking on Actor (double click): BP_Sky_Sphere_C (Sky Sphere)
+[2021.10.11-02.22.51:888][657]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.10.11-02.22.52:141][686]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2021.10.11-02.22.53:258][801]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.10.11-02.22.56:688][211]Cmd: DELETE
+[2021.10.11-02.22.56:688][211]Cmd: ACTOR DELETE
+[2021.10.11-02.22.56:875][211]LogEditorActor: Deleted Actor: BP_Sky_Sphere_C
+[2021.10.11-02.22.56:995][211]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2021.10.11-02.22.57:018][211]LogEditorActor: Deleted 1 Actors (0.330 secs)
+[2021.10.11-02.24.11:494][925]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.10.11-02.24.25:135][ 59]LogEditorViewport: Clicking Background
+[2021.10.11-02.24.52:447][ 22]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.10.11-02.25.04:453][441]LogEditorViewport: Clicking Background
+[2021.10.11-02.25.09:452][ 40]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.10.11-02.25.12:781][432]LogEditorViewport: Clicking Background
+[2021.10.11-02.25.32:165][757]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.10.11-02.25.39:336][582]LogEditorViewport: Clicking Background
+[2021.10.11-02.27.30:870][628]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2021.10.11-02.27.31:017][628]LogSavePackage: Moving 'C:/Users/Owner/OneDrive/Documents/GitHub/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Saved/Rollcall_Platform_Auto5539F0B924F946501326460997B03DD04.tmp' to 'C:/Users/Owner/OneDrive/Documents/GitHub/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Saved/Autosaves/Game/Maps/Rollcall_Platform_Auto5.umap'
+[2021.10.11-02.27.31:020][628]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Rollcall_Platform' took 0.173
+[2021.10.11-02.27.31:020][628]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.173
+[2021.10.11-02.27.41:250][599]Cmd: EDIT COPY
+[2021.10.11-02.27.41:771][661]Cmd: EDIT PASTE
+[2021.10.11-02.29.40:164][877]Cmd: EDIT COPY
+[2021.10.11-02.29.40:406][906]Cmd: EDIT PASTE
+[2021.10.11-02.30.07:659][963]LogEditorViewport: Clicking Background
+[2021.10.11-02.30.13:066][590]LogEditorViewport: Clicking Background
+[2021.10.11-02.30.18:961][289]Cmd: EDIT COPY
+[2021.10.11-02.30.19:507][354]Cmd: EDIT PASTE
+[2021.10.11-02.30.25:187][977]LogEditorViewport: Clicking Background
+[2021.10.11-02.30.50:672][ 30]Cmd: EDIT COPY
+[2021.10.11-02.30.51:015][ 71]Cmd: EDIT PASTE
+[2021.10.11-02.31.24:267][875]Cmd: TRANSACTION UNDO
+[2021.10.11-02.31.24:267][875]LogEditorTransaction: Undo Set Scale
+[2021.10.11-02.31.28:646][319]Cmd: TRANSACTION UNDO
+[2021.10.11-02.31.28:646][319]LogEditorTransaction: Undo Set Scale
+[2021.10.11-02.31.32:150][674]Cmd: TRANSACTION UNDO
+[2021.10.11-02.31.32:150][674]LogEditorTransaction: Undo Set Scale
+[2021.10.11-02.31.34:034][839]Cmd: TRANSACTION UNDO
+[2021.10.11-02.31.34:035][839]LogEditorTransaction: Undo Set Scale
+[2021.10.11-02.32.13:901][221]LogMaterial: Display: Missing cached shadermap for M_GreyBall in PCD3D_SM5, Default, SM5 (DDC key hash: EED536CE3D9D5136495C87E0E3782CCDD50B657C), compiling. 
+[2021.10.11-02.32.13:938][221]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.10.11-02.32.13:940][221]LogMaterial: Display: Missing cached shadermap for M_ClearCoatBlack in PCD3D_SM5, Default, SM5 (DDC key hash: 7251D59505F4E773E81E49C5FBDC77F9453A3D47), compiling. 
+[2021.10.11-02.32.13:956][221]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 25
+[2021.10.11-02.32.13:956][221]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 22
+[2021.10.11-02.32.13:956][221]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 19
+[2021.10.11-02.32.13:956][221]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 16
+[2021.10.11-02.32.13:956][221]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 13
+[2021.10.11-02.32.13:956][221]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 10
+[2021.10.11-02.32.13:956][221]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 7
+[2021.10.11-02.32.13:956][221]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 4
+[2021.10.11-02.32.13:956][221]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2021.10.11-02.32.13:956][221]LogShaderCompilers: Display: Started 25 'Local' shader compile jobs with 'Low' priority
+[2021.10.11-02.32.13:956][221]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.10.11-02.32.13:983][221]LogMaterial: Display: Missing cached shadermap for M_ClearCoat in PCD3D_SM5, Default, SM5 (DDC key hash: 50ACDFFCCC09DC0928202652A339AD4F78C4250B), compiling. 
+[2021.10.11-02.32.13:999][221]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.10.11-02.32.14:885][221]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 50
+[2021.10.11-02.32.14:885][221]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 45
+[2021.10.11-02.32.14:885][221]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 40
+[2021.10.11-02.32.14:885][221]LogShaderCompilers: Display: Started 15 'Local' shader compile jobs with 'Low' priority
+[2021.10.11-02.32.14:885][221]LogMaterial: Display: Missing cached shadermap for M_ColorGrid in PCD3D_SM5, Default, SM5 (DDC key hash: 2F7A22EAC3B2B3F949F3B7E3A7FADFF47FB22593), compiling. 
+[2021.10.11-02.32.14:955][221]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.10.11-02.32.15:152][221]Cmd: DELETE
+[2021.10.11-02.32.15:152][221]Cmd: ACTOR DELETE
+[2021.10.11-02.32.15:281][221]LogEditorActor: Deleted Actor: Brush
+[2021.10.11-02.32.15:350][221]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2021.10.11-02.32.15:445][221]LogEditorActor: Deleted 1 Actors (0.292 secs)
+[2021.10.11-02.32.15:491][221]LogEditorViewport: Clicking Background
+[2021.10.11-02.32.15:764][242]LogEditorViewport: Clicking Background
+[2021.10.11-02.32.16:922][327]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 60
+[2021.10.11-02.32.16:922][327]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Low' priority
+[2021.10.11-02.32.17:060][328]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2021.10.11-02.32.17:060][328]LogShaderCompilers: Display: Total job queries 125, among them cache hits 0 (0.00%)
+[2021.10.11-02.32.17:060][328]LogShaderCompilers: Display: Tracking 26 distinct input hashes that result in 22 distinct outputs (84.62%)
+[2021.10.11-02.32.17:076][328]LogShaderCompilers: Display: RAM used: 0.12 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.01%
+[2021.10.11-02.32.17:076][328]LogShaderCompilers: Display: ================================================
+[2021.10.11-02.32.17:513][361]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 54
+[2021.10.11-02.32.17:513][361]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Low' priority
+[2021.10.11-02.32.17:513][361]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 49
+[2021.10.11-02.32.17:513][361]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Low' priority
+[2021.10.11-02.32.17:782][382]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 44
+[2021.10.11-02.32.17:782][382]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Low' priority
+[2021.10.11-02.32.17:838][385]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 40
+[2021.10.11-02.32.17:838][385]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Low' priority
+[2021.10.11-02.32.17:855][386]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 36
+[2021.10.11-02.32.17:855][386]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Low' priority
+[2021.10.11-02.32.18:034][402]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 32
+[2021.10.11-02.32.18:034][402]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Low' priority
+[2021.10.11-02.32.18:138][408]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 29
+[2021.10.11-02.32.18:139][408]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Low' priority
+[2021.10.11-02.32.18:273][415]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 26
+[2021.10.11-02.32.18:273][415]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Low' priority
+[2021.10.11-02.32.18:497][424]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 23
+[2021.10.11-02.32.18:497][424]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2021.10.11-02.32.18:982][451]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 21
+[2021.10.11-02.32.18:982][451]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2021.10.11-02.32.19:097][454]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 19
+[2021.10.11-02.32.19:097][454]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2021.10.11-02.32.19:730][492]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 17
+[2021.10.11-02.32.19:730][492]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2021.10.11-02.32.19:774][494]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 15
+[2021.10.11-02.32.19:774][494]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2021.10.11-02.32.19:810][496]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 13
+[2021.10.11-02.32.19:811][496]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2021.10.11-02.32.19:811][496]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 11
+[2021.10.11-02.32.19:811][496]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2021.10.11-02.32.19:870][500]Cmd: EDIT COPY
+[2021.10.11-02.32.19:927][504]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 10
+[2021.10.11-02.32.19:928][504]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2021.10.11-02.32.20:033][510]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 9
+[2021.10.11-02.32.20:033][510]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2021.10.11-02.32.20:075][512]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 8
+[2021.10.11-02.32.20:075][512]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2021.10.11-02.32.20:236][521]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2021.10.11-02.32.20:236][521]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2021.10.11-02.32.20:285][523]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 6
+[2021.10.11-02.32.20:285][523]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2021.10.11-02.32.20:310][524]Cmd: EDIT PASTE
+[2021.10.11-02.32.20:352][524]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 5
+[2021.10.11-02.32.20:352][524]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2021.10.11-02.32.20:640][524]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 4
+[2021.10.11-02.32.20:641][524]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2021.10.11-02.32.20:696][525]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 3
+[2021.10.11-02.32.20:696][525]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2021.10.11-02.32.20:735][526]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 2
+[2021.10.11-02.32.20:735][526]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2021.10.11-02.32.20:759][527]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 1
+[2021.10.11-02.32.20:759][527]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2021.10.11-02.32.24:189][897]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.10.11-02.32.25:195][ 14]LogEditorViewport: Clicking Background
+[2021.10.11-02.32.52:345][ 59]LogEditorViewport: Clicking Background
+[2021.10.11-02.33.09:674][ 46]LogEditorViewport: Clicking Background
+[2021.10.11-02.33.13:904][475]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.10.11-02.33.16:149][727]LogEditorViewport: Clicking Background
+[2021.10.11-02.34.01:169][857]Cmd: TRANSACTION UNDO
+[2021.10.11-02.34.01:169][857]LogEditorTransaction: Undo Move Actors
+[2021.10.11-02.34.53:693][821]LogEditorViewport: Clicking Background
+[2021.10.11-02.35.02:747][858]LogEditorViewport: Clicking Background
+[2021.10.11-02.35.46:945][974]Cmd: EDIT COPY
+[2021.10.11-02.35.47:205][  5]Cmd: EDIT PASTE
+[2021.10.11-02.35.50:240][319]LogEditorViewport: Clicking Background
+[2021.10.11-02.36.14:286][765]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.10.11-02.37.43:350][ 87]Cmd: EDIT COPY
+[2021.10.11-02.37.44:510][226]Cmd: EDIT PASTE
+[2021.10.11-02.38.06:426][689]Cmd: TRANSACTION UNDO
+[2021.10.11-02.38.06:426][689]LogEditorTransaction: Undo Set Scale
+[2021.10.11-02.38.13:997][511]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.10.11-02.38.21:134][322]LogEditorViewport: Clicking Background
+[2021.10.11-02.38.33:631][752]Cmd: TRANSACTION UNDO
+[2021.10.11-02.38.33:631][752]LogEditorTransaction: Undo Set Scale
+[2021.10.11-02.38.37:405][124]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2021.10.11-02.38.51:351][736]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.10.11-02.39.09:177][452]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.10.11-02.39.34:214][661]LogEditorViewport: Clicking Background
+[2021.10.11-02.40.45:539][884]LogEditorViewport: Clicking Background
+[2021.10.11-02.40.53:049][717]LogEditorViewport: Clicking Background
+[2021.10.11-02.40.57:579][229]LogEditorViewport: Clicking Background
+[2021.10.11-02.41.06:322][219]LogEditorViewport: Clicking Background
+[2021.10.11-02.41.14:060][139]Cmd: EDIT COPY
+[2021.10.11-02.41.14:820][230]Cmd: EDIT PASTE
+[2021.10.11-02.41.38:581][910]LogEditorViewport: Clicking Background
+[2021.10.11-02.41.58:512][270]LogEditorViewport: Clicking Background
+[2021.10.11-02.42.11:869][236]Cmd: EDIT COPY
+[2021.10.11-02.42.12:247][281]Cmd: EDIT PASTE
+[2021.10.11-02.42.17:710][854]Cmd: TRANSACTION UNDO
+[2021.10.11-02.42.17:710][854]LogEditorTransaction: Undo Set Rotation
+[2021.10.11-02.42.19:699][ 28]Cmd: TRANSACTION UNDO
+[2021.10.11-02.42.19:699][ 28]LogEditorTransaction: Undo Set Rotation
+[2021.10.11-02.42.31:923][376]LogEditorViewport: Clicking Background
+[2021.10.11-02.42.47:680][220]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush26)
+[2021.10.11-02.43.10:088][755]LogEditorViewport: Clicking Background
+[2021.10.11-02.43.36:035][952]LogUObjectHash: Compacting FUObjectHashTables data took   4.29ms
+[2021.10.11-02.43.36:218][952]LogSavePackage: Moving 'C:/Users/Owner/OneDrive/Documents/GitHub/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Saved/Rollcall_Platform_Auto685D50B2145FA271F5F1ECEAA35F3EC7A.tmp' to 'C:/Users/Owner/OneDrive/Documents/GitHub/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Saved/Autosaves/Game/Maps/Rollcall_Platform_Auto6.umap'
+[2021.10.11-02.43.36:222][952]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Rollcall_Platform' took 0.397
+[2021.10.11-02.43.36:222][952]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.397
+[2021.10.11-02.44.04:828][ 71]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.10.11-02.44.09:215][558]Cmd: TRANSACTION UNDO
+[2021.10.11-02.44.09:215][558]LogEditorTransaction: Undo Move Actors
+[2021.10.11-02.47.47:840][823]LogEditorViewport: Clicking Background
+[2021.10.11-02.48.08:243][660]Cmd: EDIT COPY
+[2021.10.11-02.48.08:702][715]Cmd: EDIT PASTE
+[2021.10.11-02.48.23:559][393]LogEditorViewport: Clicking Background
+[2021.10.11-02.49.19:818][908]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.10.11-02.49.20:794][ 21]Cmd: EDIT COPY
+[2021.10.11-02.49.21:116][ 55]Cmd: EDIT PASTE
+[2021.10.11-02.49.33:517][519]LogEditorViewport: Clicking Background
+[2021.10.11-02.49.44:073][302]LogEditorViewport: Clicking Background
+[2021.10.11-02.49.51:141][147]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2021.10.11-02.49.55:450][653]LogEditorViewport: Clicking Background
+[2021.10.11-02.50.04:722][763]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2021.10.11-02.50.10:060][389]LogEditorViewport: Clicking Background
+[2021.10.11-02.50.15:700][ 63]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor2)
+[2021.10.11-02.50.16:237][121]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2021.10.11-02.50.18:514][382]LogEditorViewport: Clicking Background
+[2021.10.11-02.50.22:105][786]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.10.11-02.50.46:957][570]LogEditorViewport: Clicking on Actor (LMB): Brush (Linear Stair Brush5)
+[2021.10.11-02.50.54:591][417]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2021.10.11-02.51.04:454][492]Cmd: TRANSACTION UNDO
+[2021.10.11-02.51.04:454][492]LogEditorTransaction: Undo Set Rotation
+[2021.10.11-02.51.08:450][899]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2021.10.11-02.51.14:353][537]Cmd: TRANSACTION UNDO
+[2021.10.11-02.51.14:353][537]LogEditorTransaction: Undo Set Scale
+[2021.10.11-02.51.18:336][944]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2021.10.11-02.51.22:139][372]LogEditorViewport: Clicking on Actor (LMB): Brush (Linear Stair Brush5)
+[2021.10.11-02.51.26:962][911]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2021.10.11-02.51.39:223][288]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2021.10.11-02.51.44:720][887]LogEditorViewport: Clicking on Actor (LMB): Brush (Linear Stair Brush5)
+[2021.10.11-02.51.45:469][974]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2021.10.11-02.51.49:224][375]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2021.10.11-02.51.55:498][ 57]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2021.10.11-02.52.01:555][734]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2021.10.11-02.52.05:563][181]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2021.10.11-02.52.08:787][547]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.10.11-02.52.22:375][132]LogEditorViewport: Clicking Background
+[2021.10.11-02.52.29:279][958]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.10.11-02.52.29:684][  3]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2021.10.11-02.52.36:038][745]LogEditorViewport: Clicking Background
+[2021.10.11-02.52.37:794][952]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2021.10.11-02.52.40:652][270]LogEditorViewport: Clicking Background
+[2021.10.11-02.52.55:809][ 83]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor2)
+[2021.10.11-02.52.57:087][226]Cmd: EDIT COPY
+[2021.10.11-02.52.57:305][252]Cmd: EDIT PASTE
+[2021.10.11-02.53.22:889][595]LogEditorViewport: Clicking Background
+[2021.10.11-02.53.31:596][285]LogEditorViewport: Clicking Background
+[2021.10.11-02.53.47:188][ 97]LogEditorViewport: Clicking Background
+[2021.10.11-02.53.56:656][199]LogEditorViewport: Clicking Background
+[2021.10.11-02.54.05:774][258]LogEditorViewport: Clicking Background
+[2021.10.11-02.54.16:195][477]Cmd: TRANSACTION UNDO
+[2021.10.11-02.54.16:195][477]LogEditorTransaction: Undo Set Scale
+[2021.10.11-02.54.20:205][880]LogEditorViewport: Clicking Background
+[2021.10.11-02.54.29:220][567]LogEditorViewport: Clicking Background
+[2021.10.11-02.54.38:479][670]Cmd: EDIT COPY
+[2021.10.11-02.54.39:688][812]Cmd: EDIT PASTE
+[2021.10.11-02.54.57:432][800]LogEditorViewport: Clicking Background
+[2021.10.11-02.55.08:287][393]LogEditorViewport: Clicking Background
+[2021.10.11-02.55.38:044][486]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2021.10.11-02.55.38:359][486]LogSavePackage: Moving 'C:/Users/Owner/OneDrive/Documents/GitHub/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Saved/Rollcall_Platform_Auto751B3EFA0433C0AA3A848DCAD0BA84CA3.tmp' to 'C:/Users/Owner/OneDrive/Documents/GitHub/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Saved/Autosaves/Game/Maps/Rollcall_Platform_Auto7.umap'
+[2021.10.11-02.55.38:362][486]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Rollcall_Platform' took 0.424
+[2021.10.11-02.55.38:362][486]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.424
+[2021.10.11-02.56.58:826][719]LogEditorViewport: Clicking Background
+[2021.10.11-02.57.11:912][248]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.10.11-02.57.12:613][328]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2021.10.11-02.57.13:160][390]LogEditorViewport: Clicking Background
+[2021.10.11-02.57.16:710][778]LogSlate: Took 0.031807 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.10.11-02.57.20:944][266]Cmd: TRANSACTION UNDO
+[2021.10.11-02.57.20:945][266]LogEditorTransaction: Undo Create Actors
+[2021.10.11-02.57.41:328][598]LogEditorViewport: Clicking Background
+[2021.10.11-02.57.50:483][667]LogEditorViewport: Clicking Background
+[2021.10.11-02.58.01:358][942]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2021.10.11-02.58.01:502][942]LogSavePackage: Moving 'C:/Users/Owner/OneDrive/Documents/GitHub/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Saved/Rollcall_Platform2A0C081546105A3E82BFB78B22E02BD1.tmp' to 'C:/Users/Owner/OneDrive/Documents/GitHub/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Content/Maps/Rollcall_Platform.umap'
+[2021.10.11-02.58.01:667][942]AssetCheck: New page: Asset Save: Rollcall_Platform
+[2021.10.11-02.58.01:667][942]LogContentValidation: Display: Validating World /Game/Maps/Rollcall_Platform.Rollcall_Platform
+[2021.10.11-02.58.03:434][122]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2021.10.11-02.58.03:524][122]LogSavePackage: Moving 'C:/Users/Owner/OneDrive/Documents/GitHub/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Saved/Rollcall_Platform4FC38F5442D9C9C16A86ACB57B6CA111.tmp' to 'C:/Users/Owner/OneDrive/Documents/GitHub/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Content/Maps/Rollcall_Platform.umap'
+[2021.10.11-02.58.03:546][122]AssetCheck: New page: Asset Save: Rollcall_Platform
+[2021.10.11-02.58.03:546][122]LogContentValidation: Display: Validating World /Game/Maps/Rollcall_Platform.Rollcall_Platform
+[2021.10.11-02.58.15:387][522]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2021.10.11-02.58.15:783][522]LogAssetEditorSubsystem: Opening Asset editor for World /Game/RollcallPlatform.RollcallPlatform
+[2021.10.11-02.58.15:802][522]Cmd: MAP LOAD FILE="C:/Users/Owner/OneDrive/Documents/GitHub/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Content/RollcallPlatform.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.10.11-02.58.15:808][522]LightingResults: New page: Lighting Build
+[2021.10.11-02.58.15:823][522]LoadErrors: New page: Loading map: RollcallPlatform.umap
+[2021.10.11-02.58.15:934][522]LogWorld: UWorld::CleanupWorld for Rollcall_Platform, bSessionEnded=true, bCleanupResources=true
+[2021.10.11-02.58.16:074][522]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.11-02.58.16:174][522]MapCheck: New page: Map Check
+[2021.10.11-02.58.16:214][522]LightingResults: New page: Lighting Build
+[2021.10.11-02.58.16:285][522]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.11-02.58.16:573][522]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2021.10.11-02.58.16:647][522]LogAudio: Display: Audio Device (ID: 1) registered with world 'RollcallPlatform'.
+[2021.10.11-02.58.16:941][522]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.10.11-02.58.16:948][522]LogAIModule: Creating AISystem for world RollcallPlatform
+[2021.10.11-02.58.17:116][522]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2021.10.11-02.58.17:153][522]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.10.11-02.58.17:199][522]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 36.661ms to complete.
+[2021.10.11-02.58.17:225][522]LogFileHelpers: Loading map 'RollcallPlatform' took 1.434
+[2021.10.11-02.58.19:882][832]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.10.11-02.58.20:029][832]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Rollcall_Platform.Rollcall_Platform
+[2021.10.11-02.58.20:030][832]Cmd: MAP LOAD FILE="C:/Users/Owner/OneDrive/Documents/GitHub/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Content/Maps/Rollcall_Platform.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.10.11-02.58.20:030][832]LightingResults: New page: Lighting Build
+[2021.10.11-02.58.20:030][832]LoadErrors: New page: Loading map: Rollcall_Platform.umap
+[2021.10.11-02.58.20:030][832]LogWorld: UWorld::CleanupWorld for RollcallPlatform, bSessionEnded=true, bCleanupResources=true
+[2021.10.11-02.58.20:030][832]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.11-02.58.20:031][832]MapCheck: New page: Map Check
+[2021.10.11-02.58.20:031][832]LightingResults: New page: Lighting Build
+[2021.10.11-02.58.20:045][832]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.11-02.58.20:047][832]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2021.10.11-02.58.20:048][832]LogAudio: Display: Audio Device (ID: 1) registered with world 'Rollcall_Platform'.
+[2021.10.11-02.58.20:082][832]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.10.11-02.58.20:083][832]LogAIModule: Creating AISystem for world Rollcall_Platform
+[2021.10.11-02.58.20:088][832]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2021.10.11-02.58.20:101][832]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.10.11-02.58.20:104][832]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 2.853ms to complete.
+[2021.10.11-02.58.20:104][832]LogFileHelpers: Loading map 'Rollcall_Platform' took 0.074
