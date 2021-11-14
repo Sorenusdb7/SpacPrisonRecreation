@@ -1011,3 +1011,12 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.11.14-18.27.32:765][666]AssetCheck: New page: Asset Save: multiple assets
 [2021.11.14-18.27.32:765][666]LogContentValidation: Display: Validating World /Game/Maps/VisitorRoom.VisitorRoom
 [2021.11.14-18.27.32:765][666]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/VisitorRoom_BuiltData.VisitorRoom_BuiltData
+[2021.11.14-19.05.20:262][531]LogContentBrowser: Deferred new asset file creation: VisitorRoom1
+[2021.11.14-19.05.20:281][531]LogContentBrowser: Creating deferred item: VisitorRoom1
+[2021.11.14-19.05.26:951][932]LogContentBrowser: Attempting asset rename: VisitorRoom1 -> VisitorRoomBackup
+[2021.11.14-19.05.26:977][932]LogContentBrowser: End creating deferred item VisitorRoom1
+[2021.11.14-19.05.27:924][988]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2021.11.14-19.05.27:954][988]LogSavePackage: Moving '../../../../../UE Projects/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Saved/VisitorRoomBackup1173B71447FEDCB7A534BB95277ADCC1.tmp' to '../../../../../UE Projects/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Content/Maps/VisitorRoomBackup.umap'
+[2021.11.14-19.05.27:957][988]LogFileHelpers: Saving map 'VisitorRoomBackup' took 0.041
+[2021.11.14-19.05.27:971][988]AssetCheck: New page: Asset Save: VisitorRoomBackup
+[2021.11.14-19.05.27:971][988]LogContentValidation: Display: Validating World /Game/Maps/VisitorRoomBackup.VisitorRoomBackup
