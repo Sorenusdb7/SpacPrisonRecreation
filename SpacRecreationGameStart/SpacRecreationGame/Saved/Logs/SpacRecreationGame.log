@@ -1346,3 +1346,47 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.01.22-14.03.13:772][207]LogContentValidation: Display: Validating DialogueWave /Game/Maps/Sounds/D4.D4
 [2022.01.22-14.03.15:390][396]LogSlate: Window 'D4' being destroyed
 [2022.01.22-14.03.15:394][396]LogSlate: Window 'D4' being destroyed
+[2022.01.22-14.03.35:742][396]LogContentBrowser: Deferred new asset file creation: NewDialogueWave
+[2022.01.22-14.03.35:752][396]LogContentBrowser: Creating deferred item: NewDialogueWave
+[2022.01.22-14.03.37:542][611]LogContentBrowser: Attempting asset rename: NewDialogueWave -> D5
+[2022.01.22-14.03.37:542][611]LogContentBrowser: End creating deferred item NewDialogueWave
+[2022.01.22-14.03.38:561][728]LogAssetEditorSubsystem: Opening Asset editor for DialogueWave /Game/Maps/Sounds/D5.D5
+[2022.01.22-14.03.54:155][168]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Sounds/D5" FILE="../../../../../SPAC_PRISON/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Content/Maps/Sounds/D5.uasset" SILENT=true
+[2022.01.22-14.03.54:156][168]LogSavePackage: Moving '../../../../../SPAC_PRISON/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Saved/D59F68CE5B4476CA87981532941D4FC0F8.tmp' to '../../../../../SPAC_PRISON/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Content/Maps/Sounds/D5.uasset'
+[2022.01.22-14.03.54:174][168]AssetCheck: New page: Asset Save: D5
+[2022.01.22-14.03.54:174][168]LogContentValidation: Display: Validating DialogueWave /Game/Maps/Sounds/D5.D5
+[2022.01.22-14.03.55:472][320]LogSlate: Window 'D5' being destroyed
+[2022.01.22-14.03.55:477][320]LogSlate: Window 'D5' being destroyed
+[2022.01.22-14.04.07:801][765]LogContentBrowser: Deferred new asset file creation: NewDialogueWave
+[2022.01.22-14.04.07:810][765]LogContentBrowser: Creating deferred item: NewDialogueWave
+[2022.01.22-14.04.12:789][363]LogContentBrowser: Attempting asset rename: NewDialogueWave -> D6
+[2022.01.22-14.04.12:789][363]LogContentBrowser: End creating deferred item NewDialogueWave
+[2022.01.22-14.04.15:103][637]LogAssetEditorSubsystem: Opening Asset editor for DialogueWave /Game/Maps/Sounds/D6.D6
+[2022.01.22-14.04.35:315][628]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Sounds/D6" FILE="../../../../../SPAC_PRISON/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Content/Maps/Sounds/D6.uasset" SILENT=true
+[2022.01.22-14.04.35:316][628]LogSavePackage: Moving '../../../../../SPAC_PRISON/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Saved/D67541D4A241218669826EC38BCC86AFFD.tmp' to '../../../../../SPAC_PRISON/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Content/Maps/Sounds/D6.uasset'
+[2022.01.22-14.04.35:327][628]AssetCheck: New page: Asset Save: D6
+[2022.01.22-14.04.35:327][628]LogContentValidation: Display: Validating DialogueWave /Game/Maps/Sounds/D6.D6
+[2022.01.22-14.04.41:798][394]LogSlate: Window 'D6' being destroyed
+[2022.01.22-14.04.41:803][394]LogSlate: Window 'D6' being destroyed
+[2022.01.22-14.04.47:968][117]LogContentBrowser: Deferred new asset file creation: NewDialogueWave
+[2022.01.22-14.04.47:976][117]LogContentBrowser: Creating deferred item: NewDialogueWave
+[2022.01.22-14.04.49:580][310]LogContentBrowser: Attempting asset rename: NewDialogueWave -> D7
+[2022.01.22-14.04.49:581][310]LogContentBrowser: End creating deferred item NewDialogueWave
+[2022.01.22-14.04.50:511][417]LogAssetEditorSubsystem: Opening Asset editor for DialogueWave /Game/Maps/Sounds/D7.D7
+[2022.01.22-14.05.09:019][132]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Sounds/D7" FILE="../../../../../SPAC_PRISON/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Content/Maps/Sounds/D7.uasset" SILENT=true
+[2022.01.22-14.05.09:020][132]LogSavePackage: Moving '../../../../../SPAC_PRISON/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Saved/D7847AAE8D4C859AAC3D6C7CB694365CC8.tmp' to '../../../../../SPAC_PRISON/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Content/Maps/Sounds/D7.uasset'
+[2022.01.22-14.05.09:029][132]AssetCheck: New page: Asset Save: D7
+[2022.01.22-14.05.09:029][132]LogContentValidation: Display: Validating DialogueWave /Game/Maps/Sounds/D7.D7
+[2022.01.22-14.05.11:642][442]LogSlate: Window 'D7' being destroyed
+[2022.01.22-14.05.11:646][442]LogSlate: Window 'D7' being destroyed
+[2022.01.22-14.05.16:411][  3]LogContentBrowser: Deferred new asset file creation: NewDialogueWave
+[2022.01.22-14.05.16:419][  3]LogContentBrowser: Creating deferred item: NewDialogueWave
+[2022.01.22-14.05.19:445][364]LogContentBrowser: Attempting asset rename: NewDialogueWave -> D8
+[2022.01.22-14.05.19:445][364]LogContentBrowser: End creating deferred item NewDialogueWave
+[2022.01.22-14.05.20:165][448]LogAssetEditorSubsystem: Opening Asset editor for DialogueWave /Game/Maps/Sounds/D8.D8
+[2022.01.22-14.05.36:654][  7]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Sounds/D8" FILE="../../../../../SPAC_PRISON/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Content/Maps/Sounds/D8.uasset" SILENT=true
+[2022.01.22-14.05.36:655][  7]LogSavePackage: Moving '../../../../../SPAC_PRISON/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Saved/D82452265B4F62E46B6F005DB40692D468.tmp' to '../../../../../SPAC_PRISON/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Content/Maps/Sounds/D8.uasset'
+[2022.01.22-14.05.36:664][  7]AssetCheck: New page: Asset Save: D8
+[2022.01.22-14.05.36:664][  7]LogContentValidation: Display: Validating DialogueWave /Game/Maps/Sounds/D8.D8
+[2022.01.22-14.05.38:164][186]LogSlate: Window 'D8' being destroyed
+[2022.01.22-14.05.38:169][186]LogSlate: Window 'D8' being destroyed
