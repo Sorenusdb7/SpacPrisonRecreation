@@ -1874,3 +1874,77 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.01.22-15.06.59:669][650]LogSlate: Window 'Dialogue' being destroyed
 [2022.01.22-15.06.59:672][650]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
 [2022.01.22-15.06.59:672][650]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.22-16.25.21:197][218]LogMetaData: Removing '/Game/Maps/Dialogue_GroupCell/Dialogue.Dialogue:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Maps/Sounds/Dialogue.PackageMetaData'
+[2022.01.22-16.25.21:197][218]LogMetaData: Removing '/Game/Maps/Dialogue_GroupCell/Dialogue.SKEL_Dialogue_C' ref from Metadata '/Game/Maps/Sounds/Dialogue.PackageMetaData'
+[2022.01.22-16.25.21:197][218]LogMetaData: Removing '/Game/Maps/Dialogue_GroupCell/Dialogue.Dialogue_C' ref from Metadata '/Game/Maps/Sounds/Dialogue.PackageMetaData'
+[2022.01.22-16.25.21:197][218]LogMetaData: Removing '/Game/Maps/Dialogue_GroupCell/Dialogue.Dialogue:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Maps/Sounds/Dialogue.PackageMetaData'
+[2022.01.22-16.25.21:197][218]LogMetaData: Removing '/Game/Maps/Dialogue_GroupCell/Dialogue.Dialogue:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Maps/Sounds/Dialogue.PackageMetaData'
+[2022.01.22-16.25.21:197][218]LogMetaData: Removing '/Game/Maps/Dialogue_GroupCell/Dialogue.Dialogue:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Maps/Sounds/Dialogue.PackageMetaData'
+[2022.01.22-16.25.21:197][218]LogMetaData: Removing '/Game/Maps/Dialogue_GroupCell/Dialogue.SKEL_Dialogue_C:ReceiveBeginPlay' ref from Metadata '/Game/Maps/Sounds/Dialogue.PackageMetaData'
+[2022.01.22-16.25.21:197][218]LogMetaData: Removing '/Game/Maps/Dialogue_GroupCell/Dialogue.SKEL_Dialogue_C:UserConstructionScript' ref from Metadata '/Game/Maps/Sounds/Dialogue.PackageMetaData'
+[2022.01.22-16.25.21:222][218]LogSavePackage: Moving '../../../../../SPAC_PRISON/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Saved/D6BC1BC7BD407A49A7703A1FA5FABD1DB4.tmp' to '../../../../../SPAC_PRISON/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Content/Maps/Dialogue_GroupCell/D6.uasset'
+[2022.01.22-16.25.21:224][218]LogSavePackage: Moving '../../../../../SPAC_PRISON/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Saved/D167BEFEF5419F71F498B290A71B66BD75.tmp' to '../../../../../SPAC_PRISON/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Content/Maps/Dialogue_GroupCell/D1.uasset'
+[2022.01.22-16.25.21:266][218]LogSavePackage: Moving '../../../../../SPAC_PRISON/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Saved/D5F6E6CC33488E3A3F4DAFE38BA320AF77.tmp' to '../../../../../SPAC_PRISON/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Content/Maps/Dialogue_GroupCell/D5.uasset'
+[2022.01.22-16.25.21:268][218]LogSavePackage: Moving '../../../../../SPAC_PRISON/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Saved/D46BA6749C4FA3669DC3FAE98B224B4200.tmp' to '../../../../../SPAC_PRISON/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Content/Maps/Dialogue_GroupCell/D4.uasset'
+[2022.01.22-16.25.21:269][218]LogSavePackage: Moving '../../../../../SPAC_PRISON/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Saved/D3155D9A554B864BE912C38480F58A9872.tmp' to '../../../../../SPAC_PRISON/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Content/Maps/Dialogue_GroupCell/D3.uasset'
+[2022.01.22-16.25.21:271][218]LogSavePackage: Moving '../../../../../SPAC_PRISON/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Saved/D24135FB5046D2646F6C23C7AAC3A5BB73.tmp' to '../../../../../SPAC_PRISON/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Content/Maps/Dialogue_GroupCell/D2.uasset'
+[2022.01.22-16.25.21:353][218]LogSavePackage: Moving '../../../../../SPAC_PRISON/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Saved/Silence15S2E8DDC91470DFC8E3012E4B1528333ED.tmp' to '../../../../../SPAC_PRISON/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Content/Maps/Dialogue_GroupCell/Silence15S.uasset'
+[2022.01.22-16.25.21:385][218]LogSavePackage: Moving '../../../../../SPAC_PRISON/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Saved/DV124C7F2B44C7DC3525472BDB65A4EB65C.tmp' to '../../../../../SPAC_PRISON/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Content/Maps/Dialogue_GroupCell/DV1.uasset'
+[2022.01.22-16.25.21:392][218]LogSavePackage: Moving '../../../../../SPAC_PRISON/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Saved/Silence10SDD27DAC14EE659EE91CB2784F18577FE.tmp' to '../../../../../SPAC_PRISON/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Content/Maps/Dialogue_GroupCell/Silence10S.uasset'
+[2022.01.22-16.25.21:398][218]LogSavePackage: Moving '../../../../../SPAC_PRISON/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Saved/Silence5SF730D5C2449BD323896E6DBA5D07E190.tmp' to '../../../../../SPAC_PRISON/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Content/Maps/Dialogue_GroupCell/Silence5S.uasset'
+[2022.01.22-16.25.21:400][218]LogSavePackage: Moving '../../../../../SPAC_PRISON/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Saved/D78FAD733F4AEFEC475E0F7997862C8C52.tmp' to '../../../../../SPAC_PRISON/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Content/Maps/Dialogue_GroupCell/D7.uasset'
+[2022.01.22-16.25.21:401][218]LogSavePackage: Moving '../../../../../SPAC_PRISON/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Saved/D834238C5E469AF51E6D2CC6ACDB11F89A.tmp' to '../../../../../SPAC_PRISON/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Content/Maps/Dialogue_GroupCell/D8.uasset'
+[2022.01.22-16.25.21:403][218]LogSavePackage: Moving '../../../../../SPAC_PRISON/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Saved/D989C52C27475A759FDF9A23BE52298DCF.tmp' to '../../../../../SPAC_PRISON/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Content/Maps/Dialogue_GroupCell/D9.uasset'
+[2022.01.22-16.25.21:405][218]LogSavePackage: Moving '../../../../../SPAC_PRISON/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Saved/D109D33F57048EFA6895359DD980ECD9C3F.tmp' to '../../../../../SPAC_PRISON/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Content/Maps/Dialogue_GroupCell/D10.uasset'
+[2022.01.22-16.25.21:407][218]LogSavePackage: Moving '../../../../../SPAC_PRISON/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Saved/D1115226A034D98A7E03CB547A686A222BB.tmp' to '../../../../../SPAC_PRISON/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Content/Maps/Dialogue_GroupCell/D11.uasset'
+[2022.01.22-16.25.21:408][218]LogSavePackage: Moving '../../../../../SPAC_PRISON/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Saved/D12824535D94BD616B90F95C49695D5DDC6.tmp' to '../../../../../SPAC_PRISON/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Content/Maps/Dialogue_GroupCell/D12.uasset'
+[2022.01.22-16.25.21:409][218]LogSavePackage: Moving '../../../../../SPAC_PRISON/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Saved/D13DA44AF194CB82D4415F51E9CDD8DC6C7.tmp' to '../../../../../SPAC_PRISON/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Content/Maps/Dialogue_GroupCell/D13.uasset'
+[2022.01.22-16.25.21:411][218]LogSavePackage: Moving '../../../../../SPAC_PRISON/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Saved/D143E9BC9704DE595BB006E088E87C8C0B7.tmp' to '../../../../../SPAC_PRISON/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Content/Maps/Dialogue_GroupCell/D14.uasset'
+[2022.01.22-16.25.21:413][218]LogSavePackage: Moving '../../../../../SPAC_PRISON/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Saved/D151692BC694C59903AD8664DBBE6E05E42.tmp' to '../../../../../SPAC_PRISON/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Content/Maps/Dialogue_GroupCell/D15.uasset'
+[2022.01.22-16.25.21:415][218]LogSavePackage: Moving '../../../../../SPAC_PRISON/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Saved/D16D21CF17C460C07053E4DA2B1B96C846D.tmp' to '../../../../../SPAC_PRISON/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Content/Maps/Dialogue_GroupCell/D16.uasset'
+[2022.01.22-16.25.21:492][218]LogSavePackage: Moving '../../../../../SPAC_PRISON/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Saved/DialogueE28EED2D4EC337A229E373B352B7B7D5.tmp' to '../../../../../SPAC_PRISON/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Content/Maps/Dialogue_GroupCell/Dialogue.uasset'
+[2022.01.22-16.25.21:715][218]LogUObjectHash: Compacting FUObjectHashTables data took   8.11ms
+[2022.01.22-16.25.21:740][218]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2022.01.22-16.25.21:754][218]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.01.22-16.25.21:767][218]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.01.22-16.25.21:781][218]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.01.22-16.25.21:792][218]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.01.22-16.25.21:805][218]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.01.22-16.25.21:818][218]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2022.01.22-16.25.21:830][218]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2022.01.22-16.25.21:842][218]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.01.22-16.25.21:854][218]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.01.22-16.25.21:866][218]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.01.22-16.25.21:883][218]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2022.01.22-16.25.21:897][218]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.01.22-16.25.21:909][218]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.01.22-16.25.21:921][218]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2022.01.22-16.25.21:933][218]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2022.01.22-16.25.21:944][218]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.01.22-16.25.21:955][218]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.01.22-16.25.21:966][218]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.01.22-16.25.21:977][218]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.01.22-16.25.21:997][218]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2022.01.22-16.25.22:009][218]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.01.22-16.25.22:243][218]AssetCheck: New page: Asset Save: multiple assets
+[2022.01.22-16.25.22:243][218]LogContentValidation: Display: Validating DialogueWave /Game/Maps/Dialogue_GroupCell/D6.D6
+[2022.01.22-16.25.22:243][218]LogContentValidation: Display: Validating DialogueWave /Game/Maps/Dialogue_GroupCell/D1.D1
+[2022.01.22-16.25.22:243][218]LogContentValidation: Display: Validating DialogueWave /Game/Maps/Dialogue_GroupCell/D5.D5
+[2022.01.22-16.25.22:243][218]LogContentValidation: Display: Validating DialogueWave /Game/Maps/Dialogue_GroupCell/D4.D4
+[2022.01.22-16.25.22:243][218]LogContentValidation: Display: Validating DialogueWave /Game/Maps/Dialogue_GroupCell/D3.D3
+[2022.01.22-16.25.22:243][218]LogContentValidation: Display: Validating DialogueWave /Game/Maps/Dialogue_GroupCell/D2.D2
+[2022.01.22-16.25.22:243][218]LogContentValidation: Display: Validating SoundWave /Game/Maps/Dialogue_GroupCell/Silence15S.Silence15S
+[2022.01.22-16.25.22:243][218]LogContentValidation: Display: Validating DialogueVoice /Game/Maps/Dialogue_GroupCell/DV1.DV1
+[2022.01.22-16.25.22:243][218]LogContentValidation: Display: Validating SoundWave /Game/Maps/Dialogue_GroupCell/Silence10S.Silence10S
+[2022.01.22-16.25.22:244][218]LogContentValidation: Display: Validating SoundWave /Game/Maps/Dialogue_GroupCell/Silence5S.Silence5S
+[2022.01.22-16.25.22:244][218]LogContentValidation: Display: Validating DialogueWave /Game/Maps/Dialogue_GroupCell/D7.D7
+[2022.01.22-16.25.22:244][218]LogContentValidation: Display: Validating DialogueWave /Game/Maps/Dialogue_GroupCell/D8.D8
+[2022.01.22-16.25.22:244][218]LogContentValidation: Display: Validating DialogueWave /Game/Maps/Dialogue_GroupCell/D9.D9
+[2022.01.22-16.25.22:244][218]LogContentValidation: Display: Validating DialogueWave /Game/Maps/Dialogue_GroupCell/D10.D10
+[2022.01.22-16.25.22:244][218]LogContentValidation: Display: Validating DialogueWave /Game/Maps/Dialogue_GroupCell/D11.D11
+[2022.01.22-16.25.22:244][218]LogContentValidation: Display: Validating DialogueWave /Game/Maps/Dialogue_GroupCell/D12.D12
+[2022.01.22-16.25.22:244][218]LogContentValidation: Display: Validating DialogueWave /Game/Maps/Dialogue_GroupCell/D13.D13
+[2022.01.22-16.25.22:244][218]LogContentValidation: Display: Validating DialogueWave /Game/Maps/Dialogue_GroupCell/D14.D14
+[2022.01.22-16.25.22:244][218]LogContentValidation: Display: Validating DialogueWave /Game/Maps/Dialogue_GroupCell/D15.D15
+[2022.01.22-16.25.22:244][218]LogContentValidation: Display: Validating DialogueWave /Game/Maps/Dialogue_GroupCell/D16.D16
+[2022.01.22-16.25.22:244][218]LogContentValidation: Display: Validating Blueprint /Game/Maps/Dialogue_GroupCell/Dialogue.Dialogue
