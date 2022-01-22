@@ -1478,3 +1478,399 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.01.22-14.09.57:382][852]LogContentValidation: Display: Validating DialogueWave /Game/Maps/Sounds/D16.D16
 [2022.01.22-14.10.00:518][223]LogSlate: Window 'D16' being destroyed
 [2022.01.22-14.10.00:525][223]LogSlate: Window 'D16' being destroyed
+[2022.01.22-14.10.18:006][706]LogAssetEditorSubsystem: Opening Asset editor for DialogueWave /Game/Maps/Sounds/D14.D14
+[2022.01.22-14.10.22:716][258]LogSlate: Window 'D14' being destroyed
+[2022.01.22-14.10.22:722][258]LogSlate: Window 'D14' being destroyed
+[2022.01.22-14.11.52:267][800]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.01.22-14.11.52:273][800]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.01.22-14.11.52:283][800]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.01.22-14.11.57:960][480]LogContentBrowser: Attempting asset rename: NewBlueprint -> Dialogue
+[2022.01.22-14.11.58:028][480]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.01.22-14.11.59:059][597]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Maps/Sounds/Dialogue.Dialogue
+[2022.01.22-14.12.00:268][597]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0016 seconds. Added 126 classes and 0 folders.
+[2022.01.22-14.12.05:073][854]LogSlate: Took 0.020061 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.01.22-14.13.45:460][856]LogSlate: Took 0.018427 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.01.22-14.14.47:547][869]LogSlate: Window 'Dialogue' being destroyed
+[2022.01.22-14.14.47:552][869]LogSlate: Window 'Dialogue' being destroyed
+[2022.01.22-14.14.47:601][869]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2022.01.22-14.14.47:601][869]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.22-14.15.03:170][684]LogContentBrowser: Deferred new asset file creation: NewFunctionLibrary
+[2022.01.22-14.15.03:183][684]LogContentBrowser: Creating deferred item: NewFunctionLibrary
+[2022.01.22-14.15.06:200][ 45]LogContentBrowser: Attempting asset rename: NewFunctionLibrary -> l
+[2022.01.22-14.15.06:203][ 45]LogContentBrowser: End creating deferred item NewFunctionLibrary
+[2022.01.22-14.15.07:455][186]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Maps/Sounds/l.l
+[2022.01.22-14.15.11:885][695]LogSlate: Window 'l' being destroyed
+[2022.01.22-14.15.11:891][695]LogSlate: Window 'l' being destroyed
+[2022.01.22-14.15.11:895][695]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.01.22-14.15.11:895][695]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.22-14.15.15:091][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2022.01.22-14.15.15:806][ 24]LogSlate: Window 'Delete Assets' being destroyed
+[2022.01.22-14.15.15:868][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2022.01.22-14.15.18:120][264]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.22-14.15.20:832][264]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.01.22-14.15.25:846][844]LogContentBrowser: Deferred new asset file creation: NewInterface
+[2022.01.22-14.15.25:860][844]LogContentBrowser: Creating deferred item: NewInterface
+[2022.01.22-14.15.26:701][943]LogContentBrowser: Attempting asset rename: NewInterface -> NewInterface
+[2022.01.22-14.15.26:704][943]LogContentBrowser: End creating deferred item NewInterface
+[2022.01.22-14.15.29:054][219]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Maps/Sounds/NewInterface.NewInterface
+[2022.01.22-14.15.42:666][816]LogSlate: Window 'NewInterface' being destroyed
+[2022.01.22-14.15.42:672][816]LogSlate: Window 'NewInterface' being destroyed
+[2022.01.22-14.15.42:675][816]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.01.22-14.15.42:675][816]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.22-14.15.47:559][348]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2022.01.22-14.15.48:326][348]LogSlate: Window 'Delete Assets' being destroyed
+[2022.01.22-14.15.48:390][348]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2022.01.22-14.16.00:573][745]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.22-14.16.22:540][745]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.01.22-14.16.22:553][745]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.01.22-14.16.22:565][745]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.01.22-14.16.24:106][930]LogContentBrowser: Attempting asset rename: NewBlueprint -> NewBlueprint
+[2022.01.22-14.16.24:125][930]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.01.22-14.16.24:876][ 12]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Maps/Sounds/NewBlueprint.NewBlueprint
+[2022.01.22-14.17.01:100][163]LogSlate: Window 'NewBlueprint' being destroyed
+[2022.01.22-14.17.01:106][163]LogSlate: Window 'NewBlueprint' being destroyed
+[2022.01.22-14.17.01:109][163]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.01.22-14.17.01:109][163]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.22-14.17.03:719][446]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2022.01.22-14.17.04:565][446]LogSlate: Window 'Delete Assets' being destroyed
+[2022.01.22-14.17.04:587][446]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Maps/Sounds/NewBlueprint.NewBlueprint
+[2022.01.22-14.17.04:911][446]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2022.01.22-14.17.05:651][531]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Maps/Sounds/Dialogue.Dialogue
+[2022.01.22-14.17.36:458][731]LogSlate: Window 'My Blueprint' being destroyed
+[2022.01.22-14.17.36:463][731]LogSlate: Window 'My Blueprint' being destroyed
+[2022.01.22-14.17.46:488][885]LogSlate: Window 'Dialogue' being destroyed
+[2022.01.22-14.17.46:494][885]LogSlate: Window 'Dialogue' being destroyed
+[2022.01.22-14.17.46:499][885]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.01.22-14.17.46:499][885]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.22-14.17.49:835][243]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2022.01.22-14.17.50:611][243]LogSlate: Window 'Delete Assets' being destroyed
+[2022.01.22-14.17.50:669][243]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2022.01.22-14.17.52:603][443]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.22-14.17.53:370][443]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.01.22-14.17.53:380][443]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.01.22-14.17.53:394][443]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.01.22-14.17.57:483][933]LogContentBrowser: Attempting asset rename: NewBlueprint -> Dialogue
+[2022.01.22-14.17.57:486][933]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.01.22-14.17.58:604][ 60]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Maps/Sounds/Dialogue.Dialogue
+[2022.01.22-14.19.11:214][791]LogSlate: Took 0.016129 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2022.01.22-14.22.14:795][665]LogWindows: LaunchFileInExternalEditor G:/Epic Games/UE_4.27/Engine/Source/Runtime/Engine/Classes/GameFramework/Actor.h 
+[2022.01.22-14.22.15:703][665]LogWindows: Launch application code for G:/Epic Games/UE_4.27/Engine/Source/Runtime/Engine/Classes/GameFramework/Actor.h : 42
+[2022.01.22-14.22.15:703][665]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2022.01.22-14.22.15:713][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:713][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:713][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:713][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:713][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:713][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:713][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:713][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:713][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:714][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:714][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:714][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:714][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:714][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:714][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:714][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:714][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:714][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:714][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:714][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:714][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:714][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:714][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:714][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:714][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:714][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:715][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:715][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:715][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:715][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:715][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:715][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:715][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:715][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:715][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:715][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:715][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:715][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:715][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:715][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:715][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:715][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:715][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:715][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:716][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:716][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:716][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:716][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:716][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:716][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:716][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:716][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:716][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:716][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:716][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:716][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:716][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:716][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:716][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:716][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:716][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:716][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:717][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:717][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:717][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:717][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:717][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:717][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:717][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:717][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:717][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:717][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:717][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:717][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:717][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:717][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:717][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:717][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:717][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:717][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:718][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:718][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:718][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:718][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:718][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:718][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:718][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:718][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:718][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:718][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:718][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:718][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:718][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:718][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:718][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:718][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:718][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:718][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:719][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:719][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:719][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:719][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:719][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:719][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:719][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:719][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:719][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:719][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:719][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:719][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:719][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:719][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:719][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:719][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:719][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:724][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:727][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:727][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:727][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:730][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:730][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:730][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:731][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:732][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:732][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:732][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:734][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:734][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:769][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:782][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:783][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:783][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:790][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:792][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:812][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:818][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:837][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:837][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:841][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:845][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:864][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:864][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:864][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:865][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:866][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.15:907][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:017][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:028][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:034][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:035][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:046][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:183][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:288][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:288][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:288][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:288][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:288][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:289][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:289][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:289][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:289][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:289][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:289][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:289][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:289][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:289][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:289][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:289][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:289][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:289][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:289][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:289][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:289][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:289][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:290][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:290][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:290][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:290][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:290][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:290][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:290][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:290][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:290][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:290][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:290][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:290][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:290][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:290][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:290][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:290][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:290][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:290][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:291][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:291][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:291][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:291][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:291][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:291][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:291][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:291][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:291][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:291][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:291][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:291][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:291][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:291][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:291][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:291][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:291][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:291][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:292][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:292][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:292][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:292][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:292][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:292][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:292][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:292][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:292][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:292][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:292][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:292][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:292][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:292][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:292][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:292][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:292][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:292][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:293][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:293][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:293][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:293][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:293][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:293][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:293][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:293][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:293][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:293][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:293][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:293][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:293][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:293][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:293][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:293][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:293][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:294][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:294][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:294][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:294][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:294][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:294][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:294][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:294][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:294][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:294][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:294][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:294][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:294][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:294][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:294][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:294][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:294][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:294][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:295][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:295][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:295][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:295][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:296][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:299][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:299][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:299][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:301][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:301][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:301][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:302][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:302][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:302][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:302][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:305][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:305][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:315][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:322][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:322][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:322][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:325][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:326][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:339][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:342][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:354][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:354][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:356][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:359][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:372][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:372][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:372][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:372][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:373][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:399][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:444][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:452][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:455][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:456][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:467][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.22.16:469][665]LogVSAccessor: Warning: Couldn't access module table
+[2022.01.22-14.54.55:601][956]BlueprintLog: New page: Compile Dialogue
+[2022.01.22-14.54.55:642][956]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2022.01.22-14.54.55:711][956]LogSlate: Took 0.032572 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.01.22-14.57.28:435][168]BlueprintLog: New page: Compile Dialogue
+[2022.01.22-14.57.28:461][168]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2022.01.22-15.06.54:983][175]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Sounds/Dialogue" FILE="../../../../../SPAC_PRISON/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Content/Maps/Sounds/Dialogue.uasset" SILENT=true
+[2022.01.22-15.06.55:128][175]LogSavePackage: Moving '../../../../../SPAC_PRISON/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Saved/DialogueFBEC94BD4FEAA6016BA629BEC8873827.tmp' to '../../../../../SPAC_PRISON/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Content/Maps/Sounds/Dialogue.uasset'
+[2022.01.22-15.06.55:140][175]AssetCheck: New page: Asset Save: Dialogue
+[2022.01.22-15.06.55:141][175]LogContentValidation: Display: Validating Blueprint /Game/Maps/Sounds/Dialogue.Dialogue
+[2022.01.22-15.06.59:662][650]LogSlate: Window 'Dialogue' being destroyed
+[2022.01.22-15.06.59:669][650]LogSlate: Window 'Dialogue' being destroyed
+[2022.01.22-15.06.59:672][650]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.01.22-15.06.59:672][650]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
