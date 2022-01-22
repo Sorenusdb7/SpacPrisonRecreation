@@ -3023,3 +3023,263 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.01.22-19.05.35:729][838]LogContentValidation: Display: Validating DialogueWave /Game/Maps/Dialogue_Visitation/DVS14.DVS14
 [2022.01.22-19.05.37:025][990]LogSlate: Window 'DVS14' being destroyed
 [2022.01.22-19.05.37:030][990]LogSlate: Window 'DVS14' being destroyed
+[2022.01.22-19.05.58:686][255]LogContentBrowser: Deferred new asset file creation: NewDialogueWave
+[2022.01.22-19.05.58:700][255]LogContentBrowser: Creating deferred item: NewDialogueWave
+[2022.01.22-19.06.01:324][570]LogContentBrowser: Attempting asset rename: NewDialogueWave -> DVS15
+[2022.01.22-19.06.01:325][570]LogContentBrowser: End creating deferred item NewDialogueWave
+[2022.01.22-19.06.14:790][862]LogAssetEditorSubsystem: Opening Asset editor for DialogueWave /Game/Maps/Dialogue_Visitation/DVS15.DVS15
+[2022.01.22-19.06.24:740][989]LogSavePackage: Moving '../../../../../SPAC_PRISON/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Saved/DVS156B10FC1F44A10E1041826D844056F7BA.tmp' to '../../../../../SPAC_PRISON/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Content/Maps/Dialogue_Visitation/DVS15.uasset'
+[2022.01.22-19.06.24:753][989]AssetCheck: New page: Asset Save: DVS15
+[2022.01.22-19.06.24:753][989]LogContentValidation: Display: Validating DialogueWave /Game/Maps/Dialogue_Visitation/DVS15.DVS15
+[2022.01.22-19.06.26:134][152]LogSlate: Window 'DVS15' being destroyed
+[2022.01.22-19.06.26:140][152]LogSlate: Window 'DVS15' being destroyed
+[2022.01.22-19.06.31:172][725]LogContentBrowser: Deferred new asset file creation: NewDialogueWave
+[2022.01.22-19.06.31:185][725]LogContentBrowser: Creating deferred item: NewDialogueWave
+[2022.01.22-19.06.33:887][ 49]LogContentBrowser: Attempting asset rename: NewDialogueWave -> DVS16
+[2022.01.22-19.06.33:888][ 49]LogContentBrowser: End creating deferred item NewDialogueWave
+[2022.01.22-19.06.35:442][230]LogAssetEditorSubsystem: Opening Asset editor for DialogueWave /Game/Maps/Dialogue_Visitation/DVS16.DVS16
+[2022.01.22-19.06.49:810][613]LogSavePackage: Moving '../../../../../SPAC_PRISON/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Saved/DVS1635198D9D40C22A811D28F2AEBBDDA586.tmp' to '../../../../../SPAC_PRISON/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Content/Maps/Dialogue_Visitation/DVS16.uasset'
+[2022.01.22-19.06.49:826][613]AssetCheck: New page: Asset Save: DVS16
+[2022.01.22-19.06.49:827][613]LogContentValidation: Display: Validating DialogueWave /Game/Maps/Dialogue_Visitation/DVS16.DVS16
+[2022.01.22-19.06.50:803][726]LogSlate: Window 'DVS16' being destroyed
+[2022.01.22-19.06.50:809][726]LogSlate: Window 'DVS16' being destroyed
+[2022.01.22-19.06.54:712][146]LogContentBrowser: Deferred new asset file creation: NewDialogueWave
+[2022.01.22-19.06.54:725][146]LogContentBrowser: Creating deferred item: NewDialogueWave
+[2022.01.22-19.06.57:624][494]LogContentBrowser: Attempting asset rename: NewDialogueWave -> DVS17
+[2022.01.22-19.06.57:625][494]LogContentBrowser: End creating deferred item NewDialogueWave
+[2022.01.22-19.06.59:291][690]LogAssetEditorSubsystem: Opening Asset editor for DialogueWave /Game/Maps/Dialogue_Visitation/DVS17.DVS17
+[2022.01.22-19.07.10:736][724]LogSavePackage: Moving '../../../../../SPAC_PRISON/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Saved/DVS17983F66C041C1D8C89465BA9C3C4923C6.tmp' to '../../../../../SPAC_PRISON/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Content/Maps/Dialogue_Visitation/DVS17.uasset'
+[2022.01.22-19.07.10:751][724]AssetCheck: New page: Asset Save: DVS17
+[2022.01.22-19.07.10:751][724]LogContentValidation: Display: Validating DialogueWave /Game/Maps/Dialogue_Visitation/DVS17.DVS17
+[2022.01.22-19.07.11:698][836]LogSlate: Window 'DVS17' being destroyed
+[2022.01.22-19.07.11:706][836]LogSlate: Window 'DVS17' being destroyed
+[2022.01.22-19.07.14:938][174]LogContentBrowser: Deferred new asset file creation: NewDialogueWave
+[2022.01.22-19.07.14:949][174]LogContentBrowser: Creating deferred item: NewDialogueWave
+[2022.01.22-19.07.19:179][680]LogContentBrowser: Attempting asset rename: NewDialogueWave -> DVS18
+[2022.01.22-19.07.19:180][680]LogContentBrowser: End creating deferred item NewDialogueWave
+[2022.01.22-19.07.21:715][979]LogAssetEditorSubsystem: Opening Asset editor for DialogueWave /Game/Maps/Dialogue_Visitation/DVS18.DVS18
+[2022.01.22-19.07.33:019][968]LogSavePackage: Moving '../../../../../SPAC_PRISON/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Saved/DVS18FDC1B3F442CF9C229A456CB8F8E177BA.tmp' to '../../../../../SPAC_PRISON/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Content/Maps/Dialogue_Visitation/DVS18.uasset'
+[2022.01.22-19.07.33:033][968]AssetCheck: New page: Asset Save: DVS18
+[2022.01.22-19.07.33:034][968]LogContentValidation: Display: Validating DialogueWave /Game/Maps/Dialogue_Visitation/DVS18.DVS18
+[2022.01.22-19.07.34:182][100]LogSlate: Window 'DVS18' being destroyed
+[2022.01.22-19.07.34:187][100]LogSlate: Window 'DVS18' being destroyed
+[2022.01.22-19.07.37:696][486]LogContentBrowser: Deferred new asset file creation: NewDialogueWave
+[2022.01.22-19.07.37:711][486]LogContentBrowser: Creating deferred item: NewDialogueWave
+[2022.01.22-19.07.40:011][762]LogContentBrowser: Attempting asset rename: NewDialogueWave -> DVS19
+[2022.01.22-19.07.40:012][762]LogContentBrowser: End creating deferred item NewDialogueWave
+[2022.01.22-19.07.46:671][238]LogAssetEditorSubsystem: Opening Asset editor for DialogueWave /Game/Maps/Dialogue_Visitation/DVS19.DVS19
+[2022.01.22-19.07.58:662][612]LogSavePackage: Moving '../../../../../SPAC_PRISON/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Saved/DVS19F2DD5FA84ACD09114ACDE5B54D101C18.tmp' to '../../../../../SPAC_PRISON/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Content/Maps/Dialogue_Visitation/DVS19.uasset'
+[2022.01.22-19.07.58:679][612]AssetCheck: New page: Asset Save: DVS19
+[2022.01.22-19.07.58:679][612]LogContentValidation: Display: Validating DialogueWave /Game/Maps/Dialogue_Visitation/DVS19.DVS19
+[2022.01.22-19.07.59:734][725]LogSlate: Window 'DVS19' being destroyed
+[2022.01.22-19.07.59:740][725]LogSlate: Window 'DVS19' being destroyed
+[2022.01.22-19.08.02:806][ 71]LogContentBrowser: Deferred new asset file creation: NewDialogueWave
+[2022.01.22-19.08.02:820][ 71]LogContentBrowser: Creating deferred item: NewDialogueWave
+[2022.01.22-19.08.07:005][573]LogContentBrowser: Attempting asset rename: NewDialogueWave -> DVS20
+[2022.01.22-19.08.07:007][573]LogContentBrowser: End creating deferred item NewDialogueWave
+[2022.01.22-19.08.12:660][247]LogAssetEditorSubsystem: Opening Asset editor for DialogueWave /Game/Maps/Dialogue_Visitation/DVS20.DVS20
+[2022.01.22-19.08.22:160][ 93]LogSavePackage: Moving '../../../../../SPAC_PRISON/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Saved/DVS20FC5244CA450DABFCB67F8DB8DE6A355E.tmp' to '../../../../../SPAC_PRISON/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Content/Maps/Dialogue_Visitation/DVS20.uasset'
+[2022.01.22-19.08.22:172][ 93]AssetCheck: New page: Asset Save: DVS20
+[2022.01.22-19.08.22:172][ 93]LogContentValidation: Display: Validating DialogueWave /Game/Maps/Dialogue_Visitation/DVS20.DVS20
+[2022.01.22-19.08.22:974][188]LogSlate: Window 'DVS20' being destroyed
+[2022.01.22-19.08.22:980][188]LogSlate: Window 'DVS20' being destroyed
+[2022.01.22-19.08.26:329][564]LogContentBrowser: Deferred new asset file creation: NewDialogueWave
+[2022.01.22-19.08.26:342][564]LogContentBrowser: Creating deferred item: NewDialogueWave
+[2022.01.22-19.08.32:352][285]LogContentBrowser: Attempting asset rename: NewDialogueWave -> DVS21
+[2022.01.22-19.08.32:353][285]LogContentBrowser: End creating deferred item NewDialogueWave
+[2022.01.22-19.08.40:095][808]LogAssetEditorSubsystem: Opening Asset editor for DialogueWave /Game/Maps/Dialogue_Visitation/DVS20.DVS20
+[2022.01.22-19.08.45:826][483]LogSlate: Window 'DVS20' being destroyed
+[2022.01.22-19.08.45:832][483]LogSlate: Window 'DVS20' being destroyed
+[2022.01.22-19.08.48:978][854]LogAssetEditorSubsystem: Opening Asset editor for DialogueWave /Game/Maps/Dialogue_Visitation/DVS21.DVS21
+[2022.01.22-19.10.07:563][593]LogSavePackage: Moving '../../../../../SPAC_PRISON/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Saved/DVS216AD979F44449CD246740079F274C3871.tmp' to '../../../../../SPAC_PRISON/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Content/Maps/Dialogue_Visitation/DVS21.uasset'
+[2022.01.22-19.10.07:579][593]AssetCheck: New page: Asset Save: DVS21
+[2022.01.22-19.10.07:579][593]LogContentValidation: Display: Validating DialogueWave /Game/Maps/Dialogue_Visitation/DVS21.DVS21
+[2022.01.22-19.10.10:591][948]LogSlate: Window 'DVS21' being destroyed
+[2022.01.22-19.10.10:596][948]LogSlate: Window 'DVS21' being destroyed
+[2022.01.22-19.10.15:208][480]LogContentBrowser: Deferred new asset file creation: NewDialogueWave
+[2022.01.22-19.10.15:221][480]LogContentBrowser: Creating deferred item: NewDialogueWave
+[2022.01.22-19.10.20:722][140]LogContentBrowser: Attempting asset rename: NewDialogueWave -> DVS22
+[2022.01.22-19.10.20:722][140]LogContentBrowser: End creating deferred item NewDialogueWave
+[2022.01.22-19.10.22:701][374]LogAssetEditorSubsystem: Opening Asset editor for DialogueWave /Game/Maps/Dialogue_Visitation/DVS22.DVS22
+[2022.01.22-19.10.36:400][945]LogSavePackage: Moving '../../../../../SPAC_PRISON/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Saved/DVS22A4ADFE5B44C919F2BDC265BDB95081A3.tmp' to '../../../../../SPAC_PRISON/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Content/Maps/Dialogue_Visitation/DVS22.uasset'
+[2022.01.22-19.10.36:415][945]AssetCheck: New page: Asset Save: DVS22
+[2022.01.22-19.10.36:415][945]LogContentValidation: Display: Validating DialogueWave /Game/Maps/Dialogue_Visitation/DVS22.DVS22
+[2022.01.22-19.10.37:306][ 48]LogSlate: Window 'DVS22' being destroyed
+[2022.01.22-19.10.37:311][ 48]LogSlate: Window 'DVS22' being destroyed
+[2022.01.22-19.10.42:236][624]LogContentBrowser: Deferred new asset file creation: NewDialogueWave
+[2022.01.22-19.10.42:248][624]LogContentBrowser: Creating deferred item: NewDialogueWave
+[2022.01.22-19.10.44:905][942]LogContentBrowser: Attempting asset rename: NewDialogueWave -> DVS23
+[2022.01.22-19.10.44:906][942]LogContentBrowser: End creating deferred item NewDialogueWave
+[2022.01.22-19.10.53:935][583]LogAssetEditorSubsystem: Opening Asset editor for DialogueWave /Game/Maps/Dialogue_Visitation/DVS23.DVS23
+[2022.01.22-19.11.04:660][810]LogSavePackage: Moving '../../../../../SPAC_PRISON/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Saved/DVS2352AD83F249E249F46D31B2872E1587FB.tmp' to '../../../../../SPAC_PRISON/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Content/Maps/Dialogue_Visitation/DVS23.uasset'
+[2022.01.22-19.11.04:673][810]AssetCheck: New page: Asset Save: DVS23
+[2022.01.22-19.11.04:673][810]LogContentValidation: Display: Validating DialogueWave /Game/Maps/Dialogue_Visitation/DVS23.DVS23
+[2022.01.22-19.11.09:154][337]LogSlate: Window 'DVS23' being destroyed
+[2022.01.22-19.11.09:159][337]LogSlate: Window 'DVS23' being destroyed
+[2022.01.22-19.11.09:942][427]LogAssetEditorSubsystem: Opening Asset editor for DialogueWave /Game/Maps/Dialogue_Visitation/DVS22.DVS22
+[2022.01.22-19.11.11:545][609]LogSlate: Window 'DVS22' being destroyed
+[2022.01.22-19.11.11:553][609]LogSlate: Window 'DVS22' being destroyed
+[2022.01.22-19.11.16:402][173]LogContentBrowser: Deferred new asset file creation: NewDialogueWave
+[2022.01.22-19.11.16:418][173]LogContentBrowser: Creating deferred item: NewDialogueWave
+[2022.01.22-19.11.19:411][532]LogContentBrowser: Attempting asset rename: NewDialogueWave -> DVS24
+[2022.01.22-19.11.19:411][532]LogContentBrowser: End creating deferred item NewDialogueWave
+[2022.01.22-19.11.20:581][664]LogAssetEditorSubsystem: Opening Asset editor for DialogueWave /Game/Maps/Dialogue_Visitation/DVS24.DVS24
+[2022.01.22-19.11.33:206][787]LogSavePackage: Moving '../../../../../SPAC_PRISON/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Saved/DVS2489AE51A54B29E0BD85FC1E8AB0BFCFFA.tmp' to '../../../../../SPAC_PRISON/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Content/Maps/Dialogue_Visitation/DVS24.uasset'
+[2022.01.22-19.11.33:225][787]AssetCheck: New page: Asset Save: DVS24
+[2022.01.22-19.11.33:225][787]LogContentValidation: Display: Validating DialogueWave /Game/Maps/Dialogue_Visitation/DVS24.DVS24
+[2022.01.22-19.11.34:006][879]LogSlate: Window 'DVS24' being destroyed
+[2022.01.22-19.11.34:012][879]LogSlate: Window 'DVS24' being destroyed
+[2022.01.22-19.11.37:088][221]LogContentBrowser: Deferred new asset file creation: NewDialogueWave
+[2022.01.22-19.11.37:103][221]LogContentBrowser: Creating deferred item: NewDialogueWave
+[2022.01.22-19.11.40:507][629]LogContentBrowser: Attempting asset rename: NewDialogueWave -> DVS25
+[2022.01.22-19.11.40:508][629]LogContentBrowser: End creating deferred item NewDialogueWave
+[2022.01.22-19.11.46:886][ 23]LogAssetEditorSubsystem: Opening Asset editor for DialogueWave /Game/Maps/Dialogue_Visitation/DVS25.DVS25
+[2022.01.22-19.12.04:196][ 30]LogSavePackage: Moving '../../../../../SPAC_PRISON/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Saved/DVS25ECBB6B9F4ABD559F5E8DA2B24B142A23.tmp' to '../../../../../SPAC_PRISON/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Content/Maps/Dialogue_Visitation/DVS25.uasset'
+[2022.01.22-19.12.04:211][ 30]AssetCheck: New page: Asset Save: DVS25
+[2022.01.22-19.12.04:211][ 30]LogContentValidation: Display: Validating DialogueWave /Game/Maps/Dialogue_Visitation/DVS25.DVS25
+[2022.01.22-19.12.05:393][161]LogSlate: Window 'DVS25' being destroyed
+[2022.01.22-19.12.05:402][161]LogSlate: Window 'DVS25' being destroyed
+[2022.01.22-19.12.10:691][763]LogContentBrowser: Deferred new asset file creation: NewDialogueWave
+[2022.01.22-19.12.10:720][763]LogContentBrowser: Creating deferred item: NewDialogueWave
+[2022.01.22-19.12.16:312][434]LogContentBrowser: Attempting asset rename: NewDialogueWave -> DVS26
+[2022.01.22-19.12.16:312][434]LogContentBrowser: End creating deferred item NewDialogueWave
+[2022.01.22-19.12.22:702][867]LogAssetEditorSubsystem: Opening Asset editor for DialogueWave /Game/Maps/Dialogue_Visitation/DVS26.DVS26
+[2022.01.22-19.12.38:207][638]LogSavePackage: Moving '../../../../../SPAC_PRISON/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Saved/DVS26C69B2ACD402D0D8DF349A9AFAA8E5F45.tmp' to '../../../../../SPAC_PRISON/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Content/Maps/Dialogue_Visitation/DVS26.uasset'
+[2022.01.22-19.12.38:219][638]AssetCheck: New page: Asset Save: DVS26
+[2022.01.22-19.12.38:219][638]LogContentValidation: Display: Validating DialogueWave /Game/Maps/Dialogue_Visitation/DVS26.DVS26
+[2022.01.22-19.12.39:643][804]LogSlate: Window 'DVS26' being destroyed
+[2022.01.22-19.12.39:649][804]LogSlate: Window 'DVS26' being destroyed
+[2022.01.22-19.12.41:266][991]LogAssetEditorSubsystem: Opening Asset editor for DialogueWave /Game/Maps/Dialogue_Visitation/DVS25.DVS25
+[2022.01.22-19.12.43:612][256]LogSlate: Window 'DVS25' being destroyed
+[2022.01.22-19.12.43:619][256]LogSlate: Window 'DVS25' being destroyed
+[2022.01.22-19.12.50:123][974]LogContentBrowser: Deferred new asset file creation: NewDialogueWave
+[2022.01.22-19.12.50:138][974]LogContentBrowser: Creating deferred item: NewDialogueWave
+[2022.01.22-19.12.54:340][478]LogContentBrowser: Attempting asset rename: NewDialogueWave -> DVS27
+[2022.01.22-19.12.54:341][478]LogContentBrowser: End creating deferred item NewDialogueWave
+[2022.01.22-19.12.59:097][794]LogAssetEditorSubsystem: Opening Asset editor for DialogueWave /Game/Maps/Dialogue_Visitation/DVS27.DVS27
+[2022.01.22-19.13.18:052][961]LogSavePackage: Moving '../../../../../SPAC_PRISON/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Saved/DVS27A884571D4CA036280A2AD4A20AD117BF.tmp' to '../../../../../SPAC_PRISON/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Content/Maps/Dialogue_Visitation/DVS27.uasset'
+[2022.01.22-19.13.18:067][961]AssetCheck: New page: Asset Save: DVS27
+[2022.01.22-19.13.18:067][961]LogContentValidation: Display: Validating DialogueWave /Game/Maps/Dialogue_Visitation/DVS27.DVS27
+[2022.01.22-19.13.19:365][104]LogSlate: Window 'DVS27' being destroyed
+[2022.01.22-19.13.19:371][104]LogSlate: Window 'DVS27' being destroyed
+[2022.01.22-19.13.23:385][558]LogContentBrowser: Deferred new asset file creation: NewDialogueWave
+[2022.01.22-19.13.23:398][558]LogContentBrowser: Creating deferred item: NewDialogueWave
+[2022.01.22-19.13.29:334][270]LogContentBrowser: Attempting asset rename: NewDialogueWave -> DVS28
+[2022.01.22-19.13.29:334][270]LogContentBrowser: End creating deferred item NewDialogueWave
+[2022.01.22-19.13.31:187][481]LogAssetEditorSubsystem: Opening Asset editor for DialogueWave /Game/Maps/Dialogue_Visitation/DVS28.DVS28
+[2022.01.22-19.14.20:989][374]LogAssetEditorSubsystem: Opening Asset editor for DialogueWave /Game/Maps/Dialogue_Visitation/DVS27.DVS27
+[2022.01.22-19.14.49:507][285]LogSavePackage: Moving '../../../../../SPAC_PRISON/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Saved/DVS28CF3FE3B8439E2E5876634A8EC0A8A869.tmp' to '../../../../../SPAC_PRISON/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Content/Maps/Dialogue_Visitation/DVS28.uasset'
+[2022.01.22-19.14.49:521][285]AssetCheck: New page: Asset Save: DVS28
+[2022.01.22-19.14.49:522][285]LogContentValidation: Display: Validating DialogueWave /Game/Maps/Dialogue_Visitation/DVS28.DVS28
+[2022.01.22-19.14.51:247][485]LogSlate: Window 'DVS27' being destroyed
+[2022.01.22-19.14.51:252][485]LogSlate: Window 'DVS27' being destroyed
+[2022.01.22-19.14.52:154][586]LogAssetEditorSubsystem: Opening Asset editor for DialogueWave /Game/Maps/Dialogue_Visitation/DVS27.DVS27
+[2022.01.22-19.14.55:074][921]LogSlate: Window 'DVS27' being destroyed
+[2022.01.22-19.14.55:080][921]LogSlate: Window 'DVS27' being destroyed
+[2022.01.22-19.14.58:898][354]LogContentBrowser: Deferred new asset file creation: NewDialogueWave
+[2022.01.22-19.14.58:913][354]LogContentBrowser: Creating deferred item: NewDialogueWave
+[2022.01.22-19.15.00:906][593]LogContentBrowser: Attempting asset rename: NewDialogueWave -> DVS29
+[2022.01.22-19.15.00:907][593]LogContentBrowser: End creating deferred item NewDialogueWave
+[2022.01.22-19.15.07:462][977]LogAssetEditorSubsystem: Opening Asset editor for DialogueWave /Game/Maps/Dialogue_Visitation/DVS29.DVS29
+[2022.01.22-19.15.22:861][757]LogSavePackage: Moving '../../../../../SPAC_PRISON/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Saved/DVS29E45DBD1F434D07C7BA6C889DA635E23C.tmp' to '../../../../../SPAC_PRISON/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Content/Maps/Dialogue_Visitation/DVS29.uasset'
+[2022.01.22-19.15.22:876][757]AssetCheck: New page: Asset Save: DVS29
+[2022.01.22-19.15.22:876][757]LogContentValidation: Display: Validating DialogueWave /Game/Maps/Dialogue_Visitation/DVS29.DVS29
+[2022.01.22-19.15.25:470][ 53]LogSlate: Window 'DVS29' being destroyed
+[2022.01.22-19.15.25:476][ 53]LogSlate: Window 'DVS29' being destroyed
+[2022.01.22-19.15.29:698][539]LogContentBrowser: Deferred new asset file creation: NewDialogueWave
+[2022.01.22-19.15.29:712][539]LogContentBrowser: Creating deferred item: NewDialogueWave
+[2022.01.22-19.15.34:972][170]LogContentBrowser: Attempting asset rename: NewDialogueWave -> DVS30
+[2022.01.22-19.15.34:973][170]LogContentBrowser: End creating deferred item NewDialogueWave
+[2022.01.22-19.15.37:118][404]LogAssetEditorSubsystem: Opening Asset editor for DialogueWave /Game/Maps/Dialogue_Visitation/DVS30.DVS30
+[2022.01.22-19.15.53:393][870]LogSavePackage: Moving '../../../../../SPAC_PRISON/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Saved/DVS30929F1157495157A4F35B3B973A9A165D.tmp' to '../../../../../SPAC_PRISON/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Content/Maps/Dialogue_Visitation/DVS30.uasset'
+[2022.01.22-19.15.53:407][870]AssetCheck: New page: Asset Save: DVS30
+[2022.01.22-19.15.53:407][870]LogContentValidation: Display: Validating DialogueWave /Game/Maps/Dialogue_Visitation/DVS30.DVS30
+[2022.01.22-19.15.55:583][128]LogSlate: Window 'DVS30' being destroyed
+[2022.01.22-19.15.55:588][128]LogSlate: Window 'DVS30' being destroyed
+[2022.01.22-19.16.18:699][318]LogContentBrowser: Deferred new asset file creation: NewDialogueWave
+[2022.01.22-19.16.18:713][318]LogContentBrowser: Creating deferred item: NewDialogueWave
+[2022.01.22-19.16.22:039][715]LogContentBrowser: Attempting asset rename: NewDialogueWave -> DVS31
+[2022.01.22-19.16.22:040][715]LogContentBrowser: End creating deferred item NewDialogueWave
+[2022.01.22-19.16.28:323][ 67]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS31.DVS31).
+[2022.01.22-19.16.28:341][ 68]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS31.DVS31).
+[2022.01.22-19.16.28:351][ 69]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS31.DVS31).
+[2022.01.22-19.16.28:360][ 70]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS31.DVS31).
+[2022.01.22-19.16.28:367][ 71]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS31.DVS31).
+[2022.01.22-19.16.28:375][ 72]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS31.DVS31).
+[2022.01.22-19.16.28:383][ 73]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS31.DVS31).
+[2022.01.22-19.16.28:392][ 74]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS31.DVS31).
+[2022.01.22-19.16.28:400][ 75]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS31.DVS31).
+[2022.01.22-19.16.28:410][ 76]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS31.DVS31).
+[2022.01.22-19.16.28:418][ 77]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS31.DVS31).
+[2022.01.22-19.16.28:427][ 78]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS31.DVS31).
+[2022.01.22-19.16.28:435][ 79]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS31.DVS31).
+[2022.01.22-19.16.28:444][ 80]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS31.DVS31).
+[2022.01.22-19.16.28:451][ 81]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS31.DVS31).
+[2022.01.22-19.16.28:461][ 82]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS31.DVS31).
+[2022.01.22-19.16.28:468][ 83]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS31.DVS31).
+[2022.01.22-19.16.28:476][ 84]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS31.DVS31).
+[2022.01.22-19.16.28:485][ 85]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS31.DVS31).
+[2022.01.22-19.16.28:497][ 86]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS31.DVS31).
+[2022.01.22-19.16.28:502][ 87]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS31.DVS31).
+[2022.01.22-19.16.28:530][ 88]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS31.DVS31).
+[2022.01.22-19.16.28:540][ 89]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS31.DVS31).
+[2022.01.22-19.16.28:549][ 90]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS31.DVS31).
+[2022.01.22-19.16.28:555][ 91]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS31.DVS31).
+[2022.01.22-19.16.28:565][ 92]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS31.DVS31).
+[2022.01.22-19.16.28:572][ 93]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS31.DVS31).
+[2022.01.22-19.16.28:580][ 94]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS31.DVS31).
+[2022.01.22-19.16.28:588][ 95]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS31.DVS31).
+[2022.01.22-19.16.28:597][ 96]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS31.DVS31).
+[2022.01.22-19.16.28:607][ 97]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS31.DVS31).
+[2022.01.22-19.16.28:615][ 98]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS31.DVS31).
+[2022.01.22-19.16.28:622][ 99]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS31.DVS31).
+[2022.01.22-19.16.28:632][100]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS31.DVS31).
+[2022.01.22-19.16.28:639][101]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS31.DVS31).
+[2022.01.22-19.16.28:650][102]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS31.DVS31).
+[2022.01.22-19.16.28:657][103]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS31.DVS31).
+[2022.01.22-19.16.28:665][104]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS31.DVS31).
+[2022.01.22-19.16.28:674][105]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS31.DVS31).
+[2022.01.22-19.16.28:689][106]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS31.DVS31).
+[2022.01.22-19.16.28:698][107]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS31.DVS31).
+[2022.01.22-19.16.28:706][108]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS31.DVS31).
+[2022.01.22-19.16.28:716][109]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS31.DVS31).
+[2022.01.22-19.16.28:722][110]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS31.DVS31).
+[2022.01.22-19.16.28:731][111]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS31.DVS31).
+[2022.01.22-19.16.28:741][112]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS31.DVS31).
+[2022.01.22-19.16.28:750][113]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS31.DVS31).
+[2022.01.22-19.16.28:757][114]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS31.DVS31).
+[2022.01.22-19.16.28:766][115]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS31.DVS31).
+[2022.01.22-19.16.28:774][116]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS31.DVS31).
+[2022.01.22-19.16.28:782][117]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS31.DVS31).
+[2022.01.22-19.16.28:792][118]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS31.DVS31).
+[2022.01.22-19.16.28:799][119]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS31.DVS31).
+[2022.01.22-19.16.28:806][120]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS31.DVS31).
+[2022.01.22-19.16.28:816][121]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS31.DVS31).
+[2022.01.22-19.16.28:823][122]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS31.DVS31).
+[2022.01.22-19.16.28:832][123]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS31.DVS31).
+[2022.01.22-19.16.28:841][124]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS31.DVS31).
+[2022.01.22-19.16.28:849][125]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS31.DVS31).
+[2022.01.22-19.16.28:857][126]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS31.DVS31).
+[2022.01.22-19.16.28:865][127]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS31.DVS31).
+[2022.01.22-19.16.28:872][128]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS31.DVS31).
+[2022.01.22-19.16.28:881][129]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS31.DVS31).
+[2022.01.22-19.16.28:889][130]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS31.DVS31).
+[2022.01.22-19.16.28:900][131]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS31.DVS31).
+[2022.01.22-19.16.28:906][132]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS31.DVS31).
+[2022.01.22-19.16.28:916][133]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS31.DVS31).
+[2022.01.22-19.16.28:922][134]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS31.DVS31).
+[2022.01.22-19.16.28:931][135]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS31.DVS31).
+[2022.01.22-19.16.28:939][136]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS31.DVS31).
+[2022.01.22-19.16.28:947][137]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS31.DVS31).
+[2022.01.22-19.16.28:957][138]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS31.DVS31).
+[2022.01.22-19.16.28:964][139]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS31.DVS31).
+[2022.01.22-19.16.28:972][140]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS31.DVS31).
+[2022.01.22-19.16.28:981][141]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS31.DVS31).
+[2022.01.22-19.16.28:990][142]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS31.DVS31).
+[2022.01.22-19.16.28:998][143]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS31.DVS31).
+[2022.01.22-19.16.29:180][163]LogAssetEditorSubsystem: Opening Asset editor for DialogueWave /Game/Maps/Dialogue_Visitation/DVS31.DVS31
+[2022.01.22-19.16.46:865][190]LogSavePackage: Moving '../../../../../SPAC_PRISON/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Saved/DVS319472E8AD4F557AE064847BB02E1AE4F0.tmp' to '../../../../../SPAC_PRISON/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Content/Maps/Dialogue_Visitation/DVS31.uasset'
+[2022.01.22-19.16.46:877][190]AssetCheck: New page: Asset Save: DVS31
+[2022.01.22-19.16.46:877][190]LogContentValidation: Display: Validating DialogueWave /Game/Maps/Dialogue_Visitation/DVS31.DVS31
+[2022.01.22-19.16.48:545][379]LogSlate: Window 'DVS31' being destroyed
+[2022.01.22-19.16.48:549][379]LogSlate: Window 'DVS31' being destroyed
