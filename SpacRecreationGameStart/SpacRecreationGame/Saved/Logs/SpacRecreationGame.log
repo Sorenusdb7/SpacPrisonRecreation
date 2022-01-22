@@ -3283,3 +3283,123 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.01.22-19.16.46:877][190]LogContentValidation: Display: Validating DialogueWave /Game/Maps/Dialogue_Visitation/DVS31.DVS31
 [2022.01.22-19.16.48:545][379]LogSlate: Window 'DVS31' being destroyed
 [2022.01.22-19.16.48:549][379]LogSlate: Window 'DVS31' being destroyed
+[2022.01.22-19.17.17:817][983]LogContentBrowser: Deferred new asset file creation: NewDialogueWave
+[2022.01.22-19.17.17:833][983]LogContentBrowser: Creating deferred item: NewDialogueWave
+[2022.01.22-19.17.21:199][387]LogContentBrowser: Attempting asset rename: NewDialogueWave -> DVS32
+[2022.01.22-19.17.21:200][387]LogContentBrowser: End creating deferred item NewDialogueWave
+[2022.01.22-19.17.27:600][757]LogAssetEditorSubsystem: Opening Asset editor for DialogueWave /Game/Maps/Dialogue_Visitation/DVS32.DVS32
+[2022.01.22-19.17.37:124][828]LogSavePackage: Moving '../../../../../SPAC_PRISON/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Saved/DVS3221285DE547243B64B66740A9AE753378.tmp' to '../../../../../SPAC_PRISON/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Content/Maps/Dialogue_Visitation/DVS32.uasset'
+[2022.01.22-19.17.37:137][828]AssetCheck: New page: Asset Save: DVS32
+[2022.01.22-19.17.37:137][828]LogContentValidation: Display: Validating DialogueWave /Game/Maps/Dialogue_Visitation/DVS32.DVS32
+[2022.01.22-19.17.38:391][961]LogSlate: Window 'DVS32' being destroyed
+[2022.01.22-19.17.38:396][961]LogSlate: Window 'DVS32' being destroyed
+[2022.01.22-19.17.42:901][472]LogContentBrowser: Deferred new asset file creation: NewDialogueWave
+[2022.01.22-19.17.42:928][472]LogContentBrowser: Creating deferred item: NewDialogueWave
+[2022.01.22-19.17.49:528][263]LogContentBrowser: Attempting asset rename: NewDialogueWave -> DVS33
+[2022.01.22-19.17.49:529][263]LogContentBrowser: End creating deferred item NewDialogueWave
+[2022.01.22-19.17.50:526][377]LogAssetEditorSubsystem: Opening Asset editor for DialogueWave /Game/Maps/Dialogue_Visitation/DVS33.DVS33
+[2022.01.22-19.18.03:245][509]LogSavePackage: Moving '../../../../../SPAC_PRISON/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Saved/DVS3358B27F7244406E29E46CA1B56642C192.tmp' to '../../../../../SPAC_PRISON/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Content/Maps/Dialogue_Visitation/DVS33.uasset'
+[2022.01.22-19.18.03:262][509]AssetCheck: New page: Asset Save: DVS33
+[2022.01.22-19.18.03:262][509]LogContentValidation: Display: Validating DialogueWave /Game/Maps/Dialogue_Visitation/DVS33.DVS33
+[2022.01.22-19.18.04:353][632]LogSlate: Window 'DVS33' being destroyed
+[2022.01.22-19.18.04:359][632]LogSlate: Window 'DVS33' being destroyed
+[2022.01.22-19.18.06:374][860]LogAssetEditorSubsystem: Opening Asset editor for DialogueWave /Game/Maps/Dialogue_Visitation/DVS32.DVS32
+[2022.01.22-19.18.08:134][ 55]LogSlate: Window 'DVS32' being destroyed
+[2022.01.22-19.18.08:141][ 55]LogSlate: Window 'DVS32' being destroyed
+[2022.01.22-19.18.11:597][437]LogContentBrowser: Deferred new asset file creation: NewDialogueWave
+[2022.01.22-19.18.11:612][437]LogContentBrowser: Creating deferred item: NewDialogueWave
+[2022.01.22-19.18.16:057][970]LogContentBrowser: Attempting asset rename: NewDialogueWave -> DVS34
+[2022.01.22-19.18.16:058][970]LogContentBrowser: End creating deferred item NewDialogueWave
+[2022.01.22-19.18.17:084][ 88]LogAssetEditorSubsystem: Opening Asset editor for DialogueWave /Game/Maps/Dialogue_Visitation/DVS34.DVS34
+[2022.01.22-19.18.32:952][566]LogSavePackage: Moving '../../../../../SPAC_PRISON/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Saved/DVS34B86A402F4ED10063FD165B8EC755072F.tmp' to '../../../../../SPAC_PRISON/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Content/Maps/Dialogue_Visitation/DVS34.uasset'
+[2022.01.22-19.18.32:968][566]AssetCheck: New page: Asset Save: DVS34
+[2022.01.22-19.18.32:968][566]LogContentValidation: Display: Validating DialogueWave /Game/Maps/Dialogue_Visitation/DVS34.DVS34
+[2022.01.22-19.18.34:013][681]LogSlate: Window 'DVS34' being destroyed
+[2022.01.22-19.18.34:019][681]LogSlate: Window 'DVS34' being destroyed
+[2022.01.22-19.18.41:822][267]LogContentBrowser: Deferred new asset file creation: NewDialogueWave
+[2022.01.22-19.18.41:838][267]LogContentBrowser: Creating deferred item: NewDialogueWave
+[2022.01.22-19.18.45:993][765]LogContentBrowser: Attempting asset rename: NewDialogueWave -> DVS35
+[2022.01.22-19.18.45:994][765]LogContentBrowser: End creating deferred item NewDialogueWave
+[2022.01.22-19.18.47:922][992]LogAssetEditorSubsystem: Opening Asset editor for DialogueWave /Game/Maps/Dialogue_Visitation/DVS35.DVS35
+[2022.01.22-19.18.51:916][454]LogSlate: Window 'DVS35' being destroyed
+[2022.01.22-19.18.51:922][454]LogSlate: Window 'DVS35' being destroyed
+[2022.01.22-19.18.52:680][540]LogAssetEditorSubsystem: Opening Asset editor for DialogueWave /Game/Maps/Dialogue_Visitation/DVS34.DVS34
+[2022.01.22-19.18.55:096][818]LogSlate: Window 'DVS34' being destroyed
+[2022.01.22-19.18.55:103][818]LogSlate: Window 'DVS34' being destroyed
+[2022.01.22-19.18.55:763][893]LogAssetEditorSubsystem: Opening Asset editor for DialogueWave /Game/Maps/Dialogue_Visitation/DVS35.DVS35
+[2022.01.22-19.19.06:208][ 65]LogSavePackage: Moving '../../../../../SPAC_PRISON/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Saved/DVS35FFA3319642C794C80B5F55AA30144041.tmp' to '../../../../../SPAC_PRISON/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Content/Maps/Dialogue_Visitation/DVS35.uasset'
+[2022.01.22-19.19.06:224][ 65]AssetCheck: New page: Asset Save: DVS35
+[2022.01.22-19.19.06:224][ 65]LogContentValidation: Display: Validating DialogueWave /Game/Maps/Dialogue_Visitation/DVS35.DVS35
+[2022.01.22-19.19.07:026][158]LogSlate: Window 'DVS35' being destroyed
+[2022.01.22-19.19.07:031][158]LogSlate: Window 'DVS35' being destroyed
+[2022.01.22-19.19.07:661][229]LogAssetEditorSubsystem: Opening Asset editor for DialogueWave /Game/Maps/Dialogue_Visitation/DVS34.DVS34
+[2022.01.22-19.19.11:246][641]LogSlate: Window 'DVS34' being destroyed
+[2022.01.22-19.19.11:253][641]LogSlate: Window 'DVS34' being destroyed
+[2022.01.22-19.19.14:308][977]LogContentBrowser: Deferred new asset file creation: NewDialogueWave
+[2022.01.22-19.19.14:323][977]LogContentBrowser: Creating deferred item: NewDialogueWave
+[2022.01.22-19.19.16:767][270]LogContentBrowser: Attempting asset rename: NewDialogueWave -> DVS36
+[2022.01.22-19.19.16:769][270]LogContentBrowser: End creating deferred item NewDialogueWave
+[2022.01.22-19.19.21:324][566]LogAssetEditorSubsystem: Opening Asset editor for DialogueWave /Game/Maps/Dialogue_Visitation/DVS36.DVS36
+[2022.01.22-19.19.31:874][751]LogSavePackage: Moving '../../../../../SPAC_PRISON/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Saved/DVS36AC39B09546AE837BC5DECEBF52E652B1.tmp' to '../../../../../SPAC_PRISON/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Content/Maps/Dialogue_Visitation/DVS36.uasset'
+[2022.01.22-19.19.31:888][751]AssetCheck: New page: Asset Save: DVS36
+[2022.01.22-19.19.31:888][751]LogContentValidation: Display: Validating DialogueWave /Game/Maps/Dialogue_Visitation/DVS36.DVS36
+[2022.01.22-19.19.34:102][989]LogSlate: Window 'DVS36' being destroyed
+[2022.01.22-19.19.34:108][989]LogSlate: Window 'DVS36' being destroyed
+[2022.01.22-19.19.39:264][539]LogContentBrowser: Deferred new asset file creation: NewDialogueWave
+[2022.01.22-19.19.39:279][539]LogContentBrowser: Creating deferred item: NewDialogueWave
+[2022.01.22-19.19.42:035][866]LogContentBrowser: Attempting asset rename: NewDialogueWave -> DVS37
+[2022.01.22-19.19.42:036][866]LogContentBrowser: End creating deferred item NewDialogueWave
+[2022.01.22-19.19.48:861][162]LogAssetEditorSubsystem: Opening Asset editor for DialogueWave /Game/Maps/Dialogue_Visitation/DVS36.DVS36
+[2022.01.22-19.19.54:813][845]LogSlate: Window 'DVS36' being destroyed
+[2022.01.22-19.19.54:821][845]LogSlate: Window 'DVS36' being destroyed
+[2022.01.22-19.19.55:640][936]LogAssetEditorSubsystem: Opening Asset editor for DialogueWave /Game/Maps/Dialogue_Visitation/DVS37.DVS37
+[2022.01.22-19.20.06:936][220]LogSavePackage: Moving '../../../../../SPAC_PRISON/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Saved/DVS375511B94445631D9E899D6EA91B36D398.tmp' to '../../../../../SPAC_PRISON/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Content/Maps/Dialogue_Visitation/DVS37.uasset'
+[2022.01.22-19.20.06:956][220]AssetCheck: New page: Asset Save: DVS37
+[2022.01.22-19.20.06:956][220]LogContentValidation: Display: Validating DialogueWave /Game/Maps/Dialogue_Visitation/DVS37.DVS37
+[2022.01.22-19.20.09:539][523]LogSlate: Window 'DVS37' being destroyed
+[2022.01.22-19.20.09:546][523]LogSlate: Window 'DVS37' being destroyed
+[2022.01.22-19.20.10:440][624]LogAssetEditorSubsystem: Opening Asset editor for DialogueWave /Game/Maps/Dialogue_Visitation/DVS37.DVS37
+[2022.01.22-19.20.12:293][836]LogSlate: Window 'DVS37' being destroyed
+[2022.01.22-19.20.12:300][836]LogSlate: Window 'DVS37' being destroyed
+[2022.01.22-19.20.17:584][418]LogContentBrowser: Deferred new asset file creation: NewDialogueWave
+[2022.01.22-19.20.17:600][418]LogContentBrowser: Creating deferred item: NewDialogueWave
+[2022.01.22-19.20.23:865][169]LogContentBrowser: Attempting asset rename: NewDialogueWave -> DVS38
+[2022.01.22-19.20.23:866][169]LogContentBrowser: End creating deferred item NewDialogueWave
+[2022.01.22-19.20.28:659][493]LogAssetEditorSubsystem: Opening Asset editor for DialogueWave /Game/Maps/Dialogue_Visitation/DVS38.DVS38
+[2022.01.22-19.20.38:245][556]LogSavePackage: Moving '../../../../../SPAC_PRISON/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Saved/DVS38A9B31F63473105E01E46D6BFEE738B59.tmp' to '../../../../../SPAC_PRISON/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Content/Maps/Dialogue_Visitation/DVS38.uasset'
+[2022.01.22-19.20.38:262][556]AssetCheck: New page: Asset Save: DVS38
+[2022.01.22-19.20.38:262][556]LogContentValidation: Display: Validating DialogueWave /Game/Maps/Dialogue_Visitation/DVS38.DVS38
+[2022.01.22-19.20.38:979][637]LogSlate: Window 'DVS38' being destroyed
+[2022.01.22-19.20.38:985][637]LogSlate: Window 'DVS38' being destroyed
+[2022.01.22-19.20.42:544][ 20]LogContentBrowser: Deferred new asset file creation: NewDialogueWave
+[2022.01.22-19.20.42:558][ 20]LogContentBrowser: Creating deferred item: NewDialogueWave
+[2022.01.22-19.20.45:641][390]LogContentBrowser: Attempting asset rename: NewDialogueWave -> DVS39
+[2022.01.22-19.20.45:642][390]LogContentBrowser: End creating deferred item NewDialogueWave
+[2022.01.22-19.20.52:218][925]LogAssetEditorSubsystem: Opening Asset editor for DialogueWave /Game/Maps/Dialogue_Visitation/DVS38.DVS38
+[2022.01.22-19.20.53:890][115]LogSlate: Window 'DVS38' being destroyed
+[2022.01.22-19.20.53:897][115]LogSlate: Window 'DVS38' being destroyed
+[2022.01.22-19.20.55:162][261]LogAssetEditorSubsystem: Opening Asset editor for DialogueWave /Game/Maps/Dialogue_Visitation/DVS39.DVS39
+[2022.01.22-19.21.02:605][ 93]LogSavePackage: Moving '../../../../../SPAC_PRISON/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Saved/DVS39034D7F1B408D88F2A2FF0C826299C5C5.tmp' to '../../../../../SPAC_PRISON/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Content/Maps/Dialogue_Visitation/DVS39.uasset'
+[2022.01.22-19.21.02:623][ 93]AssetCheck: New page: Asset Save: DVS39
+[2022.01.22-19.21.02:623][ 93]LogContentValidation: Display: Validating DialogueWave /Game/Maps/Dialogue_Visitation/DVS39.DVS39
+[2022.01.22-19.21.03:921][240]LogSlate: Window 'DVS39' being destroyed
+[2022.01.22-19.21.03:929][240]LogSlate: Window 'DVS39' being destroyed
+[2022.01.22-19.21.08:216][721]LogContentBrowser: Deferred new asset file creation: NewDialogueWave
+[2022.01.22-19.21.08:230][721]LogContentBrowser: Creating deferred item: NewDialogueWave
+[2022.01.22-19.21.11:465][108]LogContentBrowser: Attempting asset rename: NewDialogueWave -> DVS40
+[2022.01.22-19.21.11:466][108]LogContentBrowser: End creating deferred item NewDialogueWave
+[2022.01.22-19.21.15:546][588]LogAssetEditorSubsystem: Opening Asset editor for DialogueWave /Game/Maps/Dialogue_Visitation/DVS40.DVS40
+[2022.01.22-19.21.26:029][493]LogSavePackage: Moving '../../../../../SPAC_PRISON/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Saved/DVS40CEBBC51E478309ED9EDBA987F890EF93.tmp' to '../../../../../SPAC_PRISON/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Content/Maps/Dialogue_Visitation/DVS40.uasset'
+[2022.01.22-19.21.26:043][493]AssetCheck: New page: Asset Save: DVS40
+[2022.01.22-19.21.26:043][493]LogContentValidation: Display: Validating DialogueWave /Game/Maps/Dialogue_Visitation/DVS40.DVS40
+[2022.01.22-19.21.26:918][595]LogSlate: Window 'DVS40' being destroyed
+[2022.01.22-19.21.26:923][595]LogSlate: Window 'DVS40' being destroyed
+[2022.01.22-19.21.28:700][797]LogAssetEditorSubsystem: Opening Asset editor for DialogueWave /Game/Maps/Dialogue_Visitation/DVS39.DVS39
+[2022.01.22-19.21.39:803][ 84]LogSlate: Window 'DVS39' being destroyed
+[2022.01.22-19.21.39:811][ 84]LogSlate: Window 'DVS39' being destroyed
+[2022.01.22-19.21.41:070][225]LogAssetEditorSubsystem: Opening Asset editor for DialogueWave /Game/Maps/Dialogue_Visitation/DVS40.DVS40
+[2022.01.22-19.21.42:500][378]LogSlate: Window 'DVS40' being destroyed
+[2022.01.22-19.21.42:506][378]LogSlate: Window 'DVS40' being destroyed
+[2022.01.22-19.21.43:305][467]LogAssetEditorSubsystem: Opening Asset editor for DialogueWave /Game/Maps/Dialogue_Visitation/DVS39.DVS39
+[2022.01.22-19.21.45:062][661]LogSlate: Window 'DVS39' being destroyed
+[2022.01.22-19.21.45:069][661]LogSlate: Window 'DVS39' being destroyed
