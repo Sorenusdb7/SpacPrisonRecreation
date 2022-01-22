@@ -1273,3 +1273,22 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.01.22-13.54.24:904][637]LogSavePackage: Moving '../../../../../SPAC_PRISON/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Saved/D1E315893C42EA0AD6610C1A95E0E204D2.tmp' to '../../../../../SPAC_PRISON/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Content/Maps/Sounds/D1.uasset'
 [2022.01.22-13.54.24:915][637]AssetCheck: New page: Asset Save: D1
 [2022.01.22-13.54.24:915][637]LogContentValidation: Display: Validating DialogueWave /Game/Maps/Sounds/D1.D1
+[2022.01.22-13.55.07:803][523]LogAssetEditorSubsystem: Opening Asset editor for DialogueVoice /Game/Maps/Sounds/DV1.DV1
+[2022.01.22-13.55.30:689][233]LogSlate: Window 'DV1 - Property Editor' being destroyed
+[2022.01.22-13.55.30:696][233]LogSlate: Window 'DV1 - Property Editor' being destroyed
+[2022.01.22-13.56.18:288][785]LogAssetEditorSubsystem: Opening Asset editor for DialogueVoice /Game/Maps/Sounds/DV1.DV1
+[2022.01.22-13.56.34:271][689]LogSlate: Window 'DV1' being destroyed
+[2022.01.22-13.56.34:278][689]LogSlate: Window 'DV1' being destroyed
+[2022.01.22-13.56.35:302][808]LogAssetEditorSubsystem: Opening Asset editor for DialogueWave /Game/Maps/Sounds/D1.D1
+[2022.01.22-13.57.46:068][362]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2022.01.22-13.57.46:069][362]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_1' took 0.013
+[2022.01.22-13.57.46:070][362]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Maps/Sounds/D1] ([1] browsable assets)...
+[2022.01.22-13.57.46:070][362]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/Sounds/D1]
+[2022.01.22-13.57.46:086][362]LogSavePackage: Moving '../../../../../SPAC_PRISON/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Saved/D1_Auto298BE065A4819FD59941025A2EFFB9F69.tmp' to '../../../../../SPAC_PRISON/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Saved/Autosaves/Game/Maps/Sounds/D1_Auto2.uasset'
+[2022.01.22-13.57.46:086][362]LogFileHelpers: Auto-saving content packages took 0.017
+[2022.01.22-13.59.37:592][ 79]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Sounds/D1" FILE="../../../../../SPAC_PRISON/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Content/Maps/Sounds/D1.uasset" SILENT=true
+[2022.01.22-13.59.37:593][ 79]LogSavePackage: Moving '../../../../../SPAC_PRISON/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Saved/D1C73D01934E1F072A2E27BFA219B8E70F.tmp' to '../../../../../SPAC_PRISON/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Content/Maps/Sounds/D1.uasset'
+[2022.01.22-13.59.37:603][ 79]AssetCheck: New page: Asset Save: D1
+[2022.01.22-13.59.37:603][ 79]LogContentValidation: Display: Validating DialogueWave /Game/Maps/Sounds/D1.D1
+[2022.01.22-13.59.50:844][662]LogSlate: Window 'D1' being destroyed
+[2022.01.22-13.59.50:850][662]LogSlate: Window 'D1' being destroyed
