@@ -1990,3 +1990,419 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.01.22-18.57.40:646][127]LogContentValidation: Display: Validating DialogueWave /Game/Maps/Dialogue_Visitation/DV3.DV3
 [2022.01.22-18.57.42:091][299]LogSlate: Window 'DV3' being destroyed
 [2022.01.22-18.57.42:097][299]LogSlate: Window 'DV3' being destroyed
+[2022.01.22-18.58.05:344][486]LogContentBrowser: Deferred new asset file creation: NewDialogueWave
+[2022.01.22-18.58.05:356][486]LogContentBrowser: Creating deferred item: NewDialogueWave
+[2022.01.22-18.58.09:010][925]LogContentBrowser: Attempting asset rename: NewDialogueWave -> DV4
+[2022.01.22-18.58.09:011][925]LogContentBrowser: End creating deferred item NewDialogueWave
+[2022.01.22-18.58.18:552][ 58]LogAssetEditorSubsystem: Opening Asset editor for DialogueWave /Game/Maps/Dialogue_Visitation/DV4.DV4
+[2022.01.22-18.58.34:323][881]LogSavePackage: Moving '../../../../../SPAC_PRISON/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Saved/DV40D8F5C22492765BD698404BA9BB8D7A7.tmp' to '../../../../../SPAC_PRISON/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Content/Maps/Dialogue_Visitation/DV4.uasset'
+[2022.01.22-18.58.34:339][881]AssetCheck: New page: Asset Save: DV4
+[2022.01.22-18.58.34:339][881]LogContentValidation: Display: Validating DialogueWave /Game/Maps/Dialogue_Visitation/DV4.DV4
+[2022.01.22-18.58.35:464][ 14]LogSlate: Window 'DV4' being destroyed
+[2022.01.22-18.58.35:470][ 14]LogSlate: Window 'DV4' being destroyed
+[2022.01.22-18.58.40:860][654]LogAssetEditorSubsystem: Opening Asset editor for DialogueWave /Game/Maps/Dialogue_Visitation/DV1.DV1
+[2022.01.22-18.58.42:564][843]LogSlate: Window 'DV1' being destroyed
+[2022.01.22-18.58.42:570][843]LogSlate: Window 'DV1' being destroyed
+[2022.01.22-18.58.53:981][178]LogContentBrowser: Attempting asset rename: DV1 -> DV1
+[2022.01.22-18.59.04:833][454]LogContentBrowser: Attempting asset rename: DV1 -> DVS1
+[2022.01.22-18.59.04:879][454]LogSavePackage: Moving '../../../../../SPAC_PRISON/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Saved/DVS10D1012A9444FA681A65CB3B96FE18526.tmp' to '../../../../../SPAC_PRISON/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Content/Maps/Dialogue_Visitation/DVS1.uasset'
+[2022.01.22-18.59.04:963][454]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2022.01.22-18.59.04:999][454]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2022.01.22-18.59.05:015][454]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2022.01.22-18.59.05:043][454]AssetCheck: New page: Asset Save: DVS1
+[2022.01.22-18.59.05:043][454]LogContentValidation: Display: Validating DialogueWave /Game/Maps/Dialogue_Visitation/DVS1.DVS1
+[2022.01.22-18.59.10:792][122]LogContentBrowser: Attempting asset rename: DV2 -> DVS2
+[2022.01.22-18.59.10:831][122]LogSavePackage: Moving '../../../../../SPAC_PRISON/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Saved/DVS284BFA5A64CD3A34D24DB269B075D140F.tmp' to '../../../../../SPAC_PRISON/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Content/Maps/Dialogue_Visitation/DVS2.uasset'
+[2022.01.22-18.59.10:893][122]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2022.01.22-18.59.10:918][122]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2022.01.22-18.59.10:930][122]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.01.22-18.59.10:955][122]AssetCheck: New page: Asset Save: DVS2
+[2022.01.22-18.59.10:955][122]LogContentValidation: Display: Validating DialogueWave /Game/Maps/Dialogue_Visitation/DVS2.DVS2
+[2022.01.22-18.59.16:203][716]LogContentBrowser: Attempting asset rename: DV4 -> DVS4
+[2022.01.22-18.59.16:249][716]LogSavePackage: Moving '../../../../../SPAC_PRISON/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Saved/DVS4B54D43244B46219CEE771EA24C7845C0.tmp' to '../../../../../SPAC_PRISON/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Content/Maps/Dialogue_Visitation/DVS4.uasset'
+[2022.01.22-18.59.16:316][716]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2022.01.22-18.59.16:340][716]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2022.01.22-18.59.16:357][716]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.01.22-18.59.16:389][716]AssetCheck: New page: Asset Save: DVS4
+[2022.01.22-18.59.16:389][716]LogContentValidation: Display: Validating DialogueWave /Game/Maps/Dialogue_Visitation/DVS4.DVS4
+[2022.01.22-18.59.18:828][987]LogContentBrowser: Attempting asset rename: DV3 -> DV3
+[2022.01.22-18.59.22:562][419]LogContentBrowser: Attempting asset rename: DV3 -> DVS3
+[2022.01.22-18.59.22:619][419]LogSavePackage: Moving '../../../../../SPAC_PRISON/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Saved/DVS38A125AFF4AE180CEB7508CA4A24CCB43.tmp' to '../../../../../SPAC_PRISON/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Content/Maps/Dialogue_Visitation/DVS3.uasset'
+[2022.01.22-18.59.22:686][419]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2022.01.22-18.59.22:712][419]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2022.01.22-18.59.22:727][419]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.01.22-18.59.22:758][419]AssetCheck: New page: Asset Save: DVS3
+[2022.01.22-18.59.22:758][419]LogContentValidation: Display: Validating DialogueWave /Game/Maps/Dialogue_Visitation/DVS3.DVS3
+[2022.01.22-18.59.30:271][268]LogContentBrowser: Deferred new asset file creation: NewDialogueWave
+[2022.01.22-18.59.30:283][268]LogContentBrowser: Creating deferred item: NewDialogueWave
+[2022.01.22-18.59.35:237][863]LogContentBrowser: Attempting asset rename: NewDialogueWave -> DVS5
+[2022.01.22-18.59.35:238][863]LogContentBrowser: End creating deferred item NewDialogueWave
+[2022.01.22-18.59.36:064][958]LogAssetEditorSubsystem: Opening Asset editor for DialogueWave /Game/Maps/Dialogue_Visitation/DVS5.DVS5
+[2022.01.22-19.00.10:795][ 31]LogSavePackage: Moving '../../../../../SPAC_PRISON/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Saved/DVS520427D404829EDBC0458399C728BFD7F.tmp' to '../../../../../SPAC_PRISON/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Content/Maps/Dialogue_Visitation/DVS5.uasset'
+[2022.01.22-19.00.10:811][ 31]AssetCheck: New page: Asset Save: DVS5
+[2022.01.22-19.00.10:811][ 31]LogContentValidation: Display: Validating DialogueWave /Game/Maps/Dialogue_Visitation/DVS5.DVS5
+[2022.01.22-19.00.11:746][141]LogSlate: Window 'DVS5' being destroyed
+[2022.01.22-19.00.11:752][141]LogSlate: Window 'DVS5' being destroyed
+[2022.01.22-19.00.18:267][877]LogContentBrowser: Deferred new asset file creation: NewDialogueWave
+[2022.01.22-19.00.18:278][877]LogContentBrowser: Creating deferred item: NewDialogueWave
+[2022.01.22-19.00.21:141][221]LogContentBrowser: Attempting asset rename: NewDialogueWave -> DVS6
+[2022.01.22-19.00.21:141][221]LogContentBrowser: End creating deferred item NewDialogueWave
+[2022.01.22-19.00.22:056][328]LogAssetEditorSubsystem: Opening Asset editor for DialogueWave /Game/Maps/Dialogue_Visitation/DVS6.DVS6
+[2022.01.22-19.00.41:214][744]LogSavePackage: Moving '../../../../../SPAC_PRISON/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Saved/DVS6C076EAC74932315BD899ACA80DADE8A4.tmp' to '../../../../../SPAC_PRISON/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Content/Maps/Dialogue_Visitation/DVS6.uasset'
+[2022.01.22-19.00.41:227][744]AssetCheck: New page: Asset Save: DVS6
+[2022.01.22-19.00.41:227][744]LogContentValidation: Display: Validating DialogueWave /Game/Maps/Dialogue_Visitation/DVS6.DVS6
+[2022.01.22-19.00.43:138][971]LogSlate: Window 'DVS6' being destroyed
+[2022.01.22-19.00.43:143][971]LogSlate: Window 'DVS6' being destroyed
+[2022.01.22-19.00.43:834][ 42]LogAssetEditorSubsystem: Opening Asset editor for DialogueWave /Game/Maps/Dialogue_Visitation/DVS5.DVS5
+[2022.01.22-19.00.50:782][866]LogSlate: Window 'DVS5' being destroyed
+[2022.01.22-19.00.50:788][866]LogSlate: Window 'DVS5' being destroyed
+[2022.01.22-19.00.57:076][580]LogContentBrowser: Deferred new asset file creation: NewDialogueWave
+[2022.01.22-19.00.57:086][580]LogContentBrowser: Creating deferred item: NewDialogueWave
+[2022.01.22-19.01.06:346][ 59]LogContentBrowser: Attempting asset rename: NewDialogueWave -> NewDialogueWave
+[2022.01.22-19.01.06:347][ 59]LogContentBrowser: End creating deferred item NewDialogueWave
+[2022.01.22-19.01.07:296][134]LogAssetEditorSubsystem: Opening Asset editor for DialogueWave /Game/Maps/Dialogue_Visitation/NewDialogueWave.NewDialogueWave
+[2022.01.22-19.01.08:409][258]LogSlate: Window 'NewDialogueWave' being destroyed
+[2022.01.22-19.01.08:415][258]LogSlate: Window 'NewDialogueWave' being destroyed
+[2022.01.22-19.01.09:058][332]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/NewDialogueWave.NewDialogueWave).
+[2022.01.22-19.01.09:065][333]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/NewDialogueWave.NewDialogueWave).
+[2022.01.22-19.01.09:072][334]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/NewDialogueWave.NewDialogueWave).
+[2022.01.22-19.01.09:081][335]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/NewDialogueWave.NewDialogueWave).
+[2022.01.22-19.01.09:089][336]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/NewDialogueWave.NewDialogueWave).
+[2022.01.22-19.01.09:111][337]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/NewDialogueWave.NewDialogueWave).
+[2022.01.22-19.01.09:122][338]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/NewDialogueWave.NewDialogueWave).
+[2022.01.22-19.01.09:128][339]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/NewDialogueWave.NewDialogueWave).
+[2022.01.22-19.01.09:136][340]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/NewDialogueWave.NewDialogueWave).
+[2022.01.22-19.01.09:145][341]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/NewDialogueWave.NewDialogueWave).
+[2022.01.22-19.01.09:154][342]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/NewDialogueWave.NewDialogueWave).
+[2022.01.22-19.01.09:162][343]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/NewDialogueWave.NewDialogueWave).
+[2022.01.22-19.01.09:170][344]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/NewDialogueWave.NewDialogueWave).
+[2022.01.22-19.01.09:194][345]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/NewDialogueWave.NewDialogueWave).
+[2022.01.22-19.01.09:211][346]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/NewDialogueWave.NewDialogueWave).
+[2022.01.22-19.01.09:230][347]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/NewDialogueWave.NewDialogueWave).
+[2022.01.22-19.01.09:250][348]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/NewDialogueWave.NewDialogueWave).
+[2022.01.22-19.01.09:278][349]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/NewDialogueWave.NewDialogueWave).
+[2022.01.22-19.01.09:288][350]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/NewDialogueWave.NewDialogueWave).
+[2022.01.22-19.01.09:299][351]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/NewDialogueWave.NewDialogueWave).
+[2022.01.22-19.01.09:306][352]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/NewDialogueWave.NewDialogueWave).
+[2022.01.22-19.01.09:319][353]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/NewDialogueWave.NewDialogueWave).
+[2022.01.22-19.01.09:329][354]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/NewDialogueWave.NewDialogueWave).
+[2022.01.22-19.01.09:333][355]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/NewDialogueWave.NewDialogueWave).
+[2022.01.22-19.01.09:342][356]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/NewDialogueWave.NewDialogueWave).
+[2022.01.22-19.01.09:350][357]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/NewDialogueWave.NewDialogueWave).
+[2022.01.22-19.01.09:369][358]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/NewDialogueWave.NewDialogueWave).
+[2022.01.22-19.01.09:387][359]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/NewDialogueWave.NewDialogueWave).
+[2022.01.22-19.01.09:411][360]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/NewDialogueWave.NewDialogueWave).
+[2022.01.22-19.01.09:423][361]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/NewDialogueWave.NewDialogueWave).
+[2022.01.22-19.01.09:430][362]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/NewDialogueWave.NewDialogueWave).
+[2022.01.22-19.01.09:438][363]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/NewDialogueWave.NewDialogueWave).
+[2022.01.22-19.01.09:446][364]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/NewDialogueWave.NewDialogueWave).
+[2022.01.22-19.01.09:456][365]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/NewDialogueWave.NewDialogueWave).
+[2022.01.22-19.01.09:461][366]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/NewDialogueWave.NewDialogueWave).
+[2022.01.22-19.01.09:479][367]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/NewDialogueWave.NewDialogueWave).
+[2022.01.22-19.01.09:486][368]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/NewDialogueWave.NewDialogueWave).
+[2022.01.22-19.01.09:494][369]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/NewDialogueWave.NewDialogueWave).
+[2022.01.22-19.01.09:504][370]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/NewDialogueWave.NewDialogueWave).
+[2022.01.22-19.01.09:513][371]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/NewDialogueWave.NewDialogueWave).
+[2022.01.22-19.01.09:522][372]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/NewDialogueWave.NewDialogueWave).
+[2022.01.22-19.01.09:530][373]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/NewDialogueWave.NewDialogueWave).
+[2022.01.22-19.01.09:550][374]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/NewDialogueWave.NewDialogueWave).
+[2022.01.22-19.01.09:559][375]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/NewDialogueWave.NewDialogueWave).
+[2022.01.22-19.01.09:568][376]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/NewDialogueWave.NewDialogueWave).
+[2022.01.22-19.01.09:577][377]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/NewDialogueWave.NewDialogueWave).
+[2022.01.22-19.01.09:590][378]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/NewDialogueWave.NewDialogueWave).
+[2022.01.22-19.01.09:597][379]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/NewDialogueWave.NewDialogueWave).
+[2022.01.22-19.01.09:605][380]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/NewDialogueWave.NewDialogueWave).
+[2022.01.22-19.01.09:613][381]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/NewDialogueWave.NewDialogueWave).
+[2022.01.22-19.01.09:620][382]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/NewDialogueWave.NewDialogueWave).
+[2022.01.22-19.01.09:628][383]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/NewDialogueWave.NewDialogueWave).
+[2022.01.22-19.01.09:636][384]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/NewDialogueWave.NewDialogueWave).
+[2022.01.22-19.01.09:644][385]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/NewDialogueWave.NewDialogueWave).
+[2022.01.22-19.01.09:653][386]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/NewDialogueWave.NewDialogueWave).
+[2022.01.22-19.01.09:661][387]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/NewDialogueWave.NewDialogueWave).
+[2022.01.22-19.01.09:669][388]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/NewDialogueWave.NewDialogueWave).
+[2022.01.22-19.01.09:677][389]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/NewDialogueWave.NewDialogueWave).
+[2022.01.22-19.01.09:685][390]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/NewDialogueWave.NewDialogueWave).
+[2022.01.22-19.01.09:695][391]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/NewDialogueWave.NewDialogueWave).
+[2022.01.22-19.01.09:704][392]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/NewDialogueWave.NewDialogueWave).
+[2022.01.22-19.01.09:711][393]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/NewDialogueWave.NewDialogueWave).
+[2022.01.22-19.01.09:719][394]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/NewDialogueWave.NewDialogueWave).
+[2022.01.22-19.01.09:727][395]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/NewDialogueWave.NewDialogueWave).
+[2022.01.22-19.01.09:738][396]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/NewDialogueWave.NewDialogueWave).
+[2022.01.22-19.01.09:746][397]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/NewDialogueWave.NewDialogueWave).
+[2022.01.22-19.01.09:756][398]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/NewDialogueWave.NewDialogueWave).
+[2022.01.22-19.01.09:762][399]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/NewDialogueWave.NewDialogueWave).
+[2022.01.22-19.01.09:771][400]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/NewDialogueWave.NewDialogueWave).
+[2022.01.22-19.01.09:779][401]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/NewDialogueWave.NewDialogueWave).
+[2022.01.22-19.01.09:787][402]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/NewDialogueWave.NewDialogueWave).
+[2022.01.22-19.01.09:798][403]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/NewDialogueWave.NewDialogueWave).
+[2022.01.22-19.01.09:807][404]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/NewDialogueWave.NewDialogueWave).
+[2022.01.22-19.01.09:815][405]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/NewDialogueWave.NewDialogueWave).
+[2022.01.22-19.01.09:834][406]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/NewDialogueWave.NewDialogueWave).
+[2022.01.22-19.01.09:841][407]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/NewDialogueWave.NewDialogueWave).
+[2022.01.22-19.01.09:849][408]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/NewDialogueWave.NewDialogueWave).
+[2022.01.22-19.01.09:860][409]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/NewDialogueWave.NewDialogueWave).
+[2022.01.22-19.01.09:869][410]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/NewDialogueWave.NewDialogueWave).
+[2022.01.22-19.01.09:878][411]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/NewDialogueWave.NewDialogueWave).
+[2022.01.22-19.01.09:887][412]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/NewDialogueWave.NewDialogueWave).
+[2022.01.22-19.01.09:892][413]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/NewDialogueWave.NewDialogueWave).
+[2022.01.22-19.01.09:901][414]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/NewDialogueWave.NewDialogueWave).
+[2022.01.22-19.01.09:908][415]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/NewDialogueWave.NewDialogueWave).
+[2022.01.22-19.01.09:918][416]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/NewDialogueWave.NewDialogueWave).
+[2022.01.22-19.01.09:925][417]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/NewDialogueWave.NewDialogueWave).
+[2022.01.22-19.01.09:933][418]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/NewDialogueWave.NewDialogueWave).
+[2022.01.22-19.01.09:941][419]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/NewDialogueWave.NewDialogueWave).
+[2022.01.22-19.01.09:951][420]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/NewDialogueWave.NewDialogueWave).
+[2022.01.22-19.01.09:959][421]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/NewDialogueWave.NewDialogueWave).
+[2022.01.22-19.01.09:968][422]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/NewDialogueWave.NewDialogueWave).
+[2022.01.22-19.01.09:978][423]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/NewDialogueWave.NewDialogueWave).
+[2022.01.22-19.01.09:985][424]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/NewDialogueWave.NewDialogueWave).
+[2022.01.22-19.01.09:994][425]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/NewDialogueWave.NewDialogueWave).
+[2022.01.22-19.01.10:003][426]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/NewDialogueWave.NewDialogueWave).
+[2022.01.22-19.01.10:010][427]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/NewDialogueWave.NewDialogueWave).
+[2022.01.22-19.01.10:019][428]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/NewDialogueWave.NewDialogueWave).
+[2022.01.22-19.01.10:028][429]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/NewDialogueWave.NewDialogueWave).
+[2022.01.22-19.01.10:035][430]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/NewDialogueWave.NewDialogueWave).
+[2022.01.22-19.01.10:043][431]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/NewDialogueWave.NewDialogueWave).
+[2022.01.22-19.01.10:050][432]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/NewDialogueWave.NewDialogueWave).
+[2022.01.22-19.01.10:059][433]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/NewDialogueWave.NewDialogueWave).
+[2022.01.22-19.01.10:067][434]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/NewDialogueWave.NewDialogueWave).
+[2022.01.22-19.01.10:075][435]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/NewDialogueWave.NewDialogueWave).
+[2022.01.22-19.01.10:084][436]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/NewDialogueWave.NewDialogueWave).
+[2022.01.22-19.01.10:091][437]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/NewDialogueWave.NewDialogueWave).
+[2022.01.22-19.01.10:100][438]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/NewDialogueWave.NewDialogueWave).
+[2022.01.22-19.01.10:108][439]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/NewDialogueWave.NewDialogueWave).
+[2022.01.22-19.01.10:119][440]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/NewDialogueWave.NewDialogueWave).
+[2022.01.22-19.01.10:128][441]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/NewDialogueWave.NewDialogueWave).
+[2022.01.22-19.01.10:133][442]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/NewDialogueWave.NewDialogueWave).
+[2022.01.22-19.01.10:142][443]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/NewDialogueWave.NewDialogueWave).
+[2022.01.22-19.01.10:151][444]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/NewDialogueWave.NewDialogueWave).
+[2022.01.22-19.01.10:159][445]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/NewDialogueWave.NewDialogueWave).
+[2022.01.22-19.01.10:169][446]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/NewDialogueWave.NewDialogueWave).
+[2022.01.22-19.01.10:175][447]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/NewDialogueWave.NewDialogueWave).
+[2022.01.22-19.01.10:183][448]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/NewDialogueWave.NewDialogueWave).
+[2022.01.22-19.01.10:192][449]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/NewDialogueWave.NewDialogueWave).
+[2022.01.22-19.01.10:201][450]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/NewDialogueWave.NewDialogueWave).
+[2022.01.22-19.01.10:209][451]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/NewDialogueWave.NewDialogueWave).
+[2022.01.22-19.01.15:668][101]LogContentBrowser: Attempting asset rename: NewDialogueWave -> DSV7
+[2022.01.22-19.01.15:710][101]LogSavePackage: Moving '../../../../../SPAC_PRISON/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Saved/DSV73BFAB2274BACEAB40747DFBA6885A021.tmp' to '../../../../../SPAC_PRISON/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Content/Maps/Dialogue_Visitation/DSV7.uasset'
+[2022.01.22-19.01.15:781][101]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2022.01.22-19.01.15:806][101]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2022.01.22-19.01.15:820][101]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.01.22-19.01.15:845][101]AssetCheck: New page: Asset Save: DSV7
+[2022.01.22-19.01.15:845][101]LogContentValidation: Display: Validating DialogueWave /Game/Maps/Dialogue_Visitation/DSV7.DSV7
+[2022.01.22-19.01.17:616][308]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DSV7.DSV7).
+[2022.01.22-19.01.17:622][309]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DSV7.DSV7).
+[2022.01.22-19.01.17:629][310]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DSV7.DSV7).
+[2022.01.22-19.01.17:637][311]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DSV7.DSV7).
+[2022.01.22-19.01.17:645][312]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DSV7.DSV7).
+[2022.01.22-19.01.17:656][313]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DSV7.DSV7).
+[2022.01.22-19.01.17:663][314]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DSV7.DSV7).
+[2022.01.22-19.01.17:672][315]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DSV7.DSV7).
+[2022.01.22-19.01.17:696][316]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DSV7.DSV7).
+[2022.01.22-19.01.17:705][317]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DSV7.DSV7).
+[2022.01.22-19.01.17:713][318]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DSV7.DSV7).
+[2022.01.22-19.01.17:720][319]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DSV7.DSV7).
+[2022.01.22-19.01.17:729][320]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DSV7.DSV7).
+[2022.01.22-19.01.17:753][321]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DSV7.DSV7).
+[2022.01.22-19.01.17:766][322]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DSV7.DSV7).
+[2022.01.22-19.01.17:779][323]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DSV7.DSV7).
+[2022.01.22-19.01.17:793][324]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DSV7.DSV7).
+[2022.01.22-19.01.17:814][325]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DSV7.DSV7).
+[2022.01.22-19.01.17:842][326]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DSV7.DSV7).
+[2022.01.22-19.01.17:850][327]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DSV7.DSV7).
+[2022.01.22-19.01.17:864][328]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DSV7.DSV7).
+[2022.01.22-19.01.17:875][329]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DSV7.DSV7).
+[2022.01.22-19.01.17:881][330]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DSV7.DSV7).
+[2022.01.22-19.01.17:906][331]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DSV7.DSV7).
+[2022.01.22-19.01.17:946][332]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DSV7.DSV7).
+[2022.01.22-19.01.17:969][333]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DSV7.DSV7).
+[2022.01.22-19.01.17:976][334]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DSV7.DSV7).
+[2022.01.22-19.01.17:984][335]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DSV7.DSV7).
+[2022.01.22-19.01.17:992][336]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DSV7.DSV7).
+[2022.01.22-19.01.18:001][337]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DSV7.DSV7).
+[2022.01.22-19.01.18:009][338]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DSV7.DSV7).
+[2022.01.22-19.01.18:016][339]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DSV7.DSV7).
+[2022.01.22-19.01.18:024][340]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DSV7.DSV7).
+[2022.01.22-19.01.18:032][341]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DSV7.DSV7).
+[2022.01.22-19.01.18:041][342]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DSV7.DSV7).
+[2022.01.22-19.01.18:050][343]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DSV7.DSV7).
+[2022.01.22-19.01.18:059][344]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DSV7.DSV7).
+[2022.01.22-19.01.18:066][345]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DSV7.DSV7).
+[2022.01.22-19.01.18:075][346]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DSV7.DSV7).
+[2022.01.22-19.01.18:083][347]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DSV7.DSV7).
+[2022.01.22-19.01.18:092][348]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DSV7.DSV7).
+[2022.01.22-19.01.18:100][349]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DSV7.DSV7).
+[2022.01.22-19.01.18:111][350]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DSV7.DSV7).
+[2022.01.22-19.01.18:126][351]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DSV7.DSV7).
+[2022.01.22-19.01.18:132][352]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DSV7.DSV7).
+[2022.01.22-19.01.18:142][353]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DSV7.DSV7).
+[2022.01.22-19.01.18:151][354]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DSV7.DSV7).
+[2022.01.22-19.01.18:159][355]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DSV7.DSV7).
+[2022.01.22-19.01.18:181][356]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DSV7.DSV7).
+[2022.01.22-19.01.18:193][357]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DSV7.DSV7).
+[2022.01.22-19.01.18:202][358]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DSV7.DSV7).
+[2022.01.22-19.01.18:208][359]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DSV7.DSV7).
+[2022.01.22-19.01.18:217][360]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DSV7.DSV7).
+[2022.01.22-19.01.18:225][361]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DSV7.DSV7).
+[2022.01.22-19.01.18:234][362]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DSV7.DSV7).
+[2022.01.22-19.01.18:241][363]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DSV7.DSV7).
+[2022.01.22-19.01.18:252][364]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DSV7.DSV7).
+[2022.01.22-19.01.18:265][365]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DSV7.DSV7).
+[2022.01.22-19.01.18:272][366]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DSV7.DSV7).
+[2022.01.22-19.01.18:278][367]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DSV7.DSV7).
+[2022.01.22-19.01.18:286][368]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DSV7.DSV7).
+[2022.01.22-19.01.18:295][369]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DSV7.DSV7).
+[2022.01.22-19.01.18:303][370]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DSV7.DSV7).
+[2022.01.22-19.01.18:311][371]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DSV7.DSV7).
+[2022.01.22-19.01.18:319][372]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DSV7.DSV7).
+[2022.01.22-19.01.18:327][373]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DSV7.DSV7).
+[2022.01.22-19.01.18:336][374]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DSV7.DSV7).
+[2022.01.22-19.01.18:344][375]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DSV7.DSV7).
+[2022.01.22-19.01.18:353][376]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DSV7.DSV7).
+[2022.01.22-19.01.18:361][377]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DSV7.DSV7).
+[2022.01.22-19.01.18:369][378]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DSV7.DSV7).
+[2022.01.22-19.01.18:377][379]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DSV7.DSV7).
+[2022.01.22-19.01.18:385][380]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DSV7.DSV7).
+[2022.01.22-19.01.18:394][381]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DSV7.DSV7).
+[2022.01.22-19.01.18:403][382]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DSV7.DSV7).
+[2022.01.22-19.01.18:412][383]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DSV7.DSV7).
+[2022.01.22-19.01.18:420][384]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DSV7.DSV7).
+[2022.01.22-19.01.18:428][385]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DSV7.DSV7).
+[2022.01.22-19.01.18:437][386]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DSV7.DSV7).
+[2022.01.22-19.01.18:445][387]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DSV7.DSV7).
+[2022.01.22-19.01.18:454][388]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DSV7.DSV7).
+[2022.01.22-19.01.18:461][389]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DSV7.DSV7).
+[2022.01.22-19.01.18:470][390]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DSV7.DSV7).
+[2022.01.22-19.01.18:479][391]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DSV7.DSV7).
+[2022.01.22-19.01.18:494][392]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DSV7.DSV7).
+[2022.01.22-19.01.18:502][393]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DSV7.DSV7).
+[2022.01.22-19.01.18:509][394]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DSV7.DSV7).
+[2022.01.22-19.01.18:517][395]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DSV7.DSV7).
+[2022.01.22-19.01.18:525][396]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DSV7.DSV7).
+[2022.01.22-19.01.18:532][397]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DSV7.DSV7).
+[2022.01.22-19.01.18:541][398]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DSV7.DSV7).
+[2022.01.22-19.01.18:549][399]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DSV7.DSV7).
+[2022.01.22-19.01.18:558][400]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DSV7.DSV7).
+[2022.01.22-19.01.18:565][401]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DSV7.DSV7).
+[2022.01.22-19.01.18:574][402]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DSV7.DSV7).
+[2022.01.22-19.01.18:582][403]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DSV7.DSV7).
+[2022.01.22-19.01.18:590][404]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DSV7.DSV7).
+[2022.01.22-19.01.18:599][405]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DSV7.DSV7).
+[2022.01.22-19.01.18:608][406]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DSV7.DSV7).
+[2022.01.22-19.01.18:616][407]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DSV7.DSV7).
+[2022.01.22-19.01.18:624][408]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DSV7.DSV7).
+[2022.01.22-19.01.18:632][409]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DSV7.DSV7).
+[2022.01.22-19.01.18:641][410]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DSV7.DSV7).
+[2022.01.22-19.01.18:650][411]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DSV7.DSV7).
+[2022.01.22-19.01.18:659][412]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DSV7.DSV7).
+[2022.01.22-19.01.18:667][413]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DSV7.DSV7).
+[2022.01.22-19.01.18:675][414]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DSV7.DSV7).
+[2022.01.22-19.01.18:683][415]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DSV7.DSV7).
+[2022.01.22-19.01.18:691][416]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DSV7.DSV7).
+[2022.01.22-19.01.18:700][417]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DSV7.DSV7).
+[2022.01.22-19.01.18:709][418]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DSV7.DSV7).
+[2022.01.22-19.01.18:715][419]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DSV7.DSV7).
+[2022.01.22-19.01.18:725][420]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DSV7.DSV7).
+[2022.01.22-19.01.18:732][421]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DSV7.DSV7).
+[2022.01.22-19.01.23:919][ 42]LogContentBrowser: Attempting asset rename: DSV7 -> DVS7
+[2022.01.22-19.01.23:959][ 42]LogSavePackage: Moving '../../../../../SPAC_PRISON/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Saved/DVS761B777604BD638B47B3DF2A1C71A52D2.tmp' to '../../../../../SPAC_PRISON/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Content/Maps/Dialogue_Visitation/DVS7.uasset'
+[2022.01.22-19.01.24:030][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2022.01.22-19.01.24:050][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2022.01.22-19.01.24:064][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.01.22-19.01.24:090][ 42]AssetCheck: New page: Asset Save: DVS7
+[2022.01.22-19.01.24:090][ 42]LogContentValidation: Display: Validating DialogueWave /Game/Maps/Dialogue_Visitation/DVS7.DVS7
+[2022.01.22-19.01.24:932][140]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS7.DVS7).
+[2022.01.22-19.01.24:937][141]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS7.DVS7).
+[2022.01.22-19.01.24:946][142]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS7.DVS7).
+[2022.01.22-19.01.24:954][143]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS7.DVS7).
+[2022.01.22-19.01.24:962][144]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS7.DVS7).
+[2022.01.22-19.01.24:970][145]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS7.DVS7).
+[2022.01.22-19.01.24:979][146]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS7.DVS7).
+[2022.01.22-19.01.24:987][147]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS7.DVS7).
+[2022.01.22-19.01.24:997][148]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS7.DVS7).
+[2022.01.22-19.01.25:008][149]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS7.DVS7).
+[2022.01.22-19.01.25:030][150]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS7.DVS7).
+[2022.01.22-19.01.25:038][151]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS7.DVS7).
+[2022.01.22-19.01.25:046][152]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS7.DVS7).
+[2022.01.22-19.01.25:054][153]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS7.DVS7).
+[2022.01.22-19.01.25:063][154]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS7.DVS7).
+[2022.01.22-19.01.25:073][155]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS7.DVS7).
+[2022.01.22-19.01.25:093][156]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS7.DVS7).
+[2022.01.22-19.01.25:107][157]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS7.DVS7).
+[2022.01.22-19.01.25:118][158]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS7.DVS7).
+[2022.01.22-19.01.25:136][159]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS7.DVS7).
+[2022.01.22-19.01.25:145][160]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS7.DVS7).
+[2022.01.22-19.01.25:163][161]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS7.DVS7).
+[2022.01.22-19.01.25:176][162]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS7.DVS7).
+[2022.01.22-19.01.25:187][163]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS7.DVS7).
+[2022.01.22-19.01.25:191][164]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS7.DVS7).
+[2022.01.22-19.01.25:211][165]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS7.DVS7).
+[2022.01.22-19.01.25:239][166]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS7.DVS7).
+[2022.01.22-19.01.25:246][167]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS7.DVS7).
+[2022.01.22-19.01.25:254][168]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS7.DVS7).
+[2022.01.22-19.01.25:261][169]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS7.DVS7).
+[2022.01.22-19.01.25:269][170]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS7.DVS7).
+[2022.01.22-19.01.25:278][171]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS7.DVS7).
+[2022.01.22-19.01.25:288][172]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS7.DVS7).
+[2022.01.22-19.01.25:309][173]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS7.DVS7).
+[2022.01.22-19.01.25:334][174]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS7.DVS7).
+[2022.01.22-19.01.25:340][175]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS7.DVS7).
+[2022.01.22-19.01.25:349][176]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS7.DVS7).
+[2022.01.22-19.01.25:358][177]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS7.DVS7).
+[2022.01.22-19.01.25:365][178]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS7.DVS7).
+[2022.01.22-19.01.25:375][179]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS7.DVS7).
+[2022.01.22-19.01.25:383][180]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS7.DVS7).
+[2022.01.22-19.01.25:405][181]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS7.DVS7).
+[2022.01.22-19.01.25:425][182]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS7.DVS7).
+[2022.01.22-19.01.25:431][183]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS7.DVS7).
+[2022.01.22-19.01.25:439][184]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS7.DVS7).
+[2022.01.22-19.01.25:454][185]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS7.DVS7).
+[2022.01.22-19.01.25:459][186]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS7.DVS7).
+[2022.01.22-19.01.25:468][187]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS7.DVS7).
+[2022.01.22-19.01.25:489][188]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS7.DVS7).
+[2022.01.22-19.01.25:502][189]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS7.DVS7).
+[2022.01.22-19.01.25:539][190]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS7.DVS7).
+[2022.01.22-19.01.25:545][191]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS7.DVS7).
+[2022.01.22-19.01.25:554][192]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS7.DVS7).
+[2022.01.22-19.01.25:561][193]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS7.DVS7).
+[2022.01.22-19.01.25:571][194]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS7.DVS7).
+[2022.01.22-19.01.25:585][195]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS7.DVS7).
+[2022.01.22-19.01.25:591][196]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS7.DVS7).
+[2022.01.22-19.01.25:601][197]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS7.DVS7).
+[2022.01.22-19.01.25:609][198]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS7.DVS7).
+[2022.01.22-19.01.25:618][199]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS7.DVS7).
+[2022.01.22-19.01.25:626][200]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS7.DVS7).
+[2022.01.22-19.01.25:635][201]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS7.DVS7).
+[2022.01.22-19.01.25:643][202]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS7.DVS7).
+[2022.01.22-19.01.25:650][203]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS7.DVS7).
+[2022.01.22-19.01.25:658][204]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS7.DVS7).
+[2022.01.22-19.01.25:668][205]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS7.DVS7).
+[2022.01.22-19.01.25:674][206]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS7.DVS7).
+[2022.01.22-19.01.25:683][207]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS7.DVS7).
+[2022.01.22-19.01.25:691][208]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS7.DVS7).
+[2022.01.22-19.01.25:699][209]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS7.DVS7).
+[2022.01.22-19.01.25:707][210]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS7.DVS7).
+[2022.01.22-19.01.25:715][211]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS7.DVS7).
+[2022.01.22-19.01.25:725][212]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS7.DVS7).
+[2022.01.22-19.01.25:733][213]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS7.DVS7).
+[2022.01.22-19.01.25:741][214]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS7.DVS7).
+[2022.01.22-19.01.25:751][215]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS7.DVS7).
+[2022.01.22-19.01.25:758][216]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS7.DVS7).
+[2022.01.22-19.01.25:767][217]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS7.DVS7).
+[2022.01.22-19.01.25:775][218]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS7.DVS7).
+[2022.01.22-19.01.25:783][219]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS7.DVS7).
+[2022.01.22-19.01.25:791][220]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS7.DVS7).
+[2022.01.22-19.01.25:800][221]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS7.DVS7).
+[2022.01.22-19.01.25:809][222]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS7.DVS7).
+[2022.01.22-19.01.25:816][223]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS7.DVS7).
+[2022.01.22-19.01.25:824][224]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS7.DVS7).
+[2022.01.22-19.01.25:832][225]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS7.DVS7).
+[2022.01.22-19.01.25:840][226]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS7.DVS7).
+[2022.01.22-19.01.25:849][227]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS7.DVS7).
+[2022.01.22-19.01.25:858][228]LogAudio: Warning: UDialogueWave::GetWaveFromContext requires a Context.Speaker (/Game/Maps/Dialogue_Visitation/DVS7.DVS7).
+[2022.01.22-19.01.26:009][244]LogAssetEditorSubsystem: Opening Asset editor for DialogueWave /Game/Maps/Dialogue_Visitation/DVS7.DVS7
+[2022.01.22-19.01.41:276][972]LogSavePackage: Moving '../../../../../SPAC_PRISON/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Saved/DVS71099A7AC4A268D6240FFF5838A803B6D.tmp' to '../../../../../SPAC_PRISON/SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Content/Maps/Dialogue_Visitation/DVS7.uasset'
+[2022.01.22-19.01.41:297][972]AssetCheck: New page: Asset Save: DVS7
+[2022.01.22-19.01.41:297][972]LogContentValidation: Display: Validating DialogueWave /Game/Maps/Dialogue_Visitation/DVS7.DVS7
+[2022.01.22-19.01.42:281][ 84]LogSlate: Window 'DVS7' being destroyed
+[2022.01.22-19.01.42:285][ 84]LogSlate: Window 'DVS7' being destroyed
