@@ -1,4 +1,4 @@
 # SpacPrisonRecreation
 
 Testing
-[test link](OtherFile.md)
+[test link](OtherFile.MD)
