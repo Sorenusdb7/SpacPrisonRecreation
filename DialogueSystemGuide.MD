@@ -1,6 +1,7 @@
 How to implement the Dialogue System:   
    
 Unreal Engine 4 has a built in dialogue system. This system creates Dialogue waves and plays them using Unreal blueprints. These dialogue waves have subtitles attached to them that play when the dialogue wave plays.   
+   
 We use .wav files that are designated periods of pure silence in order do use this system to get subtitles that last for specified amounts of time without actually emitting an audible sound. We chose not to record the lines for the story because we weren’t confident we could get voice actors that would be able to do the lines justice (I.E. give quality voice acting that did not take away from the game by sucking the user out of the experience).   
    
 Here is a step-by-step guide of how to implement the Dialogue System for future areas:   
