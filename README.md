@@ -2,7 +2,7 @@
 
 Unreal Engine Version Number: 4.27.1   
    
-Summary:   
+Summary: The purpose of this iterative project is to create a digital reconstruction of the Spac Prison of Albania, which was a labor prison that operated during the nation's communist regime and was used to house disidents and political opponents of the party, so that the current and future generations of Albania can learn about this prison and era, and connect with the past generations that had to live through these times. Although the first iterations of the project were built to be accessed from the browser, the current version is an application-based version created using Unreal Engine 4, with the goal of eventually being made into a mobile device application. This version of the project takes the player through the story of an imaginary prisoner so that they can understand more directly what kind of lives the prisoners experienced while imprisoned here.   
    
 Included in this github repo are a series of markdown files that contain all of the information needed to continue work on this project. Just click on the links below to go to the markdown file containing the information you need.   
    
