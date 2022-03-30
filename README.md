@@ -13,5 +13,3 @@ Included in this github repo are a series of markdown files that contain all of 
 [How to create an area](EnvironmentCreationGuide.MD): This file will give general guidelines of how to approach the development of an environment if you are unfamiliar with Unreal Engine 4 or other similar game development softwares that develop 3D environments such as Unity.   
    
 [Third Party Assets](MaterialCredits.MD): This is a list of assets we used that we got from the Unreal Engine Marketplace, where we got each asset from, and who the developer listed in the Unreal Engine Marketplace was.   
-Green
-Blue
