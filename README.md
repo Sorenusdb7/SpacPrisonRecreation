@@ -2,7 +2,17 @@
 
 **Unreal Engine Version Number**: 4.27.1   
    
-<font size="40">Important</font>   
+**Important** When you clone this github repository, please note that their is a missing folder. This folder, called freematerials, contains files that were too big for the github repository. This is instead stored in a google drive as a zip file. As such, cloning this github repository properly to work on this project involves extra steps. Please follow these instructions:   
+   
+**Step 1**: Clone the repository. DO NOT open the project in Unreal Engine.   
+   
+**Step 2**: Download the freematerials zip file at this google drive link:    
+   
+**Step 3**: Unzip the freematerials zip file.   
+   
+**Step 4**: Put the unzipped freematerials folder inside the github repository at the following location:    
+   
+**Step 5**: Now you can open up your Unreal Project and make sure that all of the textures and materials are working and are properly applied to the meshes inside of the Unreal Engine environments.   
    
 Summary: The purpose of this iterative project is to create a digital reconstruction of the Spac Prison of Albania, which was a labor prison that operated during the nation's communist regime and was used to house disidents and political opponents of the party, so that the current and future generations of Albania can learn about this prison and era, and connect with the past generations that had to live through these times. Although the first iterations of the project were built to be accessed from the browser, the current version is an application-based version created using Unreal Engine 4, with the goal of eventually being made into a mobile device application. This version of the project takes the player through the story of an imaginary prisoner so that they can understand more directly what kind of lives the prisoners experienced while imprisoned here.   
    
