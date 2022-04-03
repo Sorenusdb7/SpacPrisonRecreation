@@ -2,7 +2,7 @@
 
 **Unreal Engine Version Number**: 4.27.1   
    
-**Important** When you clone this github repository, please note that their is a missing folder. This folder, called freematerials, contains files that were too big for the github repository. This is instead stored in a google drive as a zip file. As such, cloning this github repository properly to work on this project involves extra steps. Please follow these instructions:   
+**Important-When you clone this github repository, please note that their is a missing folder. This folder, called freematerials, contains files that were too big for the github repository. This is instead stored in a google drive as a zip file. As such, cloning this github repository properly to work on this project involves extra steps. Please follow these instructions:**   
    
 **Step 1**: Clone the repository. DO NOT open the project in Unreal Engine.   
    
