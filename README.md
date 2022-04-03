@@ -20,6 +20,6 @@ Included in this github repo are a series of markdown files that contain all of 
    
 [How to use Widgets](WidgetGuide.MD): This is a guide on the basics of how widgets work, so you can begin to get an idea of how to use them to create menus or UI features.   
    
-[Stuff](FutureFeatures.MD): This is a list of ideas that we had on future features that could be added to improve this app. This is mostly just a list that can save time on brainstorming, but does not have extensive information on any ideas, nor are these priority objectives over expanding the story and number of environments.   
+[Potential Future Features](FutureFeatures.MD): This is a list of ideas that we had on future features that could be added to improve this app. This is mostly just a list that can save time on brainstorming, but does not have extensive information on any ideas, nor are these priority objectives over expanding the story and number of environments.   
    
-[Stuff](Pitfalls.MD): This is a list of pitfalls and difficulties we ran into that caused us problems or delayed our work so that future groups can keep them in mind, and learn from our mistakes so that they don't make the same mistakes that we did.   
+[Things to watch out for](Pitfalls.MD): This is a list of pitfalls and difficulties we ran into that caused us problems or delayed our work so that future groups can keep them in mind, and learn from our mistakes so that they don't make the same mistakes that we did.   
