@@ -16,4 +16,4 @@ Included in this github repo are a series of markdown files that contain all of 
    
 [Humanoid Characters and Models](CHAR_ANIM.md): This is a guide on how to use Mixamo to find and implement humanoid character models and howw to animate those character models, so you can put ghostly figures into future environments and areas.   
    
-[Moodboard] (MOODBOARD.md): This is a moodboard to give future groups an idea of the emotions and atmosphere that we wanted to convey with our environment, and the inspirations we used for our artistic choices and designs for the areas we created so that future groups can match our tone and keep the application consistent.   
+[Moodboard] (MOODBOARD.MD): This is a moodboard to give future groups an idea of the emotions and atmosphere that we wanted to convey with our environment, and the inspirations we used for our artistic choices and designs for the areas we created so that future groups can match our tone and keep the application consistent.   
