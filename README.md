@@ -23,3 +23,5 @@ Included in this github repo are a series of markdown files that contain all of 
 [Potential Future Features](FutureFeatures.MD): This is a list of ideas that we had on future features that could be added to improve this app. This is mostly just a list that can save time on brainstorming, but does not have extensive information on any ideas, nor are these priority objectives over expanding the story and number of environments.   
    
 [Things to watch out for](Pitfalls.MD): This is a list of pitfalls and difficulties we ran into that caused us problems or delayed our work so that future groups can keep them in mind, and learn from our mistakes so that they don't make the same mistakes that we did.   
+   
+[Next Steps](NS.md): IMPORTANT-These are the most important things to work on to expand and finish this application. This is therefore a list of priority objectives for the group immediately following us to complete.   
