@@ -14,6 +14,6 @@ Included in this github repo are a series of markdown files that contain all of 
    
 [Third Party Assets](MaterialCredits.MD): This is a list of assets we used that we got from the Unreal Engine Marketplace, where we got each asset from, and who the developer listed in the Unreal Engine Marketplace was.   
    
-[Humanoid Characters and Models](CHAR_ANIM.md): This is a guide on how to use Mixamo to find and implement humanoid character models and howw to animate those character models, so you can put ghostly figures into future environments and areas.   
+[Humanoid Characters and Models](CHAR_ANIM.md): This is a guide on how to use Mixamo and other websites to find and implement humanoid character models and how to animate and rig those character models using Mixamo, so you can put ghostly figures into future environments and areas.   
    
 [Moodboard](MOODBOARD.MD): This is a moodboard to give future groups an idea of the emotions and atmosphere that we wanted to convey with our environment, and the inspirations we used for our artistic choices and designs for the areas we created so that future groups can match our tone and keep the application consistent.   
