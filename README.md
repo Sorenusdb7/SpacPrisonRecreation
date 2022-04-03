@@ -6,7 +6,7 @@
    
 **Step 1**: Clone the repository. DO NOT open the project in Unreal Engine.   
    
-**Step 2**: Download the freematerials zip file at this google drive link:    
+**Step 2**: Download the freematerials zip file at this google drive link: https://drive.google.com/drive/folders/152QpInGTxwBmCpDyBvxjXoxqS1jXsjyY?usp=sharing   
    
 **Step 3**: Unzip the freematerials zip file.   
    
