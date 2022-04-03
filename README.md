@@ -10,7 +10,7 @@
    
 **Step 3**: Unzip the freematerials zip file.   
    
-**Step 4**: Put the unzipped freematerials folder inside the github repository at the following location:    
+**Step 4**: Put the unzipped freematerials folder inside the github repository at the following location: SpacPrisonRecreation/SpacRecreationGameStart/SpacRecreationGame/Content   
    
 **Step 5**: Now you can open up your Unreal Project and make sure that all of the textures and materials are working and are properly applied to the meshes inside of the Unreal Engine environments.   
    
