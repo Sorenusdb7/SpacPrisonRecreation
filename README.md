@@ -37,3 +37,5 @@ Included in this github repo are a series of markdown files that contain all of 
 [Things to watch out for](Pitfalls.MD): This is a list of pitfalls and difficulties we ran into that caused us problems or delayed our work so that future groups can keep them in mind, and learn from our mistakes so that they don't make the same mistakes that we did.   
    
 [Next Steps](NS.md): IMPORTANT-These are the most important things to work on to expand and finish this application. This is therefore a list of priority objectives for the group immediately following us to complete.   
+   
+[Story Information](StoryHub.md): This file directs you to various notes on the story we created for the application.   
