@@ -1,4 +1,4 @@
-Current Story Script-   
+Main Story Outline-   
 2 Day storyline-Timeline long enough to give an idea of prison life and communicate a feeling of hopelessness, but short enough for a game/app-based short story
 Story will take place in Winter   
  - Intro-Introduce Main Character (a prisoner) and briefly give a reason why they were imprisoned (shows how easily and unfairly a person could’ve been imprisoned under the communist regime)   
