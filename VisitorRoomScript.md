@@ -1,4 +1,4 @@
- In spite of spending eight hours in the mines, I couldn’t tell if the temperature had changed at all. In fact, if anything, it felt even colder in contrast to the heat
+	In spite of spending eight hours in the mines, I couldn’t tell if the temperature had changed at all. In fact, if anything, it felt even colder in contrast to the heat
 of the mines. The long sleeves didn’t help with the winter air at all. I may as well have been naked for all the protection they provided. My fingers tingled and my
 face stung all the way to the family visitation room.   
 	I breathed outwards in relief when I finally got inside as I took stock of the room. It wasn’t warm per say, in fact it could be said that the room even felt unwelcoming, being split down the middle by the fence, but it was still warmer than being completely exposed outside. I walked over to the table, pulled out the chair and sat down.   
